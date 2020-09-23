@@ -1,0 +1,69 @@
+* Longterm
+** TODO [#A]  健身 [0/4]
+SCHEDULED: <2020-09-22 二 +1d>
+:PROPERTIES:
+:ID:       45f8fc0c-7301-4048-b117-dd4bd5065a91
+:LAST_REPEAT: [2020-09-22 二 21:12]
+:END:
+- State "DONE"       from "TODO"       [2020-09-22 二 21:12]
+- State "DONE"       from "TODO"       [2020-09-20 日 22:32]
+- Note taken on [2020-09-20 日 15:01]
+- [ ] 上肢肌肉训练
+- [ ] 下肢肌肉训练
+- [ ] 核心肌肉训练
+- [ ] 慢跑三公里
+** TODO [#A] 学习英语
+SCHEDULED: <2020-09-24 四 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2020-09-23 三 19:42]
+:END:
+
+
+- State "DONE"       from "TODO"       [2020-09-23 三 19:42]
+- State "DONE"       from "TODO"       [2020-09-22 二 21:11]
+- State "DONE"       from "TODO"       [2020-09-22 二 20:44]
+- State "DONE"       from "TODO"       [2020-09-20 日 22:46]
+* Weekly
+** Monday
+*** TODO 学习梵语字母
+SCHEDULED: <2020-09-21 一 +1w>
+*** TODO 学习临床诊断学
+SCHEDULED: <2020-09-21 一 +1w>
+** Tuesday
+*** TODO 学习临床诊断学
+SCHEDULED: <2020-09-29 二 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2020-09-22 二 15:23]
+:END:
+- State "DONE"       from "TODO"       [2020-09-22 二 15:23]
+*** TODO 学习实验诊断学
+SCHEDULED: <2020-09-22 一 +1w>
+** Wednesday 
+*** TODO 学习实验诊断学
+SCHEDULED: <2020-09-30 三 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2020-09-23 三 19:41]
+:END:
+- State "DONE"       from "TODO"       [2020-09-23 三 19:41]
+*** TODO 学习临床药理学
+SCHEDULED: <2020-09-23 一 +1w>
+** Thursday
+*** TODO 学习临床药理学
+SCHEDULED: <2020-09-24 一 +1w>
+*** TODO 学习影像学
+SCHEDULED: <2020-09-24 一 +1w>
+** Friday
+*** TODO 学习影像学
+SCHEDULED: <2020-09-25 一 +1w>
+*** TODO 学习超声诊断学
+SCHEDULED: <2020-09-25 一 +1w>
+** Saturday
+*** TODO 学习超声诊断学
+SCHEDULED: <2020-09-26 一 +1w>
+*** TODO 复习生化
+SCHEDULED: <2020-09-26 一 +1w>
+** Sunday
+*** TODO 复习生化
+SCHEDULED: <2020-09-27 一 +1w>
+*** TODO 学习梵语字母
+SCHEDULED: <2020-09-27 一 +1w>
