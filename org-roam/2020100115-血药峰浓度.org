@@ -1,0 +1,9 @@
+#+title: 血药峰浓度
+#+TAGS:名词解释
+
+* 定义
+:PROPERTIES:
+:ID:       a4780619-66dd-4fd6-b684-306ed4bffdac
+:END:
+- 指药物在吸收过程中出现最大的血药浓度
+  
