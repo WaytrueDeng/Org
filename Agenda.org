@@ -27,11 +27,12 @@ SCHEDULED: <2020-10-07 三 +1d>
 - [ ] 核心肌肉训练
 - [ ] 慢跑三公里
 ** TODO [#A] 学习英语
-SCHEDULED: <2020-10-06 二 +1d>
+SCHEDULED: <2020-10-07 三 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-06 二 09:12]
+:LAST_REPEAT: [2020-10-07 三 18:26]
 :END:
 
+- State "DONE"       from "TODO"       [2020-10-07 三 18:26]
 - State "DONE"       from "TODO"       [2020-10-06 二 09:12]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:52]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:52]
@@ -49,10 +50,11 @@ SCHEDULED: <2020-10-06 二 +1d>
 - State "DONE"       from "TODO"       [2020-09-22 二 20:44]
 - State "DONE"       from "TODO"       [2020-09-20 日 22:46]
 ** TODO [#A] 冥想
-SCHEDULED: <2020-10-06 二 +1d>
+SCHEDULED: <2020-10-07 三 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-06 二 09:12]
+:LAST_REPEAT: [2020-10-07 三 18:26]
 :END:
+- State "MISS"       from "TODO"       [2020-10-07 三 18:26]
 - State "MISS"       from "TODO"       [2020-10-06 二 09:12]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:52]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:52]
@@ -88,10 +90,11 @@ SCHEDULED: <2020-10-13 二 +1w>
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "DONE"       from "TODO"       [2020-09-22 二 15:23]
 *** TODO 学习实验诊断学
-SCHEDULED: <2020-10-06 二 +1w>
+SCHEDULED: <2020-10-13 二 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-09-25 五 10:00]
+:LAST_REPEAT: [2020-10-07 三 18:26]
 :END:
+- State "MISS"       from "TODO"       [2020-10-07 三 18:26]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 10:00]
 ** Wednesday 
 *** TODO 学习实验诊断学
