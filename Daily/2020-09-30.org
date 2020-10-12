@@ -1,93 +1,27 @@
 #+title: 2020-09-30
 
 * 名词解释                                                         :名词解释:
-** [[file:org-roam/2020093010-肾清除率.org][肾清除率]]
-:PROPERTIES:
-:ID:       f258812d-ece7-4f64-80be-45e1adfb42b7
-:END:
-** [[file:org-roam/2020093010-肾小管性酸中毒.org][肾小管性酸中毒]]
-:PROPERTIES:
-:ID:       9bc29766-6750-40b1-9b46-cb1fa5c2a584
-:END:
-** [[file:org-roam/2020093010-内生肌肝清除率.org][内生肌肝清除率]]
-:PROPERTIES:
-:ID:       52a32d02-301a-4503-b647-24e2685d65f5
-:END:
-** [[file:org-roam/2020093010-尿渗量.org][尿渗量]]
-:PROPERTIES:
-:ID:       bbe2207e-39a2-485f-9285-3179d8980da6
-:END:
-** [[file:org-roam/2020093010-肾小球滤过率.org][肾小球滤过率]]
-:PROPERTIES:
-:ID:       a2b220bf-9d14-4f6e-b1dd-797c19dd5e5f
-:END:
-** [[file:org-roam/2020093010-前清蛋白.org][前清蛋白]]
-:PROPERTIES:
-:ID:       3bbb5dde-b8a1-470b-afe9-c21f1e23eef9
-:END:
-** [[file:org-roam/2020093011-结合胆红素.org][结合胆红素]]
-:PROPERTIES:
-:ID:       e6ab0099-d4e8-4027-9d4e-2fb13b38a0b2
-:END:
-** [[file:org-roam/2020093011-阻塞性脂蛋白.org][阻塞性脂蛋白]]
-:PROPERTIES:
-:ID:       90d83ac7-e6e4-4880-8bb7-c3c6f6fd1963
-:END:
-** [[file:org-roam/2020093011-丙氨酸氨基转移酶.org][丙氨酸氨基转移酶]]
-:PROPERTIES:
-:ID:       13f1644f-df5e-4914-8fb9-7c51d4a385cf
-:END:
-** [[file:org-roam/2020093011-尿胆原.org][尿胆原]]
-:PROPERTIES:
-:ID:       c05d7ebc-ff47-4efb-9e4a-1e487eb15fed
-:END:
-** [[file:org-roam/2020093011-icg滞留率.org][ICG滞留率]]
-:PROPERTIES:
-:ID:       e0d044fc-0f61-4975-8035-117163a757fd
-:END:
-** [[file:org-roam/2020093011-piiip.org][PIIIP]]
-:PROPERTIES:
-:ID:       547ffdf8-9252-4982-a5b2-54334ba4477e
-:END:
-** [[file:org-roam/2020093012-ggt.org][GGT]]
-:PROPERTIES:
-:ID:       03361ff4-e537-4cc1-a4ae-493aebfe0cbd
-:END:
+** [[file:../org-roam/2020093010-肾清除率.org][肾清除率]]
+** [[file:../org-roam/2020093010-肾小管性酸中毒.org][肾小管性酸中毒]]
+** [[file:../org-roam/2020093010-内生肌肝清除率.org][内生肌肝清除率]]
+** [[file:../org-roam/2020093010-尿渗量.org][尿渗量]]
+** [[file:../org-roam/2020093010-肾小球滤过率.org][肾小球滤过率]]
+** [[file:../org-roam/2020093010-前清蛋白.org][前清蛋白]]
+** [[file:../org-roam/2020093011-结合胆红素.org][结合胆红素]]
+** [[file:../org-roam/2020093011-阻塞性脂蛋白.org][阻塞性脂蛋白]]
+** [[file:../org-roam/2020093011-丙氨酸氨基转移酶.org][丙氨酸氨基转移酶]]
+** [[file:../org-roam/2020093011-尿胆原.org][尿胆原]]
+** [[file:../org-roam/2020093011-icg滞留率.org][ICG滞留率]]
+** [[file:../org-roam/2020093011-piiip.org][PIIIP]]
+** [[file:../org-roam/2020093012-ggt.org][GGT]]
 * 简答题                                                             :简答题:
-** [[file:org-roam/2020093012-试述血尿素氮升高的临床意义.org][试述血尿素氮升高的临床意义]]
-:PROPERTIES:
-:ID:       6ca7c941-2bdb-4554-adbc-ae973d4b8af0
-:END:
-** [[file:org-roam/2020093013-常见的远端肾功能试验有哪些.org][常见的远端肾功能试验有哪些]]
-:PROPERTIES:
-:ID:       fd581953-ae4b-4d2a-a9e7-ad5fde1bae1b
-:END:
-** [[file:org-roam/2020093013-测定肾小球滤过功能的试验有哪些.org][测定肾小球滤过功能的试验有哪些]]
-:PROPERTIES:
-:ID:       660c7d95-3cfc-4d8f-8ea3-5fb0b1325e0a
-:END:
-** [[file:org-roam/2020093013-根据内生肌酐清除率将肾功能损害分为几期.org][根据内生肌酐清除率将肾功能损害分为几期]]
-:PROPERTIES:
-:ID:       6930e6c7-9d02-4afb-8c73-b46ffbaae438
-:END:
-** [[file:org-roam/2020093013-根据血肌酐将慢性肾衰竭分为几期.org][根据血肌酐将慢性肾衰竭分为几期]]
-:PROPERTIES:
-:ID:       37bce26a-6666-40a9-a3b4-3ef560ffa1b8
-:END:
-** [[file:org-roam/2020093013-根据血尿素氮将慢性肾衰竭分为几期.org][根据血尿素氮将慢性肾衰竭分为几期]]
-:PROPERTIES:
-:ID:       068fbe1f-64a3-43fa-bb9c-35b33f35fc03
-:END:
-** [[file:org-roam/2020093013-简述急性肝炎时试验诊断指标的变化特征.org][简述急性肝炎时试验诊断指标的变化特征]] 
-** [[file:org-roam/2020093018-简述不同类型黄疸的试验诊断要点.org][简述不同类型黄疸的试验诊断要点]]
-:PROPERTIES:
-:ID:       e3b3e430-fa29-4a54-9beb-40870fdf6c72
-:END:
-** [[file:org-roam/2020093018-肝纤维化的主要实验指标有哪些.org][肝纤维化的主要实验指标有哪些]]
-:PROPERTIES:
-:ID:       f04bac4a-025f-4083-b513-0a675cb57308
-:END:
-** [[file:org-roam/2020093018-怎样合理选择肝功能实验指标.org][怎样合理选择肝功能实验指标]]
-:PROPERTIES:
-:ID:       a8d690bb-269a-4551-8e95-214ff4d205b1
-:END:
+** [[file:../org-roam/2020093012-试述血尿素氮升高的临床意义.org][试述血尿素氮升高的临床意义]]
+** [[file:../org-roam/2020093013-常见的远端肾功能试验有哪些.org][常见的远端肾功能试验有哪些]]
+** [[file:../org-roam/2020093013-测定肾小球滤过功能的试验有哪些.org][测定肾小球滤过功能的试验有哪些]]
+** [[file:../org-roam/2020093013-根据内生肌酐清除率将肾功能损害分为几期.org][根据内生肌酐清除率将肾功能损害分为几期]]
+** [[file:../org-roam/2020093013-根据血肌酐将慢性肾衰竭分为几期.org][根据血肌酐将慢性肾衰竭分为几期]]
+** [[file:../org-roam/2020093013-根据血尿素氮将慢性肾衰竭分为几期.org][根据血尿素氮将慢性肾衰竭分为几期]]
+** [[file:../org-roam/2020093013-简述急性肝炎时试验诊断指标的变化特征.org][简述急性肝炎时试验诊断指标的变化特征]] 
+** [[file:../org-roam/2020093018-简述不同类型黄疸的试验诊断要点.org][简述不同类型黄疸的试验诊断要点]]
+** [[file:../org-roam/2020093018-肝纤维化的主要实验指标有哪些.org][肝纤维化的主要实验指标有哪些]]
+** [[file:../org-roam/2020093018-怎样合理选择肝功能实验指标.org][怎样合理选择肝功能实验指标]]
