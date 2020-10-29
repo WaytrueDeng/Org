@@ -2,11 +2,25 @@
 
 * Longterm
 ** TODO [#A]  健身 [0/4]
-SCHEDULED: <2020-10-17 六 +1d>
+SCHEDULED: <2020-10-31 六 +1d>
 :PROPERTIES:
 :ID:       45f8fc0c-7301-4048-b117-dd4bd5065a91
-:LAST_REPEAT: [2020-10-17 六 11:14]
+:LAST_REPEAT: [2020-10-29 四 00:24]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:14]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:13]
 - State "MISS"       from "TODO"       [2020-10-14 三 22:20]
@@ -39,11 +53,23 @@ SCHEDULED: <2020-10-17 六 +1d>
 - [ ] 核心肌肉训练
 - [ ] 慢跑三公里
 ** TODO [#A] 学习英语
-SCHEDULED: <2020-10-17 六 +1d>
+SCHEDULED: <2020-10-29 四 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:14]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
 
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:23]
+- State "DONE"       from "TODO"       [2020-10-29 四 00:22]
 - State "DONE"       from "TODO"       [2020-10-17 六 11:14]
 - State "DONE"       from "TODO"       [2020-10-17 六 11:13]
 - State "DONE"       from "TODO"       [2020-10-14 三 22:20]
@@ -72,10 +98,23 @@ SCHEDULED: <2020-10-17 六 +1d>
 - State "DONE"       from "TODO"       [2020-09-22 二 20:44]
 - State "DONE"       from "TODO"       [2020-09-20 日 22:46]
 ** TODO [#A] 冥想
-SCHEDULED: <2020-10-17 六 +1d>
+SCHEDULED: <2020-10-30 五 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:14]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:14]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:13]
 - State "MISS"       from "TODO"       [2020-10-14 三 22:20]
@@ -97,75 +136,91 @@ SCHEDULED: <2020-10-17 六 +1d>
 * Weekly
 ** Monday
 *** TODO 学习梵语字母
-SCHEDULED: <2020-10-19 一 +1w>
+SCHEDULED: <2020-11-02 一 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-13 二 17:49]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
 
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-13 二 17:49]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:54]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 09:59]
 *** TODO 学习临床诊断学
-SCHEDULED: <2020-10-19 一 +1w>
+SCHEDULED: <2020-11-02 一 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-13 二 17:49]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-13 二 17:49]
 - State "MISS"       from "TODO"       [2020-10-06 二 09:12]
 - State "MISS"       from "TODO"       [2020-09-29 二 15:54]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 09:59]
 ** Tuesday
 *** TODO 学习临床诊断学
-SCHEDULED: <2020-10-20 二 +1w>
+SCHEDULED: <2020-11-03 二 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-13 二 22:22]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-13 二 22:22]
 - State "DONE"       from "TODO"       [2020-10-06 二 18:55]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "DONE"       from "TODO"       [2020-09-22 二 15:23]
 *** TODO 学习实验诊断学
-SCHEDULED: <2020-10-20 二 +1w>
+SCHEDULED: <2020-11-03 二 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-13 二 22:22]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-13 二 22:22]
 - State "MISS"       from "TODO"       [2020-10-07 三 18:26]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 10:00]
 ** Wednesday 
 *** TODO 学习实验诊断学
-SCHEDULED: <2020-10-21 三 +1w>
+SCHEDULED: <2020-11-04 三 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-14 三 22:20]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-14 三 22:20]
 - State "DONE"       from "TODO"       [2020-10-08 四 10:11]
 - State "DONE"       from "TODO"       [2020-10-01 四 16:07]
 - State "DONE"       from "TODO"       [2020-09-23 三 19:41]
 *** TODO 学习临床药理学
-SCHEDULED: <2020-10-21 三 +1w>
+SCHEDULED: <2020-11-04 三 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-14 三 22:20]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
 
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-08 四 10:11]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "MISS"       from "TODO"       [2020-09-25 五 10:00]
 ** Thursday
 *** TODO 学习临床药理学
-SCHEDULED: <2020-10-22 四 +1w>
+SCHEDULED: <2020-11-05 四 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:13]
+:LAST_REPEAT: [2020-10-29 四 00:23]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:23]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:13]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-01 四 22:27]
 - State "DONE"       from "TODO"       [2020-09-24 四 17:06]
 *** TODO 学习影像学
-SCHEDULED: <2020-10-22 四 +1w>
+SCHEDULED: <2020-11-05 四 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:13]
+:LAST_REPEAT: [2020-10-29 四 00:22]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:13]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
@@ -173,54 +228,65 @@ SCHEDULED: <2020-10-22 四 +1w>
 - State "MISS"       from "TODO"       [2020-09-25 五 10:00]
 ** Friday
 *** TODO 学习影像学
-SCHEDULED: <2020-10-23 五 +1w>
+SCHEDULED: <2020-11-06 五 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:14]
+:LAST_REPEAT: [2020-10-29 四 00:22]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:14]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "DONE"       from "TODO"       [2020-09-25 五 19:32]
 *** TODO 学习超声诊断学
-SCHEDULED: <2020-10-23 五 +1w>
+SCHEDULED: <2020-10-30 五 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-17 六 11:14]
+:LAST_REPEAT: [2020-10-29 四 00:22]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-17 六 11:14]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-09-26 六 09:05]
 ** Saturday
 *** TODO 学习超声诊断学
-SCHEDULED: <2020-10-17 六 +1w>
+SCHEDULED: <2020-10-31 六 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-12 一 07:50]
+:LAST_REPEAT: [2020-10-29 四 00:24]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:54]
 - State "DONE"       from "TODO"       [2020-09-26 六 20:29]
 *** TODO 复习生化
-SCHEDULED: <2020-10-17 六 +1w>
+SCHEDULED: <2020-10-31 六 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-12 一 07:50]
+:LAST_REPEAT: [2020-10-29 四 00:24]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-09-27 日 09:59]
 ** Sunday
 *** TODO 复习生化
-SCHEDULED: <2020-10-18 日 +1w>
+SCHEDULED: <2020-11-01 日 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-12 一 07:50]
+:LAST_REPEAT: [2020-10-29 四 00:24]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 *** TODO 学习梵语字母
-SCHEDULED: <2020-10-18 日 +1w>
+SCHEDULED: <2020-11-01 日 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-10-12 一 07:50]
+:LAST_REPEAT: [2020-10-29 四 00:24]
 :END:
+- State "MISS"       from "TODO"       [2020-10-29 四 00:24]
+- State "MISS"       from "TODO"       [2020-10-29 四 00:22]
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
