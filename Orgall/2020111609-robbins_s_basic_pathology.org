@@ -1,0 +1,19 @@
+#+title: Robbins's Basic Pathology
+* Outline
+:PROPERTIES:
+:NOTER_DOCUMENT: /home/waytrue/Org/Orgall/2020-11-16.org
+:END:
+
+* The Genome
+** Noncoding DNA
+** Histone Organization
+** Micro-RNA and Long Noncoding RNA
+*** Micro-RNAs
+1. 22 nucleotides on average
+2. Posttranscriptional silencing of gene expression by miRNA is a fundamental a and e evolutionanarily conserved machnism of gene regulation present in all eukaryotes.
+*** Long-noncoding RNA
+** Gene Editing
+* Cellualar Housekeeping
+Many normal housekeeping functions are compartmentalized within membrane-bound intracellular organelles.
+** Breakdown of these constinuents takes place at three different sites
+*** 

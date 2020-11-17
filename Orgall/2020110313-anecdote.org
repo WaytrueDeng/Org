@@ -1,0 +1,6 @@
+#+title: anecdote
+#+roam_tags:名词解释
+
+* 定义
+趣闻,轶事
+  

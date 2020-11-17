@@ -1,0 +1,6 @@
+#+title: accommodation
+#+roam_tags:名词解释
+
+* 定义
+ 住处住宿,膳食
+  

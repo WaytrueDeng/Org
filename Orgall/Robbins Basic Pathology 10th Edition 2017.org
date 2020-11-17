@@ -1,0 +1,8106 @@
+#+title : Robbins Basic Pathology 10th Edition 2017
+* Robbins Basic Pathology 10th Edition 2017
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../PDFs/Robbins Basic Pathology 10th Edition 2017.pdf
+:NOTER_PAGE: 25
+:END:
+** Front Matter
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+*** Copyright Page
+:PROPERTIES:
+:NOTER_PAGE: 4
+:ID:       d39bde89-8ffa-479c-aaae-424ce4dc61ec
+:END:
+*** Dedication
+:PROPERTIES:
+:NOTER_PAGE: 5
+:ID:       51b1cc76-20e0-4002-abbd-8e4c6e613a4e
+:END:
+*** Contributors
+:PROPERTIES:
+:NOTER_PAGE: 6
+:ID:       d81cf509-8908-4785-8db5-529aaff9a7f0
+:END:
+*** Clinical Consultants
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+*** Preface
+:PROPERTIES:
+:NOTER_PAGE: 9
+:END:
+*** Acknowledgments
+:PROPERTIES:
+:NOTER_PAGE: 10
+:END:
+*** Online Resources for Instructors and Students
+:PROPERTIES:
+:NOTER_PAGE: 11
+:ID:       634ca15d-4ee1-4850-a980-c8a1d6cfca1e
+:END:
+**** Resources for Instructors
+:PROPERTIES:
+:NOTER_PAGE: 11
+:ID:       fd9357ca-314e-4d56-bc01-c1c2021a0e0e
+:END:
+***** Image Collection
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Test Bank
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+**** Resources for Students
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Textbook Online
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Targeted Therapy Boxes
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Videos
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Clinical Cases
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+***** Self-Assessment Questions
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+** 1 The Cell as a Unit of Health and Disease
+:PROPERTIES:
+:NOTER_PAGE: (12 . 0.113665)
+:ID:       a4a54310-2ea0-499a-8981-9dffe5d747cd
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: (12 . 0.293742)
+:END:
+*** The Genome
+:PROPERTIES:
+:NOTER_PAGE: (12 . 0.795658)
+:END:
+**** Noncoding DNA
+:PROPERTIES:
+:NOTER_PAGE: 12
+:END:
+**** Histone Organization
+:PROPERTIES:
+:NOTER_PAGE: (14 . 0.233716)
+:ID:       37c51061-0530-46a9-9f59-9e8ad7ce6544
+:END:
+**** Micro-RNA and Long Noncoding RNA
+:PROPERTIES:
+:NOTER_PAGE: (15 . 0.067688)
+:END:
+***** Gene Editing
+:PROPERTIES:
+:NOTER_PAGE: (16 . 0.710089)
+:END:
+*** Cellular Housekeeping
+:PROPERTIES:
+:NOTER_PAGE: 17
+:END:
+**** Plasma Membrane: Protection and Nutrient Acquisition
+:PROPERTIES:
+:NOTER_PAGE: 19
+:END:
+***** Passive Membrane Diffusion
+:PROPERTIES:
+:NOTER_PAGE: 20
+:END:
+***** Carriers and Channels
+:PROPERTIES:
+:NOTER_PAGE: 20
+:END:
+***** Receptor-Mediated and Fluid-Phase Uptake
+:PROPERTIES:
+:NOTER_PAGE: 20
+:END:
+**** Cytoskeleton
+:PROPERTIES:
+:NOTER_PAGE: 22
+:END:
+The ability of cells to adopt a particular shape, maintainpolarity, organize the intracellular organelles, and moveabout depends on the intracellular scaffolding of pro-teins called the cytoskeleton
+***** Actin microfilaments
+***** Intermediate flaments
+***** Microtubules
+**** Cell-Cell Interactions
+:PROPERTIES:
+:NOTER_PAGE: 23
+:ID:       5bde19b2-2d13-45fc-9dda-0e40a2f4fa69
+:END:
+***** Occuluding junctions(封闭连接)
+- [[roam:adjacent(邻近的)]]
+- [[roam:apical(顶点的,尖的)]]
+- [[roam:basolateral(基底的)]]
+- [[roam:epithelial(上皮的)]]
+- [[roam:desmosome(桥粒)]]
+***** Anchoring(抛锚) junctions(desmosomes)
+- [[roam:cadherin(钙粘附蛋白)]]
+***** communicating junctions(gap junctions)
+- [[roam:hexamers(六聚体)]]
+- [[roam:presence(存在)]]
+- [[roam:absence(不存在)]]
+- [[roam:disulfide(硫化物)]]
+- [[roam:mutation(变异)]]
+**** Biosynthetic Machinery: Endoplasmic Reticulum and Golgi Apparatus
+:PROPERTIES:
+:NOTER_PAGE: 23
+:END:
+- [[roam:exceeding(超过,超越)]]
+- [[roam:cystic fibrosis(囊性纤维化)]]
+- [[roam:shuttle(来往两地的航班,梭子)]]
+- [[roam:cisternae(池,潴泡)]]
+- [[roam:oligosaccharides(低聚糖)]]
+- [[roam:mannose(甘露糖)]]
+- [[roam:goblet(高脚酒杯)]]
+- [[roam:sacroplasmic(肌浆网)]]
+**** Waste Disposal: Lysosomes and Proteasomes(蛋白酶体)
+:PROPERTIES:
+:NOTER_PAGE: 24
+:END:
+*** Cellular Metabolism and Mitochondrial Function
+:PROPERTIES:
+:NOTER_PAGE: 24
+:ID:       4c65f950-1031-4129-81d8-b434f2716dc3
+:END:
+- [[roam:proton(质子)]]
+**** Energy Genearion
+**** Intermediate Metabolismo
+**** Cell Death
+- [[roam:proverbial(谚语的)]]
+*** Cellular Activation
+:PROPERTIES:
+:NOTER_PAGE: 27
+:END:
+**** Cell Signaling
+:PROPERTIES:
+:NOTER_PAGE: 27
+:END:
+**** Signal Transduction Pathways
+:PROPERTIES:
+:NOTER_PAGE: 27
+:END:
+***** Receptors associated with kinase activity
+- geometry(几何学,形状)
+- [[roam:intrinsic(固有的内在的)]]
+**** Modular Signaling Proteins, Hubs, and Nodes
+:PROPERTIES:
+:NOTER_PAGE: 29
+:END:
+**** Transcription Factors
+:PROPERTIES:
+:NOTER_PAGE: 30
+:END:
+
+*** Growth Factors and Receptors
+:PROPERTIES:
+:NOTER_PAGE: 30
+:END:
+*** Extracellular Matrix
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+**** Components of the Extracellular Matrix
+:PROPERTIES:
+:NOTER_PAGE: 33
+:END:
+*** Maintaining Cell Populations
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+**** Proliferation and the Cell Cycle
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+**** Stem Cells
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+***** Regenerative Medicine
+:PROPERTIES:
+:NOTER_PAGE: 39
+:END:
+**** Concluding Remarks
+:PROPERTIES:
+:NOTER_PAGE: 39
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+**** Genetics and Epigenetics
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+**** Cellular Housekeeping
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+**** Cellular Metabolism and Mitochondrial Function
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+**** Cellular Activation
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+**** Maintaining Cell Populations
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+** 2 Cell Injury, Cell Death, and Adaptations
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+*** Introduction to Pathology
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+*** Overview of Cellular Responses to Stress and Noxious Stimuli
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+*** Causes of Cell Injury
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+*** Sequence of Events in Cell Injury and Cell Death
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+**** Reversible Cell Injury
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+**** Cell Death
+:PROPERTIES:
+:NOTER_PAGE: 44
+:END:
+**** Necrosis
+:PROPERTIES:
+:NOTER_PAGE: 45
+:END:
+***** Morphologic Patterns of Tissue Necrosis
+:PROPERTIES:
+:NOTER_PAGE: 46
+:END:
+**** Apoptosis
+:PROPERTIES:
+:NOTER_PAGE: 47
+:END:
+***** Causes of Apoptosis
+:PROPERTIES:
+:NOTER_PAGE: 47
+:END:
+***** Mechanisms of Apoptosis
+:PROPERTIES:
+:NOTER_PAGE: 48
+:END:
+**** Other Pathways of Cell Death
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+*** Autophagy
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+*** Mechanisms of Cell Injury and Cell Death
+:PROPERTIES:
+:NOTER_PAGE: 51
+:END:
+**** Hypoxia and Ischemia
+:PROPERTIES:
+:NOTER_PAGE: 52
+:END:
+**** Ischemia-Reperfusion Injury
+:PROPERTIES:
+:NOTER_PAGE: 53
+:END:
+**** Oxidative Stress
+:PROPERTIES:
+:NOTER_PAGE: 53
+:END:
+***** Generation and Removal of Reactive Oxygen Species
+:PROPERTIES:
+:NOTER_PAGE: 53
+:END:
+***** Cell Injury Caused by Reactive Oxygen Species
+:PROPERTIES:
+:NOTER_PAGE: 55
+:END:
+**** Cell Injury Caused by Toxins
+:PROPERTIES:
+:NOTER_PAGE: 55
+:END:
+**** Endoplasmic Reticulum Stress
+:PROPERTIES:
+:NOTER_PAGE: 55
+:END:
+**** DNA Damage
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+**** Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+**** Common Events in Cell Injury From Diverse Causes
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+***** Mitochondrial Dysfunction
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+***** Defects in Membrane Permeability
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+*** Cellular Adaptations to Stress
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+**** Hypertrophy
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+**** Hyperplasia
+:PROPERTIES:
+:NOTER_PAGE: 59
+:END:
+**** Atrophy
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+**** Metaplasia
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+*** Intracellular Accumulations
+:PROPERTIES:
+:NOTER_PAGE: 61
+:END:
+*** Pathologic Calcification
+:PROPERTIES:
+:NOTER_PAGE: 63
+:END:
+*** Cellular Aging
+:PROPERTIES:
+:NOTER_PAGE: 64
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 66
+:END:
+** 3 Inflammation and Repair
+:PROPERTIES:
+:NOTER_PAGE: 67
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 67
+:END:
+*** Overview of Inflammation: Definitions and General Features
+:PROPERTIES:
+:NOTER_PAGE: 67
+:END:
+*** Causes of Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 69
+:END:
+*** Recognition of Microbes and Damaged Cells
+:PROPERTIES:
+:NOTER_PAGE: 69
+:END:
+*** Acute Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+**** Reactions of Blood Vessels in Acute Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+***** Changes in Vascular Flow and Caliber
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+***** Increased Vascular Permeability (Vascular Leakage)
+:PROPERTIES:
+:NOTER_PAGE: 71
+:END:
+***** Responses of Lymphatic Vessels and Lymph Nodes
+:PROPERTIES:
+:NOTER_PAGE: 72
+:END:
+**** Leukocyte Recruitment to Sites of Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 72
+:END:
+***** Leukocyte Adhesion to Endothelium
+:PROPERTIES:
+:NOTER_PAGE: 72
+:END:
+***** Leukocyte Migration Through Endothelium
+:PROPERTIES:
+:NOTER_PAGE: 75
+:END:
+***** Chemotaxis of Leukocytes
+:PROPERTIES:
+:NOTER_PAGE: 75
+:END:
+**** Phagocytosis and Clearance of the Offending Agent
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+***** Phagocytosis
+:PROPERTIES:
+:NOTER_PAGE: 77
+:END:
+***** Intracellular Destruction of Microbes and Debris
+:PROPERTIES:
+:NOTER_PAGE: 78
+:END:
+***** Neutrophil Extracellular Traps
+:PROPERTIES:
+:NOTER_PAGE: 79
+:END:
+**** Leukocyte-Mediated Tissue Injury
+:PROPERTIES:
+:NOTER_PAGE: 79
+:END:
+**** Other Functional Responses of Activated Leukocytes
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+**** Termination of the Acute Inflammatory Response
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+*** Mediators of Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+**** Vasoactive Amines: Histamine and Serotonin
+:PROPERTIES:
+:NOTER_PAGE: 81
+:END:
+**** Arachidonic Acid Metabolites
+:PROPERTIES:
+:NOTER_PAGE: 81
+:END:
+***** Prostaglandins
+:PROPERTIES:
+:NOTER_PAGE: 81
+:END:
+***** Leukotrienes
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+***** Lipoxins
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+***** Pharmacologic Inhibitors of Prostaglandins and Leukotrienes
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+**** Cytokines and Chemokines
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+***** Tumor Necrosis Factor and Interleukin-1
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+***** Chemokines
+:PROPERTIES:
+:NOTER_PAGE: 84
+:END:
+***** Other Cytokines in Acute Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** Complement System
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** Other Mediators of Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+***** Platelet-Activating Factor
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+***** Products of Coagulation
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+***** Kinins
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+***** Neuropeptides
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+*** Morphologic Patterns of Acute Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** Serous Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** Fibrinous Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** Purulent (Suppurative) Inflammation, Abscess
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** Ulcers
+:PROPERTIES:
+:NOTER_PAGE: 89
+:END:
+*** Outcomes of Acute Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 89
+:END:
+*** Chronic Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 91
+:END:
+**** Causes of Chronic Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 91
+:END:
+**** Morphologic Features
+:PROPERTIES:
+:NOTER_PAGE: 91
+:END:
+**** Cells and Mediators of Chronic Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 92
+:END:
+***** Role of Macrophages
+:PROPERTIES:
+:NOTER_PAGE: 92
+:END:
+***** Role of Lymphocytes
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+***** Other Cells in Chronic Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 94
+:END:
+***** Granulomatous Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 95
+:END:
+*** Systemic Effects of Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+*** Tissue Repair
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+**** Overview of Tissue Repair
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+**** Cell and Tissue Regeneration
+:PROPERTIES:
+:NOTER_PAGE: 98
+:END:
+***** Cell Proliferation: Signals and Control Mechanisms
+:PROPERTIES:
+:NOTER_PAGE: 98
+:END:
+***** Mechanisms of Tissue Regeneration
+:PROPERTIES:
+:NOTER_PAGE: 98
+:END:
+***** Liver Regeneration
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+**** Repair by Scarring
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+***** Steps in Scar Formation
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+***** Angiogenesis
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+***** Activation of Fibroblasts and Deposition of Connective Tissue
+:PROPERTIES:
+:NOTER_PAGE: 101
+:END:
+***** Remodeling of Connective Tissue
+:PROPERTIES:
+:NOTER_PAGE: 102
+:END:
+**** Factors That Impair Tissue Repair
+:PROPERTIES:
+:NOTER_PAGE: 103
+:END:
+**** Clinical Examples of Abnormal Wound Healing and Scarring
+:PROPERTIES:
+:NOTER_PAGE: 103
+:END:
+***** Defects in Healing: Chronic Wounds
+:PROPERTIES:
+:NOTER_PAGE: 103
+:END:
+***** Excessive Scarring
+:PROPERTIES:
+:NOTER_PAGE: 103
+:END:
+***** Fibrosis in Parenchymal Organs
+:PROPERTIES:
+:NOTER_PAGE: 104
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 105
+:END:
+** 4 Hemodynamic Disorders, Thromboembolism, and Shock
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+*** Hyperemia and Congestion
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+*** Edema
+:PROPERTIES:
+:NOTER_PAGE: 108
+:END:
+**** Increased Hydrostatic Pressure
+:PROPERTIES:
+:NOTER_PAGE: 109
+:END:
+**** Reduced Plasma Osmotic Pressure
+:PROPERTIES:
+:NOTER_PAGE: 109
+:END:
+**** Lymphatic Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 109
+:END:
+**** Sodium and Water Retention
+:PROPERTIES:
+:NOTER_PAGE: 110
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 110
+:END:
+*** Hemorrhage
+:PROPERTIES:
+:NOTER_PAGE: 110
+:END:
+*** Hemostasis and Thrombosis
+:PROPERTIES:
+:NOTER_PAGE: 111
+:END:
+**** Normal Hemostasis
+:PROPERTIES:
+:NOTER_PAGE: 111
+:END:
+***** Platelets
+:PROPERTIES:
+:NOTER_PAGE: 112
+:END:
+***** Coagulation Cascade
+:PROPERTIES:
+:NOTER_PAGE: 113
+:END:
+****** Factors That Limit Coagulation.
+:PROPERTIES:
+:NOTER_PAGE: 115
+:END:
+***** Endothelium
+:PROPERTIES:
+:NOTER_PAGE: 116
+:END:
+**** Thrombosis
+:PROPERTIES:
+:NOTER_PAGE: 116
+:END:
+***** Endothelial Injury
+:PROPERTIES:
+:NOTER_PAGE: 117
+:END:
+***** Abnormal Blood Flow
+:PROPERTIES:
+:NOTER_PAGE: 118
+:END:
+***** Hypercoagulability
+:PROPERTIES:
+:NOTER_PAGE: 118
+:END:
+***** Fate of the Thrombus
+:PROPERTIES:
+:NOTER_PAGE: 120
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+***** Venous Thrombosis (Phlebothrombosis)
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+***** Arterial and Cardiac Thrombosis
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+**** Disseminated Intravascular Coagulation (DIC)
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+*** Embolism
+:PROPERTIES:
+:NOTER_PAGE: 122
+:END:
+**** Pulmonary Thromboembolism
+:PROPERTIES:
+:NOTER_PAGE: 122
+:END:
+**** Systemic Thromboembolism
+:PROPERTIES:
+:NOTER_PAGE: 122
+:END:
+**** Fat Embolism
+:PROPERTIES:
+:NOTER_PAGE: 122
+:END:
+**** Amniotic Fluid Embolism
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+**** Air Embolism
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+*** Infarction
+:PROPERTIES:
+:NOTER_PAGE: 124
+:END:
+**** Factors That Influence Infarct Development
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+*** Shock
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+**** Pathogenesis of Septic Shock
+:PROPERTIES:
+:NOTER_PAGE: 126
+:END:
+**** Stages of Shock
+:PROPERTIES:
+:NOTER_PAGE: 128
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 129
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 129
+:END:
+** 5 Diseases of the Immune System
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+*** The Normal Immune Response
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+**** Innate Immunity
+:PROPERTIES:
+:NOTER_PAGE: 131
+:END:
+***** Receptors of Innate Immunity
+:PROPERTIES:
+:NOTER_PAGE: 131
+:END:
+****** Toll-Like Receptors
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+****** NOD-Like Receptors and the Inflammasome
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+****** Other Receptors for Microbial Products
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+***** Reactions of Innate Immunity
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+**** Adaptive Immunity
+:PROPERTIES:
+:NOTER_PAGE: 133
+:END:
+*** Cells and Tissues of the Immune System
+:PROPERTIES:
+:NOTER_PAGE: 133
+:END:
+**** Lymphocytes
+:PROPERTIES:
+:NOTER_PAGE: 133
+:END:
+***** T Lymphocytes
+:PROPERTIES:
+:NOTER_PAGE: 133
+:END:
+***** Major Histocompatibility Complex Molecules: The Peptide Display System of Adaptive Immunity
+:PROPERTIES:
+:NOTER_PAGE: 135
+:END:
+***** B Lymphocytes
+:PROPERTIES:
+:NOTER_PAGE: 136
+:END:
+***** Natural Killer Cells and Innate Lymphoid Cells
+:PROPERTIES:
+:NOTER_PAGE: 137
+:END:
+**** Antigen-Presenting Cells
+:PROPERTIES:
+:NOTER_PAGE: 137
+:END:
+***** Dendritic Cells
+:PROPERTIES:
+:NOTER_PAGE: 137
+:END:
+***** Other Antigen-Presenting Cells
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+**** Lymphoid Tissues
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+***** Peripheral Lymphoid Organs
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+***** Cytokines: Messenger Molecules of the Immune System
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+*** Overview of Lymphocyte Activation and Adaptive Immune Responses
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+**** Capture and Display of Antigens
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+**** Cell-Mediated Immunity: Activation of T Lymphocytes and Elimination of Intracellular Microbes
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+**** Humoral Immunity: Activation of B Lymphocytes and Elimination of Extracellular Microbes
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+**** Decline of Immune Responses and Immunologic Memory
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+*** Hypersensitivity: Immunologically Mediated Tissue Injury
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+**** Causes of Hypersensitivity Reactions
+:PROPERTIES:
+:NOTER_PAGE: 144
+:END:
+**** Classification of Hypersensitivity Reactions
+:PROPERTIES:
+:NOTER_PAGE: 144
+:END:
+**** Immediate (Type I) Hypersensitivity
+:PROPERTIES:
+:NOTER_PAGE: 145
+:END:
+***** Sequence of Events in Immediate Hypersensitivity Reactions
+:PROPERTIES:
+:NOTER_PAGE: 145
+:END:
+***** Development of Allergies
+:PROPERTIES:
+:NOTER_PAGE: 146
+:END:
+***** Clinical and Pathologic Manifestations
+:PROPERTIES:
+:NOTER_PAGE: 147
+:END:
+**** Antibody-Mediated Diseases (Type II Hypersensitivity)
+:PROPERTIES:
+:NOTER_PAGE: 148
+:END:
+***** Mechanisms of Antibody-Mediated Diseases
+:PROPERTIES:
+:NOTER_PAGE: 148
+:END:
+**** Immune Complex–Mediated Diseases (Type III Hypersensitivity)
+:PROPERTIES:
+:NOTER_PAGE: 149
+:END:
+***** Systemic Immune Complex Disease
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+****** Formation of Immune Complexes.
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+****** Deposition of Immune Complexes.
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+****** Inflammation and Tissue Injury.
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+***** Local Immune Complex Disease (Arthus Reaction)
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+**** T Cell–Mediated Diseases (Type IV Hypersensitivity)
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+***** CD4+ T Cell–Mediated Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+****** Clinical Examples of CD4+ T Cell–Mediated Inflammatory Reactions
+:PROPERTIES:
+:NOTER_PAGE: 152
+:END:
+***** CD8+ T Cell–Mediated Cytotoxicity
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+*** Autoimmune Diseases
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+**** Immunologic Tolerance
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+***** Central Tolerance
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+***** Peripheral Tolerance
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+**** Mechanisms of Autoimmunity: General Principles
+:PROPERTIES:
+:NOTER_PAGE: 156
+:END:
+***** Genetic Factors in Autoimmunity
+:PROPERTIES:
+:NOTER_PAGE: 156
+:END:
+***** Role of Infections, Tissue Injury, and Other Environmental Factors
+:PROPERTIES:
+:NOTER_PAGE: 157
+:END:
+**** Systemic Lupus Erythematosus
+:PROPERTIES:
+:NOTER_PAGE: 159
+:END:
+***** Spectrum of Autoantibodies in SLE
+:PROPERTIES:
+:NOTER_PAGE: 159
+:END:
+****** Anti-Nuclear Antibodies
+:PROPERTIES:
+:NOTER_PAGE: 160
+:END:
+****** Other Autoantibodies
+:PROPERTIES:
+:NOTER_PAGE: 160
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+****** Genetic Factors
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+****** Environmental Factors
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+****** Immunologic Factors
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+****** A Model for the Pathogenesis of SLE
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+****** Mechanisms of Tissue Injury
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+***** Chronic Discoid Lupus Erythematosus
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+***** Drug-Induced Lupus Erythematosus
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+**** Rheumatoid Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+**** Sjögren Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+**** Systemic Sclerosis (Scleroderma)
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 170
+:END:
+**** Inflammatory Myopathies
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** Mixed Connective Tissue Disease
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** Polyarteritis Nodosa and Other Vasculitides
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** IgG4-Related Disease
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+*** Rejection of Transplants
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** Recognition and Rejection of Allografts
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+***** Recognition of Graft Alloantigens
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+***** Mechanisms of Graft Rejection
+:PROPERTIES:
+:NOTER_PAGE: 172
+:END:
+***** Methods of Increasing Graft Survival
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+**** Transplantation of Hematopoietic Stem Cells
+:PROPERTIES:
+:NOTER_PAGE: 175
+:END:
+***** Graft-Versus-Host Disease
+:PROPERTIES:
+:NOTER_PAGE: 175
+:END:
+***** Immune Deficiencies
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+*** Immunodeficiency Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+**** Primary (Inherited) Immunodeficiencies
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+***** Severe Combined Immunodeficiency
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+***** X-Linked Agammaglobulinemia
+:PROPERTIES:
+:NOTER_PAGE: 179
+:END:
+***** DiGeorge Syndrome (Thymic Hypoplasia)
+:PROPERTIES:
+:NOTER_PAGE: 179
+:END:
+***** Hyper-IgM Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 179
+:END:
+***** Common Variable Immunodeficiency
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+***** Isolated IgA Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+***** Other Defects in Lymphocyte Activation
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+***** Immunodeficiencies Associated With Systemic Diseases
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+**** Defects in Innate Immunity
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+***** Defects in Leukocyte Function
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+***** Deficiencies Affecting the Complement System
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+**** Secondary (Acquired) Immunodeficiencies
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+*** Acquired Immunodeficiency Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+**** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+**** Properties of HIV
+:PROPERTIES:
+:NOTER_PAGE: 183
+:END:
+***** Structure of HIV
+:PROPERTIES:
+:NOTER_PAGE: 183
+:END:
+****** Pathogenesis of HIV Infection and AIDS
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+***** Life Cycle of HIV
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+****** Infection of Cells by HIV
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+****** Viral Replication
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+***** Mechanism of T-Cell Depletion in HIV Infection
+:PROPERTIES:
+:NOTER_PAGE: 185
+:END:
+***** HIV Infection of Non–T Immune Cells
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+****** Macrophages.
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+****** Dendritic Cells.
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+****** B Cell Function in HIV Infection.
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+***** Pathogenesis of Central Nervous System Involvement
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+**** Natural History and Course of HIV Infection
+:PROPERTIES:
+:NOTER_PAGE: 187
+:END:
+**** Clinical Features of AIDS
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+***** Opportunistic Infections
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+***** Tumors
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+****** Kaposi Sarcoma.
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+****** Lymphomas.
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+****** Other Tumors.
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+***** Central Nervous System Disease
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+***** Effect of Anti-Retroviral Drug Therapy on the Course of HIV Infection
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+*** Amyloidosis
+:PROPERTIES:
+:NOTER_PAGE: 191
+:END:
+**** Pathogenesis of Amyloid Deposition
+:PROPERTIES:
+:NOTER_PAGE: 192
+:END:
+**** Classification of Amyloidosis and Mechanisms of Amyloid Formation
+:PROPERTIES:
+:NOTER_PAGE: 192
+:END:
+***** Primary Amyloidosis: Plasma Cell Proliferations Associated With Amyloidosis.
+:PROPERTIES:
+:NOTER_PAGE: 192
+:END:
+***** Reactive Systemic Amyloidosis.
+:PROPERTIES:
+:NOTER_PAGE: 193
+:END:
+***** Heredofamilial Amyloidosis.
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+***** Hemodialysis-Associated Amyloidosis.
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+***** Localized Amyloidosis.
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+***** Endocrine Amyloid.
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+***** Amyloid of Aging.
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 196
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 196
+:END:
+** 6 Neoplasia
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+*** Nomenclature
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+**** Benign Tumors
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+**** Malignant Tumors
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+*** Characteristics of Benign and Malignant Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** Differentiation and Anaplasia
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** Local Invasion
+:PROPERTIES:
+:NOTER_PAGE: 203
+:END:
+**** Metastasis
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+*** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 205
+:END:
+**** Cancer Incidence
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+**** Environmental Factors
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+**** Age and Cancer
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** Acquired Predisposing Conditions
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** Interactions Between Environmental and Genetic Factors
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+*** Cancer Genes
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+*** Genetic Lesions in Cancer
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+**** Driver and Passenger Mutations
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+***** Point Mutations
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+***** Gene Rearrangements
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+***** Deletions
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+***** Gene Amplifications
+:PROPERTIES:
+:NOTER_PAGE: 212
+:END:
+***** Aneuploidy
+:PROPERTIES:
+:NOTER_PAGE: 212
+:END:
+***** MicroRNAs and Cancer
+:PROPERTIES:
+:NOTER_PAGE: 212
+:END:
+**** Epigenetic Modifications and Cancer
+:PROPERTIES:
+:NOTER_PAGE: 212
+:END:
+*** Carcinogenesis: A Multistep Process
+:PROPERTIES:
+:NOTER_PAGE: 213
+:END:
+*** Hallmarks of Cancer
+:PROPERTIES:
+:NOTER_PAGE: 213
+:END:
+**** Self-Sufficiency in Growth Signals
+:PROPERTIES:
+:NOTER_PAGE: 214
+:END:
+***** Growth Factors
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+***** Growth Factor Receptors
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+***** Downstream Signal-Transducing Proteins
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+****** RAS
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+****** ABL
+:PROPERTIES:
+:NOTER_PAGE: 216
+:END:
+***** Nuclear Transcription Factors
+:PROPERTIES:
+:NOTER_PAGE: 216
+:END:
+***** Cyclins and Cyclin-Dependent Kinases
+:PROPERTIES:
+:NOTER_PAGE: 216
+:END:
+**** Insensitivity to Growth Inhibitory Signals: Tumor Suppressor Genes
+:PROPERTIES:
+:NOTER_PAGE: 217
+:END:
+***** RB: Governor of the Cell Cycle
+:PROPERTIES:
+:NOTER_PAGE: 217
+:END:
+***** TP53: Guardian of the Genome
+:PROPERTIES:
+:NOTER_PAGE: 220
+:END:
+***** Transforming Growth Factor-β Pathway
+:PROPERTIES:
+:NOTER_PAGE: 222
+:END:
+***** Contact Inhibition, NF2, and APC
+:PROPERTIES:
+:NOTER_PAGE: 222
+:END:
+**** Altered Cellular Metabolism
+:PROPERTIES:
+:NOTER_PAGE: 223
+:END:
+***** Autophagy
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+***** Oncometabolism
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+**** Evasion of Cell Death
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+**** Limitless Replicative Potential (Immortality)
+:PROPERTIES:
+:NOTER_PAGE: 227
+:END:
+**** Sustained Angiogenesis
+:PROPERTIES:
+:NOTER_PAGE: 228
+:END:
+**** Invasion and Metastasis
+:PROPERTIES:
+:NOTER_PAGE: 229
+:END:
+***** Invasion of Extracellular Matrix
+:PROPERTIES:
+:NOTER_PAGE: 229
+:END:
+***** Vascular Dissemination and Homing of Tumor Cells
+:PROPERTIES:
+:NOTER_PAGE: 231
+:END:
+***** Metastasis
+:PROPERTIES:
+:NOTER_PAGE: 232
+:END:
+**** Evasion of Immune Surveillance
+:PROPERTIES:
+:NOTER_PAGE: 232
+:END:
+***** Tumor Antigens.
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+***** Effective Immune Responses to Tumor Antigens.
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+***** Immune Evasion by Cancers.
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+***** Genomic Instability as an Enabler of Malignancy
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+***** Hereditary Nonpolyposis Colon Cancer Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 236
+:END:
+***** Xeroderma Pigmentosum
+:PROPERTIES:
+:NOTER_PAGE: 236
+:END:
+***** Diseases With Defects in DNA Repair by Homologous Recombination
+:PROPERTIES:
+:NOTER_PAGE: 236
+:END:
+***** Cancers Resulting From Mutations Induced by Regulated Genomic Instability: Lymphoid Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 236
+:END:
+**** Tumor-Promoting Inflammation as an Enabler of Malignancy
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+*** Etiology of Cancer: Carcinogenic Agents
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+**** Chemical Carcinogens
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+***** Direct-Acting Agents
+:PROPERTIES:
+:NOTER_PAGE: 238
+:END:
+***** Indirect-Acting Agents
+:PROPERTIES:
+:NOTER_PAGE: 238
+:END:
+***** Mechanisms of Action of Chemical Carcinogens
+:PROPERTIES:
+:NOTER_PAGE: 239
+:END:
+**** Radiation Carcinogenesis
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+**** Viral and Microbial Oncogenesis
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+***** Oncogenic RNA Viruses
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+***** Oncogenic DNA Viruses
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+****** Human Papillomavirus
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+****** Epstein-Barr Virus
+:PROPERTIES:
+:NOTER_PAGE: 242
+:END:
+****** Hepatitis B and Hepatitis C Viruses
+:PROPERTIES:
+:NOTER_PAGE: 243
+:END:
+****** Helicobacter pylori
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+*** Clinical Aspects of Neoplasia
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+**** Effects of Tumor on Host
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+***** Cancer Cachexia
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+***** Paraneoplastic Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+**** Grading and Staging of Cancer
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+**** Laboratory Diagnosis of Cancer
+:PROPERTIES:
+:NOTER_PAGE: 246
+:END:
+***** Morphologic Methods
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+***** Tumor Markers
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+***** Molecular Diagnosis
+:PROPERTIES:
+:NOTER_PAGE: 248
+:END:
+***** Molecular Profiling of Tumors: The Future of Cancer Diagnostics
+:PROPERTIES:
+:NOTER_PAGE: 248
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 250
+:END:
+** 7 Genetic and Pediatric Diseases
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+*** Genetic Diseases
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+**** Nature of Genetic Abnormalities Contributing to Human Disease
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+***** Mutations in Protein-Coding Genes
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+***** Alterations in Protein-Coding Genes Other Than Mutations
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+****** Alterations in Non-Coding RNAs
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+**** Mendelian Disorders: Diseases Caused by Single-Gene Defects
+:PROPERTIES:
+:NOTER_PAGE: 254
+:END:
+***** Transmission Patterns of Single-Gene Disorders
+:PROPERTIES:
+:NOTER_PAGE: 255
+:END:
+****** Disorders of Autosomal Dominant Inheritance
+:PROPERTIES:
+:NOTER_PAGE: 255
+:END:
+****** Disorders of Autosomal Recessive Inheritance
+:PROPERTIES:
+:NOTER_PAGE: 255
+:END:
+****** X-Linked Disorders
+:PROPERTIES:
+:NOTER_PAGE: 255
+:END:
+***** Diseases Caused by Mutations in Genes Encoding Structural Proteins
+:PROPERTIES:
+:NOTER_PAGE: 256
+:END:
+****** Marfan Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 256
+:END:
+****** Ehlers-Danlos Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+***** Diseases Caused by Mutations in Genes Encoding Receptor Proteins or Channels
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+****** Familial Hypercholesterolemia
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+******* Normal Cholesterol Metabolism.
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+****** Cystic Fibrosis
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 260
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 262
+:END:
+***** Diseases Caused by Mutations in Genes Encoding Enzyme Proteins
+:PROPERTIES:
+:NOTER_PAGE: 263
+:END:
+****** Phenylketonuria (PKU)
+:PROPERTIES:
+:NOTER_PAGE: 263
+:END:
+****** Galactosemia
+:PROPERTIES:
+:NOTER_PAGE: 264
+:END:
+****** Lysosomal Storage Diseases
+:PROPERTIES:
+:NOTER_PAGE: 264
+:END:
+******* Tay-Sachs Disease (GM2 Gangliosidosis: Deficiency in Hexosaminidase β Subunit)
+:PROPERTIES:
+:NOTER_PAGE: 265
+:END:
+******* Niemann-Pick Disease Types A and B
+:PROPERTIES:
+:NOTER_PAGE: 266
+:END:
+******* Niemann-Pick Disease Type C
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+******* Gaucher Disease
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+******* Mucopolysaccharidoses
+:PROPERTIES:
+:NOTER_PAGE: 268
+:END:
+****** Glycogen Storage Diseases (Glycogenoses)
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+***** Diseases Caused by Mutations in Genes Encoding Proteins That Regulate Cell Growth
+:PROPERTIES:
+:NOTER_PAGE: 270
+:END:
+**** Complex Multigenic Disorders
+:PROPERTIES:
+:NOTER_PAGE: 270
+:END:
+**** Cytogenetic Disorders
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+***** Numeric Abnormalities
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+***** Structural Abnormalities
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+***** General Features of Chromosomal Disorders
+:PROPERTIES:
+:NOTER_PAGE: 273
+:END:
+***** Cytogenetic Disorders Involving Autosomes
+:PROPERTIES:
+:NOTER_PAGE: 273
+:END:
+****** Trisomy 21 (Down Syndrome)
+:PROPERTIES:
+:NOTER_PAGE: 273
+:END:
+****** 22q11.2 Deletion Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 275
+:END:
+***** Cytogenetic Disorders Involving Sex Chromosomes
+:PROPERTIES:
+:NOTER_PAGE: 276
+:END:
+****** Klinefelter Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 276
+:END:
+****** Turner Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 276
+:END:
+**** Single-Gene Disorders With Atypical Patterns of Inheritance
+:PROPERTIES:
+:NOTER_PAGE: 278
+:END:
+***** Triplet Repeat Mutations
+:PROPERTIES:
+:NOTER_PAGE: 278
+:END:
+****** Fragile X Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 278
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 278
+:END:
+****** Fragile X Tremor/Ataxia
+:PROPERTIES:
+:NOTER_PAGE: 279
+:END:
+***** Diseases Caused by Mutations in Mitochondrial Genes
+:PROPERTIES:
+:NOTER_PAGE: 280
+:END:
+***** Diseases Caused by Alterations of Imprinted Regions: Prader-Willi and Angelman Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 280
+:END:
+*** Pediatric Diseases
+:PROPERTIES:
+:NOTER_PAGE: 282
+:END:
+**** Congenital Anomalies
+:PROPERTIES:
+:NOTER_PAGE: 282
+:END:
+***** Etiology
+:PROPERTIES:
+:NOTER_PAGE: 284
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 285
+:END:
+**** Perinatal Infections
+:PROPERTIES:
+:NOTER_PAGE: 286
+:END:
+**** Prematurity and Fetal Growth Restriction
+:PROPERTIES:
+:NOTER_PAGE: 286
+:END:
+**** Respiratory Distress Syndrome of the Newborn
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+**** Necrotizing Enterocolitis
+:PROPERTIES:
+:NOTER_PAGE: 288
+:END:
+**** Sudden Infant Death Syndrome (SIDS)
+:PROPERTIES:
+:NOTER_PAGE: 289
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 289
+:END:
+**** Fetal Hydrops
+:PROPERTIES:
+:NOTER_PAGE: 291
+:END:
+***** Immune Hydrops
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+***** Nonimmune Hydrops
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 293
+:END:
+**** Tumors and Tumorlike Lesions of Infancy and Childhood
+:PROPERTIES:
+:NOTER_PAGE: 294
+:END:
+***** Benign Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 294
+:END:
+***** Malignant Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 295
+:END:
+****** Neuroblastoma
+:PROPERTIES:
+:NOTER_PAGE: 295
+:END:
+******* Clinical Course and Prognosis
+:PROPERTIES:
+:NOTER_PAGE: 296
+:END:
+****** Retinoblastoma
+:PROPERTIES:
+:NOTER_PAGE: 298
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 298
+:END:
+****** Wilms Tumor
+:PROPERTIES:
+:NOTER_PAGE: 298
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 300
+:END:
+**** Molecular Diagnosis of Mendelian and Complex Disorders
+:PROPERTIES:
+:NOTER_PAGE: 300
+:END:
+***** Indications for Genetic Analysis
+:PROPERTIES:
+:NOTER_PAGE: 301
+:END:
+***** Molecular Diagnosis of Copy Number Abnormalities
+:PROPERTIES:
+:NOTER_PAGE: 301
+:END:
+****** Fluorescence in Situ Hybridization
+:PROPERTIES:
+:NOTER_PAGE: 301
+:END:
+****** Array-Based Genomic Hybridization
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+***** Direct Detection of DNA Mutations by Polymerase Chain Reaction (PCR) Analysis
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+****** Next Generation Sequencing
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+***** Linkage Analysis and Genomewide Association Studies
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+****** Linkage Analysis
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+****** Genomewide Association Studies (GWASs)
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+** 8 Environmental and Nutritional Diseases
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+*** Health Effects of Climate Change
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+*** Toxicity of Chemical and Physical Agents
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+*** Environmental Pollution
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+**** Air Pollution
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+***** Outdoor Air Pollution
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+***** Indoor Air Pollution
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+**** Metals as Environmental Pollutants
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+***** Lead
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+***** Mercury
+:PROPERTIES:
+:NOTER_PAGE: 313
+:END:
+***** Arsenic
+:PROPERTIES:
+:NOTER_PAGE: 313
+:END:
+***** Cadmium
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+**** Industrial and Agricultural Exposures
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+*** Effects of Tobacco
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+*** Effects of Alcohol
+:PROPERTIES:
+:NOTER_PAGE: 318
+:END:
+*** Injury by Therapeutic Drugs and Drugs of Abuse
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+**** Injury by Therapeutic Drugs: Adverse Drug Reactions
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+***** Exogenous Estrogens and Oral Contraceptives
+:PROPERTIES:
+:NOTER_PAGE: 321
+:END:
+****** Menopausal Hormone Therapy (MHT)
+:PROPERTIES:
+:NOTER_PAGE: 321
+:END:
+****** Oral Contraceptives
+:PROPERTIES:
+:NOTER_PAGE: 322
+:END:
+***** Acetaminophen
+:PROPERTIES:
+:NOTER_PAGE: 322
+:END:
+***** Aspirin (Acetylsalicylic Acid)
+:PROPERTIES:
+:NOTER_PAGE: 322
+:END:
+**** Injury by Nontherapeutic Agents (Drug Abuse)
+:PROPERTIES:
+:NOTER_PAGE: 323
+:END:
+***** Cocaine
+:PROPERTIES:
+:NOTER_PAGE: 323
+:END:
+***** Heroin and Other Opioids
+:PROPERTIES:
+:NOTER_PAGE: 324
+:END:
+***** Marijuana
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+***** Other Illicit Drugs
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+*** Injury by Physical Agents
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+**** Mechanical Trauma
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+**** Thermal Injury
+:PROPERTIES:
+:NOTER_PAGE: 326
+:END:
+***** Thermal Burns
+:PROPERTIES:
+:NOTER_PAGE: 326
+:END:
+***** Hyperthermia
+:PROPERTIES:
+:NOTER_PAGE: 327
+:END:
+***** Hypothermia
+:PROPERTIES:
+:NOTER_PAGE: 327
+:END:
+**** Electrical Injury
+:PROPERTIES:
+:NOTER_PAGE: 327
+:END:
+**** Injury Produced by Ionizing Radiation
+:PROPERTIES:
+:NOTER_PAGE: 328
+:END:
+***** Main Determinants of the Biologic Effects of Ionizing Radiation
+:PROPERTIES:
+:NOTER_PAGE: 328
+:END:
+***** DNA Damage and Carcinogenesis
+:PROPERTIES:
+:NOTER_PAGE: 329
+:END:
+***** Fibrosis
+:PROPERTIES:
+:NOTER_PAGE: 329
+:END:
+***** Effects on Organ Systems
+:PROPERTIES:
+:NOTER_PAGE: 330
+:END:
+***** Total-Body Irradiation
+:PROPERTIES:
+:NOTER_PAGE: 331
+:END:
+*** Nutritional Diseases
+:PROPERTIES:
+:NOTER_PAGE: 331
+:END:
+**** Malnutrition
+:PROPERTIES:
+:NOTER_PAGE: 332
+:END:
+**** Severe Acute Malnutrition
+:PROPERTIES:
+:NOTER_PAGE: 332
+:END:
+***** Marasmus
+:PROPERTIES:
+:NOTER_PAGE: 333
+:END:
+***** Kwashiorkor
+:PROPERTIES:
+:NOTER_PAGE: 333
+:END:
+***** Secondary Malnutrition
+:PROPERTIES:
+:NOTER_PAGE: 334
+:END:
+**** Anorexia Nervosa and Bulimia
+:PROPERTIES:
+:NOTER_PAGE: 334
+:END:
+**** Vitamin Deficiencies
+:PROPERTIES:
+:NOTER_PAGE: 334
+:END:
+***** Vitamin A
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+****** Function.
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+****** Deficiency States.
+:PROPERTIES:
+:NOTER_PAGE: 336
+:END:
+****** Vitamin A Toxicity.
+:PROPERTIES:
+:NOTER_PAGE: 337
+:END:
+***** Vitamin D
+:PROPERTIES:
+:NOTER_PAGE: 337
+:END:
+****** Metabolism.
+:PROPERTIES:
+:NOTER_PAGE: 337
+:END:
+****** Functions.
+:PROPERTIES:
+:NOTER_PAGE: 337
+:END:
+****** Deficiency States
+:PROPERTIES:
+:NOTER_PAGE: 338
+:END:
+******* Nonskeletal Effects of Vitamin D.
+:PROPERTIES:
+:NOTER_PAGE: 339
+:END:
+******* Toxicity.
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+***** Vitamin C (Ascorbic Acid)
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+****** Function.
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+****** Deficiency States.
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+****** Toxicity.
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+**** Obesity
+:PROPERTIES:
+:NOTER_PAGE: 342
+:END:
+***** Leptin
+:PROPERTIES:
+:NOTER_PAGE: 343
+:END:
+***** Adiponectin
+:PROPERTIES:
+:NOTER_PAGE: 344
+:END:
+***** Adipose Tissue and Other Mediators
+:PROPERTIES:
+:NOTER_PAGE: 344
+:END:
+***** Gut Hormones
+:PROPERTIES:
+:NOTER_PAGE: 344
+:END:
+***** The Role of Gut Microbiome
+:PROPERTIES:
+:NOTER_PAGE: 344
+:END:
+***** Clinical Consequences of Obesity
+:PROPERTIES:
+:NOTER_PAGE: 344
+:END:
+****** Obesity and Cancer
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+**** Diet and Systemic Diseases
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+**** Diet and Cancer
+:PROPERTIES:
+:NOTER_PAGE: 346
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 346
+:END:
+** 9 General Pathology of Infectious Diseases
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+*** General Principles of Microbial Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+**** Categories of Infectious Agents
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** Prions
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** Viruses
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** Bacteria
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+***** Fungi
+:PROPERTIES:
+:NOTER_PAGE: 350
+:END:
+***** Protozoa
+:PROPERTIES:
+:NOTER_PAGE: 352
+:END:
+***** Helminths
+:PROPERTIES:
+:NOTER_PAGE: 352
+:END:
+***** Ectoparasites
+:PROPERTIES:
+:NOTER_PAGE: 353
+:END:
+*** The Microbiome
+:PROPERTIES:
+:NOTER_PAGE: 353
+:END:
+*** Techniques for Identifying Infectious Agents
+:PROPERTIES:
+:NOTER_PAGE: 353
+:END:
+*** Newly Emerging and Reemerging Infectious Diseases
+:PROPERTIES:
+:NOTER_PAGE: 354
+:END:
+*** Agents of Bioterrorism
+:PROPERTIES:
+:NOTER_PAGE: 355
+:END:
+*** Transmission and Dissemination of Microbes
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+**** Routes of Entry of Microbes
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** Skin
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** Gastrointestinal Tract
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** Respiratory Tract
+:PROPERTIES:
+:NOTER_PAGE: 357
+:END:
+***** Urogenital Tract
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+**** Spread and Dissemination of Microbes Within the Body
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+**** Transmission of Microbes
+:PROPERTIES:
+:NOTER_PAGE: 359
+:END:
+*** How Microorganisms Cause Disease
+:PROPERTIES:
+:NOTER_PAGE: 359
+:END:
+**** Mechanisms of Viral Injury
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+**** Mechanisms of Bacterial Injury
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+***** Bacterial Virulence
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+***** Bacterial Adherence to Host Cells
+:PROPERTIES:
+:NOTER_PAGE: 361
+:END:
+***** Bacterial Toxins
+:PROPERTIES:
+:NOTER_PAGE: 361
+:END:
+**** Injurious Effects of Host Immune Responses
+:PROPERTIES:
+:NOTER_PAGE: 362
+:END:
+*** Immune Evasion by Microbes
+:PROPERTIES:
+:NOTER_PAGE: 362
+:END:
+*** Spectrum of Inflammatory Responses to Infection
+:PROPERTIES:
+:NOTER_PAGE: 364
+:END:
+**** Mononuclear and Granulomatous Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 364
+:END:
+**** Cytopathic-Cytoproliferative Reaction
+:PROPERTIES:
+:NOTER_PAGE: 364
+:END:
+**** Tissue Necrosis
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+**** Chronic Inflammation and Scarring
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+**** Infections in Individuals With Immunodeficiencies
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 366
+:END:
+** 10 Blood Vessels
+:PROPERTIES:
+:NOTER_PAGE: 368
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 368
+:END:
+*** Structure and Function of Blood Vessels
+:PROPERTIES:
+:NOTER_PAGE: 368
+:END:
+**** Vascular Organization
+:PROPERTIES:
+:NOTER_PAGE: 369
+:END:
+**** Endothelial Cells
+:PROPERTIES:
+:NOTER_PAGE: 370
+:END:
+**** Vascular Smooth Muscle Cells
+:PROPERTIES:
+:NOTER_PAGE: 371
+:END:
+*** Congenital Anomalies
+:PROPERTIES:
+:NOTER_PAGE: 371
+:END:
+*** Blood Pressure Regulation
+:PROPERTIES:
+:NOTER_PAGE: 371
+:END:
+*** Hypertensive Vascular Disease
+:PROPERTIES:
+:NOTER_PAGE: 373
+:END:
+**** Epidemiology of Hypertension
+:PROPERTIES:
+:NOTER_PAGE: 373
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 374
+:END:
+**** Mechanisms of Essential Hypertension
+:PROPERTIES:
+:NOTER_PAGE: 374
+:END:
+*** Vascular Wall Response to Injury
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+**** Intimal Thickening: A Stereotypical Response to Vascular Injury
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+*** Arteriosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 376
+:END:
+*** Atherosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 376
+:END:
+**** Epidemiology of Atherosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 377
+:END:
+***** Constitutional Risk Factors
+:PROPERTIES:
+:NOTER_PAGE: 377
+:END:
+***** Modifiable Major Risk Factors
+:PROPERTIES:
+:NOTER_PAGE: 378
+:END:
+***** Additional Risk Factors
+:PROPERTIES:
+:NOTER_PAGE: 378
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 379
+:END:
+****** Endothelial Injury
+:PROPERTIES:
+:NOTER_PAGE: 379
+:END:
+****** Hemodynamic Disturbances
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+****** Lipids
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+****** Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+****** SMC Proliferation and Matrix Synthesis
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+**** Clinicopathologic Consequences of Atherosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 383
+:END:
+***** Atherosclerotic Stenosis
+:PROPERTIES:
+:NOTER_PAGE: 383
+:END:
+***** Acute Plaque Change
+:PROPERTIES:
+:NOTER_PAGE: 384
+:END:
+*** Aneurysms and Dissections
+:PROPERTIES:
+:NOTER_PAGE: 385
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 385
+:END:
+**** Abdominal Aortic Aneurysm
+:PROPERTIES:
+:NOTER_PAGE: 386
+:END:
+***** Clinical Consequences
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+**** Thoracic Aortic Aneurysm
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+**** Aortic Dissection
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 388
+:END:
+***** Clinical Consequences
+:PROPERTIES:
+:NOTER_PAGE: 388
+:END:
+*** Vasculitis
+:PROPERTIES:
+:NOTER_PAGE: 389
+:END:
+**** Noninfectious Vasculitis
+:PROPERTIES:
+:NOTER_PAGE: 389
+:END:
+***** Immune Complex–Associated Vasculitis
+:PROPERTIES:
+:NOTER_PAGE: 389
+:END:
+***** Anti-Neutrophil Cytoplasmic Antibodies
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+***** Anti-Endothelial Cell Antibodies and Autoreactive T Cells
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+***** Giant Cell (Temporal) Arteritis
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+***** Takayasu Arteritis
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 393
+:END:
+***** Polyarteritis Nodosa
+:PROPERTIES:
+:NOTER_PAGE: 393
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+***** Kawasaki Disease
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+***** Microscopic Polyangiitis
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+***** Granulomatosis With Polyangiitis
+:PROPERTIES:
+:NOTER_PAGE: 395
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 395
+:END:
+***** Churg-Strauss Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+***** Thromboangiitis Obliterans (Buerger Disease)
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+***** Vasculitis Associated With Other Noninfectious Disorders
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+**** Infectious Vasculitis
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+*** Disorders of Blood Vessel Hyperreactivity
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** Raynaud Phenomenon
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** Myocardial Vessel Vasospasm
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+*** Veins and Lymphatics
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** Varicose Veins of the Extremities
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** Varicosities of Other Sites
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** Thrombophlebitis and Phlebothrombosis
+:PROPERTIES:
+:NOTER_PAGE: 398
+:END:
+**** Superior and Inferior Vena Cava Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 398
+:END:
+**** Lymphangitis and Lymphedema
+:PROPERTIES:
+:NOTER_PAGE: 398
+:END:
+*** Tumors
+:PROPERTIES:
+:NOTER_PAGE: 398
+:END:
+**** Benign Tumors and Tumor-Like Conditions
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+***** Vascular Ectasias
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+***** Hemangiomas
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+***** Lymphangiomas
+:PROPERTIES:
+:NOTER_PAGE: 400
+:END:
+***** Glomus Tumors (Glomangiomas)
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+***** Bacillary Angiomatosis
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+**** Intermediate-Grade (Borderline) Tumors
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+***** Kaposi Sarcoma
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 402
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 402
+:END:
+***** Hemangioendotheliomas
+:PROPERTIES:
+:NOTER_PAGE: 402
+:END:
+**** Malignant Tumors
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+***** Angiosarcomas
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+*** Pathology of Vascular Intervention
+:PROPERTIES:
+:NOTER_PAGE: 404
+:END:
+**** Endovascular Stenting
+:PROPERTIES:
+:NOTER_PAGE: 404
+:END:
+**** Vascular Replacement
+:PROPERTIES:
+:NOTER_PAGE: 404
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 405
+:END:
+** 11 Heart
+:PROPERTIES:
+:NOTER_PAGE: 406
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 406
+:END:
+*** Overview of Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 406
+:END:
+*** Heart Failure
+:PROPERTIES:
+:NOTER_PAGE: 407
+:END:
+**** Left-Sided Heart Failure
+:PROPERTIES:
+:NOTER_PAGE: 408
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 409
+:END:
+**** Right-Sided Heart Failure
+:PROPERTIES:
+:NOTER_PAGE: 409
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 410
+:END:
+*** Congenital Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 410
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 410
+:END:
+**** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 411
+:END:
+**** Malformations Associated With Left-to-Right Shunts
+:PROPERTIES:
+:NOTER_PAGE: 411
+:END:
+***** Atrial Septal Defects and Patent Foramen Ovale
+:PROPERTIES:
+:NOTER_PAGE: 412
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 412
+:END:
+***** Ventricular Septal Defects
+:PROPERTIES:
+:NOTER_PAGE: 412
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+***** Patent Ductus Arteriosus
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+**** Malformations Associated With Right-to-Left Shunts
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+***** Tetralogy of Fallot
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+***** Transposition of the Great Arteries
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+**** Malformations Associated With Obstructive Lesions
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+***** Aortic Coarctation
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 415
+:END:
+*** Ischemic Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 415
+:END:
+**** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 416
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 416
+:END:
+**** Acute Plaque Change
+:PROPERTIES:
+:NOTER_PAGE: 417
+:END:
+**** Angina Pectoris
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+**** Myocardial Infarction
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+***** Coronary Artery Occlusion
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+***** Myocardial Response to Ischemia
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+***** Patterns of Infarction
+:PROPERTIES:
+:NOTER_PAGE: 419
+:END:
+***** Infarct Modification by Reperfusion
+:PROPERTIES:
+:NOTER_PAGE: 422
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 423
+:END:
+***** Consequences and Complications of Myocardial Infarction
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+**** Chronic Ischemic Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 426
+:END:
+**** Cardiac Stem Cells
+:PROPERTIES:
+:NOTER_PAGE: 426
+:END:
+*** Arrhythmias
+:PROPERTIES:
+:NOTER_PAGE: 426
+:END:
+**** Sudden Cardiac Death
+:PROPERTIES:
+:NOTER_PAGE: 427
+:END:
+*** Hypertensive Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 427
+:END:
+**** Systemic (Left-Sided) Hypertensive Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 428
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+**** Pulmonary Hypertensive Heart Disease— Cor Pulmonale
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+*** Valvular Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+**** Degenerative Valve Disease
+:PROPERTIES:
+:NOTER_PAGE: 430
+:END:
+***** Calcific Aortic Stenosis
+:PROPERTIES:
+:NOTER_PAGE: 430
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 431
+:END:
+***** Myxomatous Mitral Valve
+:PROPERTIES:
+:NOTER_PAGE: 431
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 431
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+**** Rheumatic Valvular Disease
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+**** Infective Endocarditis
+:PROPERTIES:
+:NOTER_PAGE: 434
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 434
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 434
+:END:
+**** Noninfected Vegetations
+:PROPERTIES:
+:NOTER_PAGE: 435
+:END:
+***** Nonbacterial Thrombotic Endocarditis
+:PROPERTIES:
+:NOTER_PAGE: 435
+:END:
+***** Endocarditis in Systemic Lupus Erythematosus: Libman-Sacks Endocarditis
+:PROPERTIES:
+:NOTER_PAGE: 436
+:END:
+*** Cardiomyopathies and Myocarditis
+:PROPERTIES:
+:NOTER_PAGE: 436
+:END:
+**** Dilated Cardiomyopathy
+:PROPERTIES:
+:NOTER_PAGE: 436
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 437
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 438
+:END:
+**** Arrhythmogenic Right Ventricular Cardiomyopathy
+:PROPERTIES:
+:NOTER_PAGE: 439
+:END:
+**** Hypertrophic Cardiomyopathy
+:PROPERTIES:
+:NOTER_PAGE: 439
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 439
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 440
+:END:
+**** Restrictive Cardiomyopathy
+:PROPERTIES:
+:NOTER_PAGE: 440
+:END:
+**** Myocarditis
+:PROPERTIES:
+:NOTER_PAGE: 441
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 441
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+**** Other Causes of Myocardial Disease
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+***** Cardiotoxic Drugs
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+***** Catecholamines
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+*** Pericardial Disease
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+**** Pericardial Effusion and Hemopericardium
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+**** Pericarditis
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 444
+:END:
+*** Cardiac Tumors
+:PROPERTIES:
+:NOTER_PAGE: 444
+:END:
+**** Primary Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 444
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+**** Cardiac Effects of Noncardiac Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+***** Carcinoid Heart Disease
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 446
+:END:
+*** Cardiac Transplantation
+:PROPERTIES:
+:NOTER_PAGE: 446
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 446
+:END:
+** 12 Hematopoietic and Lymphoid Systems
+:PROPERTIES:
+:NOTER_PAGE: 448
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 448
+:END:
+*** Red Cell Disorders
+:PROPERTIES:
+:NOTER_PAGE: 449
+:END:
+**** Anemia of Blood Loss: Hemorrhage
+:PROPERTIES:
+:NOTER_PAGE: 450
+:END:
+**** Hemolytic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 450
+:END:
+***** Hereditary Spherocytosis
+:PROPERTIES:
+:NOTER_PAGE: 451
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 451
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 452
+:END:
+***** Sickle Cell Anemia
+:PROPERTIES:
+:NOTER_PAGE: 452
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 452
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 453
+:END:
+***** Thalassemia
+:PROPERTIES:
+:NOTER_PAGE: 454
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 454
+:END:
+****** β-Thalassemia
+:PROPERTIES:
+:NOTER_PAGE: 455
+:END:
+****** α-Thalassemia
+:PROPERTIES:
+:NOTER_PAGE: 455
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 456
+:END:
+***** Glucose-6-Phosphate Dehydrogenase Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 457
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 457
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 457
+:END:
+***** Paroxysmal Nocturnal Hemoglobinuria
+:PROPERTIES:
+:NOTER_PAGE: 457
+:END:
+***** Immunohemolytic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+****** Warm Antibody Immunohemolytic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+****** Cold Antibody Immunohemolytic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+***** Hemolytic Anemia Resulting From Mechanical Trauma to Red Cells
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+***** Malaria
+:PROPERTIES:
+:NOTER_PAGE: 459
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 459
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 460
+:END:
+**** Anemia of Diminished Erythropoiesis
+:PROPERTIES:
+:NOTER_PAGE: 460
+:END:
+***** Iron Deficiency Anemia
+:PROPERTIES:
+:NOTER_PAGE: 460
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 462
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 462
+:END:
+***** Anemia of Chronic Inflammation
+:PROPERTIES:
+:NOTER_PAGE: 462
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 463
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 463
+:END:
+***** Megaloblastic Anemias
+:PROPERTIES:
+:NOTER_PAGE: 463
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 463
+:END:
+****** Folate (Folic Acid) Deficiency Anemia
+:PROPERTIES:
+:NOTER_PAGE: 463
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 464
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 464
+:END:
+****** Vitamin B12 (Cobalamin) Deficiency Anemia
+:PROPERTIES:
+:NOTER_PAGE: 464
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 464
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 464
+:END:
+***** Aplastic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 465
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 465
+:END:
+******* Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 465
+:END:
+***** Myelophthisic Anemia
+:PROPERTIES:
+:NOTER_PAGE: 465
+:END:
+**** Polycythemia
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+*** White Cell Disorders
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+**** Nonneoplastic Disorders of White Cells
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+***** Leukopenia
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+****** Neutropenia/Agranulocytosis
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 466
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 467
+:END:
+***** Reactive Leukocytosis
+:PROPERTIES:
+:NOTER_PAGE: 467
+:END:
+****** Infectious Mononucleosis
+:PROPERTIES:
+:NOTER_PAGE: 467
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 467
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 468
+:END:
+***** Reactive Lymphadenitis
+:PROPERTIES:
+:NOTER_PAGE: 468
+:END:
+****** Acute Nonspecific Lymphadenitis
+:PROPERTIES:
+:NOTER_PAGE: 468
+:END:
+****** Chronic Nonspecific Lymphadenitis
+:PROPERTIES:
+:NOTER_PAGE: 469
+:END:
+****** Cat-Scratch Disease
+:PROPERTIES:
+:NOTER_PAGE: 469
+:END:
+****** Hemophagocytic Lymphohistiocytosis (HLH)
+:PROPERTIES:
+:NOTER_PAGE: 469
+:END:
+**** Neoplastic Proliferations of White Cells
+:PROPERTIES:
+:NOTER_PAGE: 470
+:END:
+***** Lymphoid Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 470
+:END:
+****** Precursor B and T Cell Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 472
+:END:
+******* Acute Lymphoblastic Leukemia/Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 472
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 472
+:END:
+******** Genetics.
+:PROPERTIES:
+:NOTER_PAGE: 473
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 473
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 473
+:END:
+******* Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 474
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 474
+:END:
+******** Immunophenotype and Genetics.
+:PROPERTIES:
+:NOTER_PAGE: 474
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+******* Follicular Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+******* Mantle Cell Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******* Extranodal Marginal Zone Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******* Diffuse Large B Cell Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******** Special Subtypes.
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 477
+:END:
+******* Burkitt Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+******* Plasma Cell Neoplasms and Related Entities
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+******* Multiple Myeloma
+:PROPERTIES:
+:NOTER_PAGE: 479
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 479
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 479
+:END:
+******* Lymphoplasmacytic Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 480
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 480
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 481
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 481
+:END:
+******* Hodgkin Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 481
+:END:
+******** Classification.
+:PROPERTIES:
+:NOTER_PAGE: 481
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 483
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 483
+:END:
+******* Miscellaneous Lymphoid Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+******** Hairy Cell Leukemia.
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+******** Mycosis Fungoides and Sézary Syndrome.
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+******** Adult T Cell Leukemia/Lymphoma.
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+******** Peripheral T Cell Lymphoma.
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+***** Myeloid Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 485
+:END:
+****** Acute Myeloid Leukemia
+:PROPERTIES:
+:NOTER_PAGE: 486
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 486
+:END:
+******** Classification.
+:PROPERTIES:
+:NOTER_PAGE: 486
+:END:
+******** Immunophenotype.
+:PROPERTIES:
+:NOTER_PAGE: 486
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 487
+:END:
+****** Myelodysplastic Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 487
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+******** Clinical Features.
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+****** Myeloproliferative Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+****** Chronic Myeloid Leukemia
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 489
+:END:
+****** Polycythemia Vera
+:PROPERTIES:
+:NOTER_PAGE: 489
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 490
+:END:
+****** Primary Myelofibrosis
+:PROPERTIES:
+:NOTER_PAGE: 490
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 491
+:END:
+***** Histiocytic Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 491
+:END:
+****** Langerhans Cell Histiocytoses
+:PROPERTIES:
+:NOTER_PAGE: 491
+:END:
+*** Bleeding Disorders
+:PROPERTIES:
+:NOTER_PAGE: 492
+:END:
+**** Disseminated Intravascular Coagulation (DIC)
+:PROPERTIES:
+:NOTER_PAGE: 493
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 493
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 494
+:END:
+**** Thrombocytopenia
+:PROPERTIES:
+:NOTER_PAGE: 495
+:END:
+***** Immune Thrombocytopenic Purpura
+:PROPERTIES:
+:NOTER_PAGE: 495
+:END:
+***** Heparin-Induced Thrombocytopenia
+:PROPERTIES:
+:NOTER_PAGE: 495
+:END:
+***** Thrombotic Microangiopathies: Thrombotic Thrombocytopenic Purpura and Hemolytic Uremic Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 496
+:END:
+**** Coagulation Disorders
+:PROPERTIES:
+:NOTER_PAGE: 496
+:END:
+***** Deficiencies of Factor VIII–von Willebrand Factor Complex
+:PROPERTIES:
+:NOTER_PAGE: 496
+:END:
+****** von Willebrand Disease
+:PROPERTIES:
+:NOTER_PAGE: 497
+:END:
+****** Hemophilia A—Factor VIII Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 497
+:END:
+****** Hemophilia B—Factor IX Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 497
+:END:
+*** Complications of Transfusion
+:PROPERTIES:
+:NOTER_PAGE: 498
+:END:
+**** Allergic Reactions
+:PROPERTIES:
+:NOTER_PAGE: 498
+:END:
+**** Hemolytic Reactions
+:PROPERTIES:
+:NOTER_PAGE: 498
+:END:
+**** Transfusion-Related Acute Lung Injury
+:PROPERTIES:
+:NOTER_PAGE: 499
+:END:
+**** Infectious Complications
+:PROPERTIES:
+:NOTER_PAGE: 499
+:END:
+*** Disorders of the Spleen and Thymus
+:PROPERTIES:
+:NOTER_PAGE: 499
+:END:
+**** Splenomegaly
+:PROPERTIES:
+:NOTER_PAGE: 499
+:END:
+**** Disorders of the Thymus
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+***** Thymic Hyperplasia
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+***** Thymoma
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+**** Red Cell Disorders
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+**** White Cell Disorders
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+**** Bleeding Disorders
+:PROPERTIES:
+:NOTER_PAGE: 501
+:END:
+**** Disorders That Affect the Spleen and Thymus
+:PROPERTIES:
+:NOTER_PAGE: 501
+:END:
+** 13 Lung
+:PROPERTIES:
+:NOTER_PAGE: 502
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 502
+:END:
+*** Atelectasis (Collapse)
+:PROPERTIES:
+:NOTER_PAGE: 502
+:END:
+*** Acute Respiratory Distress Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 503
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 503
+:END:
+**** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 504
+:END:
+*** Obstructive Versus Restrictive Pulmonary Diseases
+:PROPERTIES:
+:NOTER_PAGE: 505
+:END:
+*** Obstructive Lung (Airway) Diseases
+:PROPERTIES:
+:NOTER_PAGE: 505
+:END:
+**** Emphysema
+:PROPERTIES:
+:NOTER_PAGE: 505
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 507
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 508
+:END:
+***** Conditions Related to Emphysema
+:PROPERTIES:
+:NOTER_PAGE: 508
+:END:
+**** Chronic Bronchitis
+:PROPERTIES:
+:NOTER_PAGE: 509
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 509
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 509
+:END:
+**** Asthma
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Atopic Asthma
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Non-Atopic Asthma
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Drug-Induced Asthma
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Occupational Asthma
+:PROPERTIES:
+:NOTER_PAGE: 510
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 512
+:END:
+**** Bronchiectasis
+:PROPERTIES:
+:NOTER_PAGE: 512
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 513
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 513
+:END:
+*** Chronic Interstitial (Restrictive, Infiltrative) Lung Diseases
+:PROPERTIES:
+:NOTER_PAGE: 513
+:END:
+**** Fibrosing Diseases
+:PROPERTIES:
+:NOTER_PAGE: 514
+:END:
+***** Idiopathic Pulmonary Fibrosis
+:PROPERTIES:
+:NOTER_PAGE: 514
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 514
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 515
+:END:
+***** Other Fibrosing Diseases
+:PROPERTIES:
+:NOTER_PAGE: 515
+:END:
+***** Pneumoconioses
+:PROPERTIES:
+:NOTER_PAGE: 515
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 516
+:END:
+***** Coal Worker’s Pneumoconiosis
+:PROPERTIES:
+:NOTER_PAGE: 516
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 516
+:END:
+***** Silicosis
+:PROPERTIES:
+:NOTER_PAGE: 517
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 518
+:END:
+***** Asbestosis and Asbestos-Related Diseases
+:PROPERTIES:
+:NOTER_PAGE: 518
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 518
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 518
+:END:
+***** Drug- and Radiation-Induced Pulmonary Disease
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+**** Granulomatous Diseases
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+***** Sarcoidosis
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+****** Etiology and Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 521
+:END:
+***** Hypersensitivity Pneumonitis
+:PROPERTIES:
+:NOTER_PAGE: 521
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+**** Pulmonary Eosinophilia
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+**** Smoking-Related Interstitial Diseases
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+*** Pulmonary Diseases of Vascular Origin
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+**** Pulmonary Embolism, Hemorrhage, and Infarction
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 523
+:END:
+**** Pulmonary Hypertension
+:PROPERTIES:
+:NOTER_PAGE: 524
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 524
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 525
+:END:
+**** Diffuse Alveolar Hemorrhage Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 526
+:END:
+***** Goodpasture Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 526
+:END:
+***** Granulomatosis and Polyangiitis
+:PROPERTIES:
+:NOTER_PAGE: 526
+:END:
+*** Pulmonary Infections
+:PROPERTIES:
+:NOTER_PAGE: 526
+:END:
+**** Community-Acquired Bacterial Pneumonias
+:PROPERTIES:
+:NOTER_PAGE: 527
+:END:
+***** Streptococcus pneumoniae
+:PROPERTIES:
+:NOTER_PAGE: 527
+:END:
+***** Haemophilus influenzae
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Moraxella catarrhalis
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Staphylococcus aureus
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Klebsiella pneumoniae
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Pseudomonas aeruginosa
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Legionella pneumophila
+:PROPERTIES:
+:NOTER_PAGE: 528
+:END:
+***** Mycoplasma pneumoniae
+:PROPERTIES:
+:NOTER_PAGE: 529
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 530
+:END:
+**** Community-Acquired Viral Pneumonias
+:PROPERTIES:
+:NOTER_PAGE: 530
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 531
+:END:
+***** Influenza Infections
+:PROPERTIES:
+:NOTER_PAGE: 531
+:END:
+**** Hospital-Acquired Pneumonias
+:PROPERTIES:
+:NOTER_PAGE: 531
+:END:
+**** Aspiration Pneumonia
+:PROPERTIES:
+:NOTER_PAGE: 532
+:END:
+**** Lung Abscess
+:PROPERTIES:
+:NOTER_PAGE: 532
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 532
+:END:
+**** Chronic Pneumonias
+:PROPERTIES:
+:NOTER_PAGE: 532
+:END:
+**** Tuberculosis
+:PROPERTIES:
+:NOTER_PAGE: 533
+:END:
+***** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 533
+:END:
+****** Etiology and Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 533
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 533
+:END:
+***** Primary Tuberculosis
+:PROPERTIES:
+:NOTER_PAGE: 535
+:END:
+***** Secondary Tuberculosis (Reactivation Tuberculosis)
+:PROPERTIES:
+:NOTER_PAGE: 535
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 537
+:END:
+***** Nontuberculous Mycobacterial Disease
+:PROPERTIES:
+:NOTER_PAGE: 539
+:END:
+**** Histoplasmosis, Coccidioidomycosis, and Blastomycosis
+:PROPERTIES:
+:NOTER_PAGE: 539
+:END:
+***** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 539
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 539
+:END:
+**** Pneumonia in the Immunocompromised Host
+:PROPERTIES:
+:NOTER_PAGE: 540
+:END:
+***** Cytomegalovirus Infection
+:PROPERTIES:
+:NOTER_PAGE: 540
+:END:
+***** Cytomegalovirus Mononucleosis
+:PROPERTIES:
+:NOTER_PAGE: 541
+:END:
+***** Cytomegalovirus Infection in Immunosuppressed Individuals
+:PROPERTIES:
+:NOTER_PAGE: 541
+:END:
+***** Pneumocystis
+:PROPERTIES:
+:NOTER_PAGE: 541
+:END:
+**** Opportunistic Fungal Infections
+:PROPERTIES:
+:NOTER_PAGE: 542
+:END:
+***** Candidiasis
+:PROPERTIES:
+:NOTER_PAGE: 542
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 542
+:END:
+***** Cryptococcosis
+:PROPERTIES:
+:NOTER_PAGE: 543
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 543
+:END:
+***** The Opportunistic Molds
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+**** Pulmonary Disease in Human Immunodeficiency Virus Infection
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+*** Lung Tumors
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+**** Carcinomas
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+***** Etiology and Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 545
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 547
+:END:
+**** Carcinoid Tumors
+:PROPERTIES:
+:NOTER_PAGE: 550
+:END:
+*** Pleural Lesions
+:PROPERTIES:
+:NOTER_PAGE: 551
+:END:
+**** Pleural Effusion and Pleuritis
+:PROPERTIES:
+:NOTER_PAGE: 551
+:END:
+**** Pneumothorax, Hemothorax, and Chylothorax
+:PROPERTIES:
+:NOTER_PAGE: 551
+:END:
+**** Malignant Mesothelioma
+:PROPERTIES:
+:NOTER_PAGE: 551
+:END:
+*** Lesions of the Upper Respiratory Tract
+:PROPERTIES:
+:NOTER_PAGE: 552
+:END:
+**** Acute Infections
+:PROPERTIES:
+:NOTER_PAGE: 552
+:END:
+**** Nasopharyngeal Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 553
+:END:
+**** Laryngeal Tumors
+:PROPERTIES:
+:NOTER_PAGE: 553
+:END:
+***** Nonmalignant Lesions
+:PROPERTIES:
+:NOTER_PAGE: 553
+:END:
+***** Carcinoma of the Larynx
+:PROPERTIES:
+:NOTER_PAGE: 553
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 554
+:END:
+** 14 Kidney and Its Collecting System
+:PROPERTIES:
+:NOTER_PAGE: 556
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 556
+:END:
+*** Clinical Manifestations of Renal Diseases
+:PROPERTIES:
+:NOTER_PAGE: 556
+:END:
+*** Glomerular Diseases
+:PROPERTIES:
+:NOTER_PAGE: 557
+:END:
+**** Mechanisms of Glomerular Injury and Disease
+:PROPERTIES:
+:NOTER_PAGE: 559
+:END:
+***** Glomerulonephritis Caused by Circulating Immune Complexes
+:PROPERTIES:
+:NOTER_PAGE: 559
+:END:
+***** Glomerulonephritis Caused by Immune Complexes Formed in Situ
+:PROPERTIES:
+:NOTER_PAGE: 560
+:END:
+***** Anti-Glomerular Basement Membrane Antibody–Mediated Glomerulonephritis
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+***** Glomerular Diseases Caused by Complement Activation
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+***** Mediators of Immune Injury
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+***** Non-immune Mechanisms of Glomerular Injury
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+****** Podocyte Injury
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+****** Nephron Loss
+:PROPERTIES:
+:NOTER_PAGE: 562
+:END:
+***** Minimal-Change Disease
+:PROPERTIES:
+:NOTER_PAGE: 562
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 562
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 562
+:END:
+***** Focal Segmental Glomerulosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 563
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 563
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 564
+:END:
+***** Membranous Nephropathy
+:PROPERTIES:
+:NOTER_PAGE: 564
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 565
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 565
+:END:
+***** Membranoproliferative Glomerulonephritis
+:PROPERTIES:
+:NOTER_PAGE: 566
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 566
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 566
+:END:
+***** C3 Glomerulopathy
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+***** Acute Postinfectious (Poststreptococcal) Glomerulonephritis
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+***** IgA Nephropathy
+:PROPERTIES:
+:NOTER_PAGE: 568
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 568
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+***** Hereditary Nephritis
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+***** Rapidly Progressive Glomerulonephritis
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 569
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 570
+:END:
+*** Diseases Affecting Tubules and Interstitium
+:PROPERTIES:
+:NOTER_PAGE: 571
+:END:
+**** Tubulointerstitial Nephritis
+:PROPERTIES:
+:NOTER_PAGE: 571
+:END:
+***** Acute Pyelonephritis
+:PROPERTIES:
+:NOTER_PAGE: 571
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 571
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 573
+:END:
+***** Chronic Pyelonephritis and Reflux Nephropathy
+:PROPERTIES:
+:NOTER_PAGE: 573
+:END:
+****** Chronic Obstructive Pyelonephritis
+:PROPERTIES:
+:NOTER_PAGE: 573
+:END:
+****** Chronic Reflux–Associated Pyelonephritis (Reflux Nephropathy)
+:PROPERTIES:
+:NOTER_PAGE: 573
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 573
+:END:
+***** Drug-Induced Tubulointerstitial Nephritis
+:PROPERTIES:
+:NOTER_PAGE: 574
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 574
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 574
+:END:
+**** Acute Tubular Injury/Necrosis
+:PROPERTIES:
+:NOTER_PAGE: 574
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 575
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+*** Diseases Involving Blood Vessels
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+**** Nephrosclerosis
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+**** Malignant Hypertension
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+**** Thrombotic Microangiopathies
+:PROPERTIES:
+:NOTER_PAGE: 578
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 578
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 579
+:END:
+*** Chronic Kidney Disease
+:PROPERTIES:
+:NOTER_PAGE: 579
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 580
+:END:
+**** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 580
+:END:
+*** Cystic Diseases of the Kidney
+:PROPERTIES:
+:NOTER_PAGE: 580
+:END:
+**** Simple Cysts
+:PROPERTIES:
+:NOTER_PAGE: 580
+:END:
+**** Autosomal Dominant (Adult) Polycystic Kidney Disease
+:PROPERTIES:
+:NOTER_PAGE: 581
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 581
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 581
+:END:
+**** Autosomal Recessive (Childhood) Polycystic Kidney Disease
+:PROPERTIES:
+:NOTER_PAGE: 582
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 582
+:END:
+**** Medullary Diseases With Cysts
+:PROPERTIES:
+:NOTER_PAGE: 582
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 583
+:END:
+*** Urinary Outflow Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 583
+:END:
+**** Renal Stones (Urolithiasis)
+:PROPERTIES:
+:NOTER_PAGE: 583
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 583
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 584
+:END:
+**** Hydronephrosis
+:PROPERTIES:
+:NOTER_PAGE: 584
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 584
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 584
+:END:
+*** Congenital and Developmental Anomalies
+:PROPERTIES:
+:NOTER_PAGE: 585
+:END:
+*** Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 585
+:END:
+**** Neoplasms of the Kidney
+:PROPERTIES:
+:NOTER_PAGE: 585
+:END:
+***** Oncocytoma
+:PROPERTIES:
+:NOTER_PAGE: 585
+:END:
+***** Renal Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 585
+:END:
+****** Clear Cell Carcinomas
+:PROPERTIES:
+:NOTER_PAGE: 586
+:END:
+****** Papillary Renal Cell Carcinomas
+:PROPERTIES:
+:NOTER_PAGE: 586
+:END:
+****** Chromophobe Renal Carcinomas
+:PROPERTIES:
+:NOTER_PAGE: 586
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 587
+:END:
+***** Wilms Tumor
+:PROPERTIES:
+:NOTER_PAGE: 587
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 587
+:END:
+** 15 Oral Cavities and Gastrointestinal Tract
+:PROPERTIES:
+:NOTER_PAGE: 589
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 589
+:END:
+*** Oral Cavity
+:PROPERTIES:
+:NOTER_PAGE: 589
+:END:
+**** Diseases of Teeth and Supporting Structures
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Caries
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Gingivitis
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Periodontitis
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+**** Oral Inflammatory Lesions
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Aphthous Ulcers (Canker Sores)
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Herpes Simplex Virus Infections
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+***** Oral Candidiasis (Thrush)
+:PROPERTIES:
+:NOTER_PAGE: 591
+:END:
+**** Proliferative and Neoplastic Lesions of the Oral Cavity
+:PROPERTIES:
+:NOTER_PAGE: 591
+:END:
+***** Fibrous Proliferative Lesions
+:PROPERTIES:
+:NOTER_PAGE: 591
+:END:
+***** Leukoplakia and Erythroplakia
+:PROPERTIES:
+:NOTER_PAGE: 591
+:END:
+***** Squamous Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 592
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 592
+:END:
+**** Diseases of Salivary Glands
+:PROPERTIES:
+:NOTER_PAGE: 593
+:END:
+***** Xerostomia
+:PROPERTIES:
+:NOTER_PAGE: 593
+:END:
+***** Sialadenitis
+:PROPERTIES:
+:NOTER_PAGE: 594
+:END:
+***** Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 594
+:END:
+****** Pleomorphic Adenoma
+:PROPERTIES:
+:NOTER_PAGE: 595
+:END:
+****** Mucoepidermoid Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 595
+:END:
+**** Odontogenic Cysts and Tumors
+:PROPERTIES:
+:NOTER_PAGE: 596
+:END:
+*** Esophagus
+:PROPERTIES:
+:NOTER_PAGE: 596
+:END:
+**** Obstructive and Vascular Diseases
+:PROPERTIES:
+:NOTER_PAGE: 596
+:END:
+***** Mechanical Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 596
+:END:
+***** Functional Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+***** Ectopia
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+***** Esophageal Varices
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+**** Esophagitis
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+***** Esophageal Lacerations, Mucosal Injury, and Infections
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+****** Chemical and Infectious Esophagitis
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+***** Reflux Esophagitis
+:PROPERTIES:
+:NOTER_PAGE: 599
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 600
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 600
+:END:
+***** Eosinophilic Esophagitis
+:PROPERTIES:
+:NOTER_PAGE: 600
+:END:
+***** Barrett Esophagus
+:PROPERTIES:
+:NOTER_PAGE: 601
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 601
+:END:
+**** Esophageal Tumors
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+***** Adenocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+***** Squamous Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 603
+:END:
+*** Stomach
+:PROPERTIES:
+:NOTER_PAGE: 604
+:END:
+**** Gastropathy and Acute Gastritis
+:PROPERTIES:
+:NOTER_PAGE: 604
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 604
+:END:
+***** Stress-Related Mucosal Disease
+:PROPERTIES:
+:NOTER_PAGE: 605
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 605
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 605
+:END:
+**** Chronic Gastritis
+:PROPERTIES:
+:NOTER_PAGE: 605
+:END:
+***** Helicobacter pylori Gastritis
+:PROPERTIES:
+:NOTER_PAGE: 606
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 606
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 606
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 606
+:END:
+***** Autoimmune Gastritis
+:PROPERTIES:
+:NOTER_PAGE: 606
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 607
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 607
+:END:
+**** Complications of Chronic Gastritis
+:PROPERTIES:
+:NOTER_PAGE: 607
+:END:
+***** Peptic Ulcer Disease
+:PROPERTIES:
+:NOTER_PAGE: 607
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 608
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 608
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 608
+:END:
+***** Mucosal Atrophy and Intestinal Metaplasia
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+***** Dysplasia
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+**** GASTRIC POLYPS AND TUMORS
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+***** Gastric Polyps
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+****** Inflammatory and Hyperplastic Polyps
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+****** Fundic Gland Polyps
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+****** Gastric Adenoma
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+***** Gastric Adenocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 610
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 610
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 610
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 611
+:END:
+***** Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 611
+:END:
+***** Neuroendocrine (Carcinoid) Tumor
+:PROPERTIES:
+:NOTER_PAGE: 611
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 612
+:END:
+***** Gastrointestinal Stromal Tumor
+:PROPERTIES:
+:NOTER_PAGE: 612
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 612
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 613
+:END:
+*** Small and Large Intestines
+:PROPERTIES:
+:NOTER_PAGE: 613
+:END:
+**** Intestinal Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 613
+:END:
+***** Intussusception
+:PROPERTIES:
+:NOTER_PAGE: 614
+:END:
+***** Hirschsprung Disease
+:PROPERTIES:
+:NOTER_PAGE: 614
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 614
+:END:
+***** Abdominal Hernia
+:PROPERTIES:
+:NOTER_PAGE: 615
+:END:
+**** Vascular Disorders of Bowel
+:PROPERTIES:
+:NOTER_PAGE: 615
+:END:
+***** Ischemic Bowel Disease
+:PROPERTIES:
+:NOTER_PAGE: 615
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 615
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 616
+:END:
+***** Hemorrhoids
+:PROPERTIES:
+:NOTER_PAGE: 616
+:END:
+**** Diarrheal Disease
+:PROPERTIES:
+:NOTER_PAGE: 617
+:END:
+***** Malabsorptive Diarrhea
+:PROPERTIES:
+:NOTER_PAGE: 617
+:END:
+****** Cystic Fibrosis
+:PROPERTIES:
+:NOTER_PAGE: 618
+:END:
+****** Celiac Disease
+:PROPERTIES:
+:NOTER_PAGE: 618
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 618
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 619
+:END:
+****** Environmental Enteric Dysfunction
+:PROPERTIES:
+:NOTER_PAGE: 619
+:END:
+****** Lactase (Disaccharidase) Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+****** Abetalipoproteinemia
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+****** Microscopic Colitis
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+****** Graft-Versus-Host Disease
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+***** Infectious Enterocolitis
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+****** Cholera
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+****** Campylobacter Enterocolitis
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+****** Shigellosis
+:PROPERTIES:
+:NOTER_PAGE: 623
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 623
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 623
+:END:
+****** Escherichia coli
+:PROPERTIES:
+:NOTER_PAGE: 623
+:END:
+****** Salmonellosis
+:PROPERTIES:
+:NOTER_PAGE: 623
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 624
+:END:
+****** Typhoid Fever
+:PROPERTIES:
+:NOTER_PAGE: 624
+:END:
+****** Pseudomembranous Colitis
+:PROPERTIES:
+:NOTER_PAGE: 624
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 624
+:END:
+****** Mycobacterial Infection
+:PROPERTIES:
+:NOTER_PAGE: 625
+:END:
+****** Norovirus
+:PROPERTIES:
+:NOTER_PAGE: 625
+:END:
+****** Rotavirus
+:PROPERTIES:
+:NOTER_PAGE: 625
+:END:
+****** Parasitic Disease
+:PROPERTIES:
+:NOTER_PAGE: 625
+:END:
+**** Inflammatory Intestinal Disease
+:PROPERTIES:
+:NOTER_PAGE: 626
+:END:
+***** Sigmoid Diverticulitis
+:PROPERTIES:
+:NOTER_PAGE: 626
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 626
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 627
+:END:
+***** Inflammatory Bowel Disease
+:PROPERTIES:
+:NOTER_PAGE: 627
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 627
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 628
+:END:
+****** Crohn Disease
+:PROPERTIES:
+:NOTER_PAGE: 629
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 630
+:END:
+****** Ulcerative Colitis
+:PROPERTIES:
+:NOTER_PAGE: 630
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 631
+:END:
+****** Colitis-Associated Neoplasia
+:PROPERTIES:
+:NOTER_PAGE: 631
+:END:
+**** Colonic Polyps and Neoplastic Disease
+:PROPERTIES:
+:NOTER_PAGE: 632
+:END:
+***** Inflammatory Polyps
+:PROPERTIES:
+:NOTER_PAGE: 632
+:END:
+***** Hamartomatous Polyps
+:PROPERTIES:
+:NOTER_PAGE: 632
+:END:
+****** Juvenile Polyps
+:PROPERTIES:
+:NOTER_PAGE: 632
+:END:
+****** Peutz-Jeghers Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 632
+:END:
+***** Hyperplastic Polyps
+:PROPERTIES:
+:NOTER_PAGE: 633
+:END:
+***** Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 633
+:END:
+***** Familial Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 635
+:END:
+****** Familial Adenomatous Polyps
+:PROPERTIES:
+:NOTER_PAGE: 635
+:END:
+****** Hereditary Nonpolyposis Colorectal Cancer
+:PROPERTIES:
+:NOTER_PAGE: 636
+:END:
+***** Adenocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 636
+:END:
+****** Epidemiology
+:PROPERTIES:
+:NOTER_PAGE: 636
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 637
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 638
+:END:
+*** Appendix
+:PROPERTIES:
+:NOTER_PAGE: 640
+:END:
+**** Acute Appendicitis
+:PROPERTIES:
+:NOTER_PAGE: 640
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 640
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Tumors of the Appendix
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Oral Cavity
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Esophagus
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Stomach
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Intestinal Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Diarrhea
+:PROPERTIES:
+:NOTER_PAGE: 641
+:END:
+**** Sigmoid Diverticulitis
+:PROPERTIES:
+:NOTER_PAGE: 642
+:END:
+**** Inflammatory Bowel Disease
+:PROPERTIES:
+:NOTER_PAGE: 642
+:END:
+**** Colonic Polyps and Neoplastic Disease
+:PROPERTIES:
+:NOTER_PAGE: 642
+:END:
+**** Appendix
+:PROPERTIES:
+:NOTER_PAGE: 642
+:END:
+** 16 Liver and Gallbladder
+:PROPERTIES:
+:NOTER_PAGE: 643
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 643
+:END:
+*** The Liver and Bile Ducts
+:PROPERTIES:
+:NOTER_PAGE: 643
+:END:
+**** General Features of Liver Disease
+:PROPERTIES:
+:NOTER_PAGE: 644
+:END:
+***** Mechanisms of Injury and Repair
+:PROPERTIES:
+:NOTER_PAGE: 644
+:END:
+***** Liver Failure
+:PROPERTIES:
+:NOTER_PAGE: 645
+:END:
+****** Acute Liver Failure
+:PROPERTIES:
+:NOTER_PAGE: 645
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 645
+:END:
+****** Chronic Liver Failure and Cirrhosis
+:PROPERTIES:
+:NOTER_PAGE: 646
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 647
+:END:
+****** Acute-on-Chronic Liver Failure
+:PROPERTIES:
+:NOTER_PAGE: 648
+:END:
+**** Infectious Disorders
+:PROPERTIES:
+:NOTER_PAGE: 648
+:END:
+***** Viral Hepatitis
+:PROPERTIES:
+:NOTER_PAGE: 648
+:END:
+****** Hepatitis A Virus (HAV)
+:PROPERTIES:
+:NOTER_PAGE: 648
+:END:
+****** Hepatitis B Virus (HBV)
+:PROPERTIES:
+:NOTER_PAGE: 649
+:END:
+****** Hepatitis C Virus (HCV)
+:PROPERTIES:
+:NOTER_PAGE: 651
+:END:
+****** Hepatitis D Virus (HDV)
+:PROPERTIES:
+:NOTER_PAGE: 653
+:END:
+****** Hepatitis E Virus (HEV)
+:PROPERTIES:
+:NOTER_PAGE: 653
+:END:
+****** Clinicopathologic Syndromes of Viral Hepatitis
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* Acute Asymptomatic Infection With Recovery.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* Acute Symptomatic Infection With Recovery.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* Fulminant Hepatic Failure.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* Chronic Hepatitis.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* The Carrier State.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+******* HIV and Chronic Viral Hepatitis.
+:PROPERTIES:
+:NOTER_PAGE: 654
+:END:
+***** Bacterial, Parasitic, and Helminthic Infections
+:PROPERTIES:
+:NOTER_PAGE: 656
+:END:
+**** Autoimmune Hepatitis
+:PROPERTIES:
+:NOTER_PAGE: 657
+:END:
+***** Clinicopathologic Features
+:PROPERTIES:
+:NOTER_PAGE: 657
+:END:
+**** Drug- and Toxin-Induced Liver Injury
+:PROPERTIES:
+:NOTER_PAGE: 657
+:END:
+**** Alcoholic and Nonalcoholic Fatty Liver Disease
+:PROPERTIES:
+:NOTER_PAGE: 658
+:END:
+***** Alcoholic Liver Disease
+:PROPERTIES:
+:NOTER_PAGE: 659
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 659
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 660
+:END:
+***** Nonalcoholic Fatty Liver Disease
+:PROPERTIES:
+:NOTER_PAGE: 661
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 661
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 661
+:END:
+**** Inherited Metabolic Liver Diseases
+:PROPERTIES:
+:NOTER_PAGE: 662
+:END:
+***** Hemochromatosis
+:PROPERTIES:
+:NOTER_PAGE: 662
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 662
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 663
+:END:
+***** Wilson Disease
+:PROPERTIES:
+:NOTER_PAGE: 663
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 664
+:END:
+***** α1-Anti-Trypsin Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 664
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 664
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 665
+:END:
+**** Cholestatic Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 665
+:END:
+***** Bilirubin and Bile Formation
+:PROPERTIES:
+:NOTER_PAGE: 665
+:END:
+***** Pathophysiology of Jaundice
+:PROPERTIES:
+:NOTER_PAGE: 666
+:END:
+***** Defects in Hepatocellular Bilirubin Metabolism
+:PROPERTIES:
+:NOTER_PAGE: 667
+:END:
+****** Neonatal Jaundice
+:PROPERTIES:
+:NOTER_PAGE: 667
+:END:
+****** Hereditary Hyperbilirubinemias
+:PROPERTIES:
+:NOTER_PAGE: 667
+:END:
+***** Cholestasis
+:PROPERTIES:
+:NOTER_PAGE: 667
+:END:
+****** Bile Duct Obstruction and Ascending Cholangitis
+:PROPERTIES:
+:NOTER_PAGE: 667
+:END:
+***** Neonatal Cholestasis
+:PROPERTIES:
+:NOTER_PAGE: 668
+:END:
+***** Biliary Atresia
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+***** Autoimmune Cholangiopathies
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+****** Primary Biliary Cholangitis
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 669
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 670
+:END:
+****** Primary Sclerosing Cholangitis
+:PROPERTIES:
+:NOTER_PAGE: 670
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 671
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 671
+:END:
+**** Circulatory Disorders
+:PROPERTIES:
+:NOTER_PAGE: 672
+:END:
+***** Impaired Blood Flow Into the Liver
+:PROPERTIES:
+:NOTER_PAGE: 672
+:END:
+****** Hepatic Artery Compromise
+:PROPERTIES:
+:NOTER_PAGE: 672
+:END:
+****** Portal Vein Obstruction and Thrombosis
+:PROPERTIES:
+:NOTER_PAGE: 672
+:END:
+***** Impaired Blood Flow Through the Liver
+:PROPERTIES:
+:NOTER_PAGE: 673
+:END:
+***** Hepatic Venous Outflow Obstruction
+:PROPERTIES:
+:NOTER_PAGE: 673
+:END:
+****** Hepatic Vein Thrombosis
+:PROPERTIES:
+:NOTER_PAGE: 673
+:END:
+***** Passive Congestion and Centrilobular Necrosis
+:PROPERTIES:
+:NOTER_PAGE: 673
+:END:
+**** Nodules and Tumors
+:PROPERTIES:
+:NOTER_PAGE: 674
+:END:
+***** Focal Nodular Hyperplasia
+:PROPERTIES:
+:NOTER_PAGE: 674
+:END:
+***** Benign Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 675
+:END:
+****** Hepatocellular Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 675
+:END:
+***** Malignant Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 675
+:END:
+****** Hepatocellular Carcinoma (HCC)
+:PROPERTIES:
+:NOTER_PAGE: 675
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 675
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 676
+:END:
+****** Cholangiocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 677
+:END:
+*** Gallbladder
+:PROPERTIES:
+:NOTER_PAGE: 678
+:END:
+**** Gallstone Disease
+:PROPERTIES:
+:NOTER_PAGE: 678
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 678
+:END:
+***** Prevalence and Risk Factors
+:PROPERTIES:
+:NOTER_PAGE: 678
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 679
+:END:
+**** Cholecystitis
+:PROPERTIES:
+:NOTER_PAGE: 680
+:END:
+***** Acute Calculous Cholecystitis
+:PROPERTIES:
+:NOTER_PAGE: 680
+:END:
+***** Acute Acalculous Cholecystitis
+:PROPERTIES:
+:NOTER_PAGE: 680
+:END:
+***** Chronic Cholecystitis
+:PROPERTIES:
+:NOTER_PAGE: 680
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 680
+:END:
+**** Carcinoma of the Gallbladder
+:PROPERTIES:
+:NOTER_PAGE: 681
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 681
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Mechanisms of Liver Injury and Repair
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Acute, Chronic, and Acute-on-Chronic Liver Failure
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Viral Hepatitis
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Autoimmune Liver Diseases
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Drug- and Toxin-Induced Liver Injury
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Metabolic Liver Diseases
+:PROPERTIES:
+:NOTER_PAGE: 682
+:END:
+**** Cholestatic Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 683
+:END:
+**** Benign and Malignant Liver Tumors
+:PROPERTIES:
+:NOTER_PAGE: 683
+:END:
+** 17 Pancreas
+:PROPERTIES:
+:NOTER_PAGE: 684
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 684
+:END:
+*** Congenital Anomalies
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Agenesis
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Pancreas Divisum
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Annular Pancreas
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Ectopic Pancreas
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Congenital Cysts
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+*** Pancreatitis
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+**** Acute Pancreatitis
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+***** Etiology
+:PROPERTIES:
+:NOTER_PAGE: 685
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 686
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 687
+:END:
+***** Pancreatic Pseudocysts
+:PROPERTIES:
+:NOTER_PAGE: 688
+:END:
+**** Chronic Pancreatitis
+:PROPERTIES:
+:NOTER_PAGE: 688
+:END:
+***** Etiology
+:PROPERTIES:
+:NOTER_PAGE: 688
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 689
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 689
+:END:
+*** Pancreatic Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 690
+:END:
+**** Cystic Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 690
+:END:
+***** Intraductal Papillary Mucinous Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 691
+:END:
+**** Pancreatic Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 691
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 692
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 693
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 694
+:END:
+** 18 Male Genital System and Lower Urinary Tract
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+*** Penis
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+**** Malformations
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+**** Inflammatory Lesions
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+**** Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 695
+:END:
+*** Scrotum, Testis, and Epididymis
+:PROPERTIES:
+:NOTER_PAGE: 696
+:END:
+**** Cryptorchidism and Testicular Atrophy
+:PROPERTIES:
+:NOTER_PAGE: 696
+:END:
+**** Inflammatory Lesions
+:PROPERTIES:
+:NOTER_PAGE: 697
+:END:
+**** Vascular Disturbances
+:PROPERTIES:
+:NOTER_PAGE: 697
+:END:
+**** Testicular Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 697
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 700
+:END:
+*** Prostate
+:PROPERTIES:
+:NOTER_PAGE: 701
+:END:
+**** Prostatitis
+:PROPERTIES:
+:NOTER_PAGE: 701
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 702
+:END:
+**** Benign Prostatic Hyperplasia
+:PROPERTIES:
+:NOTER_PAGE: 702
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 702
+:END:
+**** Carcinoma of the Prostate
+:PROPERTIES:
+:NOTER_PAGE: 703
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 703
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 704
+:END:
+*** Ureter, Bladder, and Urethra
+:PROPERTIES:
+:NOTER_PAGE: 705
+:END:
+**** Ureter
+:PROPERTIES:
+:NOTER_PAGE: 706
+:END:
+**** Urinary Bladder
+:PROPERTIES:
+:NOTER_PAGE: 706
+:END:
+***** Nonneoplastic Conditions
+:PROPERTIES:
+:NOTER_PAGE: 706
+:END:
+***** Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 706
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 706
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 708
+:END:
+*** Sexually Transmitted Diseases
+:PROPERTIES:
+:NOTER_PAGE: 708
+:END:
+**** Syphilis
+:PROPERTIES:
+:NOTER_PAGE: 709
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 711
+:END:
+**** Gonorrhea
+:PROPERTIES:
+:NOTER_PAGE: 712
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 713
+:END:
+**** Nongonococcal Urethritis and Cervicitis
+:PROPERTIES:
+:NOTER_PAGE: 713
+:END:
+**** Lymphogranuloma Venereum
+:PROPERTIES:
+:NOTER_PAGE: 714
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 714
+:END:
+**** Chancroid (Soft Chancre)
+:PROPERTIES:
+:NOTER_PAGE: 714
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 714
+:END:
+**** Granuloma Inguinale
+:PROPERTIES:
+:NOTER_PAGE: 715
+:END:
+**** Trichomoniasis
+:PROPERTIES:
+:NOTER_PAGE: 715
+:END:
+**** Genital Herpes Simplex
+:PROPERTIES:
+:NOTER_PAGE: 715
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 715
+:END:
+**** Human Papillomavirus Infection
+:PROPERTIES:
+:NOTER_PAGE: 716
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 716
+:END:
+** 19 Female Genital System and Breast
+:PROPERTIES:
+:NOTER_PAGE: 717
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 717
+:END:
+*** Vulva
+:PROPERTIES:
+:NOTER_PAGE: 717
+:END:
+**** Vulvitis
+:PROPERTIES:
+:NOTER_PAGE: 717
+:END:
+***** Nonneoplastic Epithelial Disorders
+:PROPERTIES:
+:NOTER_PAGE: 718
+:END:
+****** Lichen Sclerosus
+:PROPERTIES:
+:NOTER_PAGE: 718
+:END:
+****** Lichen Simplex Chronicus
+:PROPERTIES:
+:NOTER_PAGE: 718
+:END:
+**** Tumors
+:PROPERTIES:
+:NOTER_PAGE: 718
+:END:
+***** Condylomas
+:PROPERTIES:
+:NOTER_PAGE: 718
+:END:
+***** Carcinoma of the Vulva
+:PROPERTIES:
+:NOTER_PAGE: 719
+:END:
+***** Extramammary Paget Disease
+:PROPERTIES:
+:NOTER_PAGE: 719
+:END:
+*** Vagina
+:PROPERTIES:
+:NOTER_PAGE: 720
+:END:
+**** Vaginitis
+:PROPERTIES:
+:NOTER_PAGE: 720
+:END:
+**** Malignant Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 720
+:END:
+***** Squamous Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 720
+:END:
+***** Clear Cell Adenocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 720
+:END:
+***** Sarcoma Botryoides
+:PROPERTIES:
+:NOTER_PAGE: 721
+:END:
+*** Cervix
+:PROPERTIES:
+:NOTER_PAGE: 721
+:END:
+**** Cervicitis
+:PROPERTIES:
+:NOTER_PAGE: 721
+:END:
+**** Neoplasia of the Cervix
+:PROPERTIES:
+:NOTER_PAGE: 721
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 721
+:END:
+***** Squamous Intraepithelial Lesion (SIL, Cervical Intraepithelial Lesion)
+:PROPERTIES:
+:NOTER_PAGE: 722
+:END:
+***** Invasive Carcinoma of the Cervix
+:PROPERTIES:
+:NOTER_PAGE: 724
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 724
+:END:
+***** Endocervical Polyp
+:PROPERTIES:
+:NOTER_PAGE: 724
+:END:
+*** Uterus
+:PROPERTIES:
+:NOTER_PAGE: 725
+:END:
+**** Endometritis
+:PROPERTIES:
+:NOTER_PAGE: 725
+:END:
+**** Adenomyosis
+:PROPERTIES:
+:NOTER_PAGE: 725
+:END:
+**** Endometriosis
+:PROPERTIES:
+:NOTER_PAGE: 725
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 726
+:END:
+**** Abnormal Uterine Bleeding
+:PROPERTIES:
+:NOTER_PAGE: 726
+:END:
+**** Proliferative Lesions of the Endometrium and Myometrium
+:PROPERTIES:
+:NOTER_PAGE: 727
+:END:
+***** Endometrial Hyperplasia
+:PROPERTIES:
+:NOTER_PAGE: 727
+:END:
+***** Endometrial Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 728
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 728
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 728
+:END:
+***** Endometrial Polyps
+:PROPERTIES:
+:NOTER_PAGE: 728
+:END:
+***** Leiomyoma
+:PROPERTIES:
+:NOTER_PAGE: 729
+:END:
+***** Leiomyosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 730
+:END:
+*** Fallopian Tubes
+:PROPERTIES:
+:NOTER_PAGE: 730
+:END:
+*** Ovaries
+:PROPERTIES:
+:NOTER_PAGE: 731
+:END:
+**** Follicle and Luteal Cysts
+:PROPERTIES:
+:NOTER_PAGE: 731
+:END:
+**** Polycystic Ovarian Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 731
+:END:
+**** Tumors of the Ovary
+:PROPERTIES:
+:NOTER_PAGE: 731
+:END:
+***** Surface Epithelial Tumors
+:PROPERTIES:
+:NOTER_PAGE: 731
+:END:
+***** Serous Tumors
+:PROPERTIES:
+:NOTER_PAGE: 732
+:END:
+***** Mucinous Tumors
+:PROPERTIES:
+:NOTER_PAGE: 733
+:END:
+***** Endometrioid Tumors
+:PROPERTIES:
+:NOTER_PAGE: 733
+:END:
+***** Brenner Tumor
+:PROPERTIES:
+:NOTER_PAGE: 733
+:END:
+***** Other Ovarian Tumors
+:PROPERTIES:
+:NOTER_PAGE: 734
+:END:
+****** Teratomas
+:PROPERTIES:
+:NOTER_PAGE: 734
+:END:
+******* Benign (Mature) Cystic Teratomas
+:PROPERTIES:
+:NOTER_PAGE: 734
+:END:
+******* Immature Malignant Teratomas
+:PROPERTIES:
+:NOTER_PAGE: 734
+:END:
+******* Specialized Teratomas
+:PROPERTIES:
+:NOTER_PAGE: 734
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 735
+:END:
+*** Diseases of Pregnancy
+:PROPERTIES:
+:NOTER_PAGE: 736
+:END:
+**** Placental Inflammations and Infections
+:PROPERTIES:
+:NOTER_PAGE: 736
+:END:
+**** Ectopic Pregnancy
+:PROPERTIES:
+:NOTER_PAGE: 736
+:END:
+**** Gestational Trophoblastic Disease
+:PROPERTIES:
+:NOTER_PAGE: 737
+:END:
+***** Hydatidiform Mole: Complete and Partial
+:PROPERTIES:
+:NOTER_PAGE: 737
+:END:
+***** Invasive Mole
+:PROPERTIES:
+:NOTER_PAGE: 737
+:END:
+***** Gestational Choriocarcinoma
+:PROPERTIES:
+:NOTER_PAGE: 738
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 738
+:END:
+***** Placental Site Trophoblastic Tumor
+:PROPERTIES:
+:NOTER_PAGE: 739
+:END:
+***** Preeclampsia/Eclampsia (Toxemia of Pregnancy)
+:PROPERTIES:
+:NOTER_PAGE: 739
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 739
+:END:
+*** Breast
+:PROPERTIES:
+:NOTER_PAGE: 740
+:END:
+**** Clinical Presentations of Breast Disease
+:PROPERTIES:
+:NOTER_PAGE: 740
+:END:
+**** Inflammatory Processes
+:PROPERTIES:
+:NOTER_PAGE: 741
+:END:
+**** Stromal NEOPLASMS
+:PROPERTIES:
+:NOTER_PAGE: 742
+:END:
+**** Benign Epithelial Lesions
+:PROPERTIES:
+:NOTER_PAGE: 742
+:END:
+**** Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 743
+:END:
+***** Epidemiology and Risk Factors
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Age and Gender.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Family History of Breast Cancer.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Geographic Factors.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Race/Ethnicity.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Reproductive History.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Ionizing Radiation.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Other Risk Factors.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+******* Genetic.
+:PROPERTIES:
+:NOTER_PAGE: 745
+:END:
+******* Hormonal Influences.
+:PROPERTIES:
+:NOTER_PAGE: 746
+:END:
+******* Environmental Factors.
+:PROPERTIES:
+:NOTER_PAGE: 746
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 748
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 751
+:END:
+** 20 Endocrine System
+:PROPERTIES:
+:NOTER_PAGE: 752
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 752
+:END:
+*** Pituitary
+:PROPERTIES:
+:NOTER_PAGE: 753
+:END:
+**** Anterior Pituitary Tumors
+:PROPERTIES:
+:NOTER_PAGE: 753
+:END:
+***** Pituitary Adenomas: General Features
+:PROPERTIES:
+:NOTER_PAGE: 753
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 754
+:END:
+***** Functioning Adenomas and Hyperpituatarism
+:PROPERTIES:
+:NOTER_PAGE: 756
+:END:
+****** Lactotroph Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 756
+:END:
+****** Somatotroph Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 756
+:END:
+****** Corticotroph Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 757
+:END:
+***** Other Anterior Pituitary Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 757
+:END:
+**** Hypopituitarism
+:PROPERTIES:
+:NOTER_PAGE: 757
+:END:
+**** Posterior Pituitary Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 758
+:END:
+*** Thyroid
+:PROPERTIES:
+:NOTER_PAGE: 758
+:END:
+**** Hyperthyroidism
+:PROPERTIES:
+:NOTER_PAGE: 759
+:END:
+**** Hypothyroidism
+:PROPERTIES:
+:NOTER_PAGE: 760
+:END:
+**** Autoimmune Thyroid Disease
+:PROPERTIES:
+:NOTER_PAGE: 761
+:END:
+***** Chronic Lymphocytic (Hashimoto) Thyroiditis
+:PROPERTIES:
+:NOTER_PAGE: 761
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 761
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 762
+:END:
+***** Subacute Granulomatous (de Quervain) Thyroiditis
+:PROPERTIES:
+:NOTER_PAGE: 762
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 763
+:END:
+***** Subacute Lymphocytic Thyroiditis
+:PROPERTIES:
+:NOTER_PAGE: 763
+:END:
+***** Other Forms of Thyroiditis
+:PROPERTIES:
+:NOTER_PAGE: 763
+:END:
+***** Graves Disease
+:PROPERTIES:
+:NOTER_PAGE: 763
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 763
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 764
+:END:
+**** Diffuse and Multinodular Goiter
+:PROPERTIES:
+:NOTER_PAGE: 765
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 765
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 766
+:END:
+**** Thyroid Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 766
+:END:
+***** Adenomas
+:PROPERTIES:
+:NOTER_PAGE: 766
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 766
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 767
+:END:
+***** Carcinomas
+:PROPERTIES:
+:NOTER_PAGE: 767
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 767
+:END:
+******* Environmental Factors.
+:PROPERTIES:
+:NOTER_PAGE: 768
+:END:
+****** Papillary Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 768
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 769
+:END:
+****** Follicular Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 769
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 770
+:END:
+****** Anaplastic Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 770
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 771
+:END:
+****** Medullary Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 771
+:END:
+******* Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 771
+:END:
+*** Parathyroid Glands
+:PROPERTIES:
+:NOTER_PAGE: 772
+:END:
+**** Hyperparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 772
+:END:
+***** Primary Hyperparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 772
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 772
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 773
+:END:
+***** Secondary Hyperparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 774
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 774
+:END:
+**** Hypoparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 774
+:END:
+*** Endocrine Pancreas
+:PROPERTIES:
+:NOTER_PAGE: 775
+:END:
+**** Diabetes Mellitus
+:PROPERTIES:
+:NOTER_PAGE: 775
+:END:
+***** Diagnosis
+:PROPERTIES:
+:NOTER_PAGE: 775
+:END:
+***** Classification
+:PROPERTIES:
+:NOTER_PAGE: 775
+:END:
+***** Normal Insulin Physiology and Glucose Homeostasis
+:PROPERTIES:
+:NOTER_PAGE: 776
+:END:
+***** Pathogenesis of Type 1 Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 777
+:END:
+***** Pathogenesis of Type 2 Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 778
+:END:
+****** Insulin Resistance
+:PROPERTIES:
+:NOTER_PAGE: 778
+:END:
+****** Obesity and Insulin Resistance
+:PROPERTIES:
+:NOTER_PAGE: 778
+:END:
+****** Beta Cell Dysfunction
+:PROPERTIES:
+:NOTER_PAGE: 779
+:END:
+***** Monogenic Forms of Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 779
+:END:
+***** Other Subtypes of Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 779
+:END:
+***** Acute Metabolic Complications of Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 780
+:END:
+****** Initial Presentation
+:PROPERTIES:
+:NOTER_PAGE: 780
+:END:
+****** Diabetic Ketoacidosis and Hyperosmolar Non-ketotic Coma
+:PROPERTIES:
+:NOTER_PAGE: 781
+:END:
+***** Chronic Complications of Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 781
+:END:
+****** Pathogenesis of Chronic Complications of Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 781
+:END:
+****** Clinical Features of Chronic Diabetes
+:PROPERTIES:
+:NOTER_PAGE: 785
+:END:
+**** Pancreatic Neuroendocrine Tumors
+:PROPERTIES:
+:NOTER_PAGE: 787
+:END:
+***** Insulinomas
+:PROPERTIES:
+:NOTER_PAGE: 787
+:END:
+***** Gastrinomas
+:PROPERTIES:
+:NOTER_PAGE: 787
+:END:
+*** Adrenal Cortex
+:PROPERTIES:
+:NOTER_PAGE: 787
+:END:
+**** Adrenocortical Hyperfunction: Hyperadrenalism
+:PROPERTIES:
+:NOTER_PAGE: 788
+:END:
+***** Hypercortisolism: Cushing Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 788
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 790
+:END:
+***** Hyperaldosteronism
+:PROPERTIES:
+:NOTER_PAGE: 791
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 792
+:END:
+***** Adrenogenital Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 792
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 792
+:END:
+**** Adrenal Insufficiency
+:PROPERTIES:
+:NOTER_PAGE: 793
+:END:
+***** Acute Adrenocortical Insufficiency
+:PROPERTIES:
+:NOTER_PAGE: 793
+:END:
+***** Chronic Adrenocortical Insufficiency: Addison Disease
+:PROPERTIES:
+:NOTER_PAGE: 793
+:END:
+***** Secondary Adrenocortical Insufficiency
+:PROPERTIES:
+:NOTER_PAGE: 794
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 794
+:END:
+**** Adrenocortical Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 795
+:END:
+*** Adrenal Medulla
+:PROPERTIES:
+:NOTER_PAGE: 796
+:END:
+**** Tumors of the Adrenal Medulla
+:PROPERTIES:
+:NOTER_PAGE: 796
+:END:
+***** Pheochromocytoma
+:PROPERTIES:
+:NOTER_PAGE: 796
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 797
+:END:
+***** Neuroblastoma and Other Neuronal Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 797
+:END:
+*** Multiple Endocrine Neoplasia (MEN) Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+**** Multiple Endocrine Neoplasia Type 1
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+**** Multiple Endocrine Neoplasia Type 2
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+***** Multiple Endocrine Neoplasia Type 2A
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+***** Multiple Endocrine Neoplasia Type 2B
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 798
+:END:
+** 21 Bones, Joints, and Soft Tissue Tumors
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+*** Bone
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+**** Basic Structure and Function of Bone
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+***** Matrix
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+***** Cells
+:PROPERTIES:
+:NOTER_PAGE: 800
+:END:
+***** Development
+:PROPERTIES:
+:NOTER_PAGE: 801
+:END:
+***** Homeostasis and Remodeling
+:PROPERTIES:
+:NOTER_PAGE: 802
+:END:
+**** Congenital Disorders of Bone and Cartilage
+:PROPERTIES:
+:NOTER_PAGE: 802
+:END:
+***** Achondroplasia
+:PROPERTIES:
+:NOTER_PAGE: 803
+:END:
+***** Thanatophoric Dysplasia
+:PROPERTIES:
+:NOTER_PAGE: 803
+:END:
+***** Type I Collagen Diseases (Osteogenesis Imperfecta)
+:PROPERTIES:
+:NOTER_PAGE: 803
+:END:
+***** Osteopetrosis
+:PROPERTIES:
+:NOTER_PAGE: 803
+:END:
+**** Metabolic Disorders of Bone
+:PROPERTIES:
+:NOTER_PAGE: 804
+:END:
+***** Osteopenia and Osteoporosis
+:PROPERTIES:
+:NOTER_PAGE: 804
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 804
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 805
+:END:
+***** Rickets and Osteomalacia
+:PROPERTIES:
+:NOTER_PAGE: 805
+:END:
+***** Hyperparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 805
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 805
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 806
+:END:
+**** Paget Disease of Bone (Osteitis Deformans)
+:PROPERTIES:
+:NOTER_PAGE: 806
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 807
+:END:
+***** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 807
+:END:
+**** Fractures
+:PROPERTIES:
+:NOTER_PAGE: 808
+:END:
+***** Healing of Fractures
+:PROPERTIES:
+:NOTER_PAGE: 808
+:END:
+**** Osteonecrosis (Avascular Necrosis)
+:PROPERTIES:
+:NOTER_PAGE: 809
+:END:
+***** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 809
+:END:
+**** Osteomyelitis
+:PROPERTIES:
+:NOTER_PAGE: 809
+:END:
+***** Pyogenic Osteomyelitis
+:PROPERTIES:
+:NOTER_PAGE: 809
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 810
+:END:
+***** Mycobacterial Osteomyelitis
+:PROPERTIES:
+:NOTER_PAGE: 810
+:END:
+**** Bone Tumors and Tumorlike Lesions
+:PROPERTIES:
+:NOTER_PAGE: 811
+:END:
+***** Bone-Forming Tumors
+:PROPERTIES:
+:NOTER_PAGE: 811
+:END:
+****** Osteoid Osteoma and Osteoblastoma
+:PROPERTIES:
+:NOTER_PAGE: 811
+:END:
+****** Osteosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 812
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 812
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 813
+:END:
+***** Cartilage-Forming Tumors
+:PROPERTIES:
+:NOTER_PAGE: 813
+:END:
+****** Osteochondroma
+:PROPERTIES:
+:NOTER_PAGE: 813
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 813
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 814
+:END:
+****** Chondroma
+:PROPERTIES:
+:NOTER_PAGE: 814
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+****** Chondrosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+***** Tumors of Unknown Origin
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+****** Ewing Sarcoma
+:PROPERTIES:
+:NOTER_PAGE: 815
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 816
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 816
+:END:
+****** Giant Cell Tumor
+:PROPERTIES:
+:NOTER_PAGE: 816
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+****** Aneurysmal Bone Cyst
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+***** Lesions Simulating Primary Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+****** Nonossifying Fibroma
+:PROPERTIES:
+:NOTER_PAGE: 817
+:END:
+****** Fibrous Dysplasia
+:PROPERTIES:
+:NOTER_PAGE: 818
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 819
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 819
+:END:
+***** Metastatic Tumors
+:PROPERTIES:
+:NOTER_PAGE: 819
+:END:
+*** Joints
+:PROPERTIES:
+:NOTER_PAGE: 820
+:END:
+**** Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 820
+:END:
+***** Osteoarthritis
+:PROPERTIES:
+:NOTER_PAGE: 820
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 820
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 821
+:END:
+***** Rheumatoid Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 821
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 821
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 824
+:END:
+***** Juvenile Idiopathic Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 824
+:END:
+***** Seronegative Spondyloarthropathies
+:PROPERTIES:
+:NOTER_PAGE: 825
+:END:
+***** Infectious Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 825
+:END:
+****** Suppurative Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 825
+:END:
+***** Lyme Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 825
+:END:
+***** Crystal-Induced Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 826
+:END:
+****** Gout
+:PROPERTIES:
+:NOTER_PAGE: 826
+:END:
+******* Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 826
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 827
+:END:
+****** Calcium Pyrophosphate Crystal Deposition Disease (Pseudogout)
+:PROPERTIES:
+:NOTER_PAGE: 828
+:END:
+******* Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 828
+:END:
+**** Joint Tumors and Tumorlike Conditions
+:PROPERTIES:
+:NOTER_PAGE: 829
+:END:
+***** Ganglion and Synovial Cysts
+:PROPERTIES:
+:NOTER_PAGE: 829
+:END:
+***** Tenosynovial Giant Cell Tumor
+:PROPERTIES:
+:NOTER_PAGE: 829
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 829
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 830
+:END:
+*** Soft Tissue Tumors
+:PROPERTIES:
+:NOTER_PAGE: 830
+:END:
+**** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 830
+:END:
+**** Tumors of Adipose Tissue
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+***** Lipoma
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+***** Liposarcoma
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+**** Fibrous Tumors
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+***** Nodular Fasciitis
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+***** Fibromatoses
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+****** Superficial Fibromatosis
+:PROPERTIES:
+:NOTER_PAGE: 831
+:END:
+****** Deep Fibromatosis
+:PROPERTIES:
+:NOTER_PAGE: 832
+:END:
+**** Skeletal Muscle Tumors
+:PROPERTIES:
+:NOTER_PAGE: 833
+:END:
+***** Rhabdomyosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 833
+:END:
+**** Smooth Muscle Tumors
+:PROPERTIES:
+:NOTER_PAGE: 833
+:END:
+***** Leiomyoma
+:PROPERTIES:
+:NOTER_PAGE: 833
+:END:
+***** Leiomyosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 834
+:END:
+****** Clinical Course
+:PROPERTIES:
+:NOTER_PAGE: 834
+:END:
+**** Tumors of Uncertain Origin
+:PROPERTIES:
+:NOTER_PAGE: 834
+:END:
+***** Synovial Sarcoma
+:PROPERTIES:
+:NOTER_PAGE: 834
+:END:
+***** Undifferentiated Pleomorphic Sarcoma
+:PROPERTIES:
+:NOTER_PAGE: 834
+:END:
+**** Acknowledgment
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Basic Structure and Biology of Bone
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Skeletal Dysplasias
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Osteoporosis
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Hyperparathyroidism
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Paget Disease
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Osteonecrosis
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Osteosarcoma
+:PROPERTIES:
+:NOTER_PAGE: 835
+:END:
+**** Chondrogenic Tumors
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Ewing Sarcoma
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Giant Cell Tumor of Bone
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Aneurysmal Bone Cyst
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Fibrous Dysplasia
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Osteoarthritis
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Rheumatoid Arthritis
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Lyme Disease
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Gout and Pseudogout
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Tenosynovial Giant Cell Tumor
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+**** Soft Tissue Sarcomas
+:PROPERTIES:
+:NOTER_PAGE: 836
+:END:
+** 22 Peripheral Nerves and Muscles
+:PROPERTIES:
+:NOTER_PAGE: 837
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 837
+:END:
+*** Disorders of Peripheral Nerves
+:PROPERTIES:
+:NOTER_PAGE: 837
+:END:
+**** Patterns of Peripheral Nerve Injury
+:PROPERTIES:
+:NOTER_PAGE: 837
+:END:
+**** Disorders Associated With Peripheral Nerve Injury
+:PROPERTIES:
+:NOTER_PAGE: 839
+:END:
+***** Guillain-Barré Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 840
+:END:
+***** Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+:PROPERTIES:
+:NOTER_PAGE: 840
+:END:
+***** Diabetic Peripheral Neuropathy
+:PROPERTIES:
+:NOTER_PAGE: 840
+:END:
+***** Toxic, Vasculitic, and Inherited Forms of Peripheral Neuropathy
+:PROPERTIES:
+:NOTER_PAGE: 840
+:END:
+*** Disorders of Neuromuscular Junction
+:PROPERTIES:
+:NOTER_PAGE: 841
+:END:
+**** Myasthenia Gravis
+:PROPERTIES:
+:NOTER_PAGE: 841
+:END:
+**** Lambert-Eaton Syndrome
+:PROPERTIES:
+:NOTER_PAGE: 841
+:END:
+**** Miscellaneous Neuromuscular Junction Disorders
+:PROPERTIES:
+:NOTER_PAGE: 841
+:END:
+*** Disorders of Skeletal Muscle
+:PROPERTIES:
+:NOTER_PAGE: 842
+:END:
+**** Patterns of Skeletal Muscle Injury and Atrophy
+:PROPERTIES:
+:NOTER_PAGE: 842
+:END:
+**** Inherited Disorders of Skeletal Muscle
+:PROPERTIES:
+:NOTER_PAGE: 843
+:END:
+***** Dystrophinopathies: Duchenne and Becker Muscular Dystrophy
+:PROPERTIES:
+:NOTER_PAGE: 844
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 845
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 845
+:END:
+***** Other X-Linked and Autosomal Muscular Dystrophies
+:PROPERTIES:
+:NOTER_PAGE: 845
+:END:
+***** Channelopathies, Metabolic Myopathies, and Mitochondrial Myopathies
+:PROPERTIES:
+:NOTER_PAGE: 846
+:END:
+**** Acquired Disorders of Skeletal Muscle
+:PROPERTIES:
+:NOTER_PAGE: 846
+:END:
+***** Inflammatory Myopathies
+:PROPERTIES:
+:NOTER_PAGE: 846
+:END:
+***** Toxic Myopathies
+:PROPERTIES:
+:NOTER_PAGE: 847
+:END:
+***** Tumors of Skeletal Muscles
+:PROPERTIES:
+:NOTER_PAGE: 847
+:END:
+*** Peripheral Nerve Sheath Tumors
+:PROPERTIES:
+:NOTER_PAGE: 848
+:END:
+**** Schwannomas and Neurofibromatosis Type 2
+:PROPERTIES:
+:NOTER_PAGE: 848
+:END:
+**** Neurofibromas
+:PROPERTIES:
+:NOTER_PAGE: 848
+:END:
+**** Neurofibromatosis Type 1
+:PROPERTIES:
+:NOTER_PAGE: 848
+:END:
+**** Malignant Peripheral Nerve Sheath Tumors
+:PROPERTIES:
+:NOTER_PAGE: 848
+:END:
+**** Traumatic Neuroma
+:PROPERTIES:
+:NOTER_PAGE: 849
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 850
+:END:
+** 23 Central Nervous System
+:PROPERTIES:
+:NOTER_PAGE: 851
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 851
+:END:
+*** Edema, Herniation, and Hydrocephalus
+:PROPERTIES:
+:NOTER_PAGE: 852
+:END:
+**** Cerebral Edema
+:PROPERTIES:
+:NOTER_PAGE: 852
+:END:
+**** Hydrocephalus
+:PROPERTIES:
+:NOTER_PAGE: 853
+:END:
+**** Herniation
+:PROPERTIES:
+:NOTER_PAGE: 853
+:END:
+*** Cerebrovascular Diseases
+:PROPERTIES:
+:NOTER_PAGE: 854
+:END:
+**** Hypoxia, Ischemia, and Infarction
+:PROPERTIES:
+:NOTER_PAGE: 854
+:END:
+***** Global Cerebral Ischemia
+:PROPERTIES:
+:NOTER_PAGE: 854
+:END:
+***** Focal Cerebral Ischemia
+:PROPERTIES:
+:NOTER_PAGE: 855
+:END:
+**** Intracranial Hemorrhage
+:PROPERTIES:
+:NOTER_PAGE: 856
+:END:
+***** Primary Brain Parenchymal Hemorrhage
+:PROPERTIES:
+:NOTER_PAGE: 856
+:END:
+***** Cerebral Amyloid Angiopathy
+:PROPERTIES:
+:NOTER_PAGE: 857
+:END:
+***** Subarachnoid Hemorrhage and Saccular Aneurysms
+:PROPERTIES:
+:NOTER_PAGE: 857
+:END:
+***** Vascular Malformations
+:PROPERTIES:
+:NOTER_PAGE: 857
+:END:
+**** Other Vascular Diseases
+:PROPERTIES:
+:NOTER_PAGE: 858
+:END:
+***** Hypertensive Cerebrovascular Disease
+:PROPERTIES:
+:NOTER_PAGE: 858
+:END:
+***** Vasculitis
+:PROPERTIES:
+:NOTER_PAGE: 859
+:END:
+*** Central Nervous System Trauma
+:PROPERTIES:
+:NOTER_PAGE: 859
+:END:
+**** Traumatic Parenchymal Injuries
+:PROPERTIES:
+:NOTER_PAGE: 859
+:END:
+**** Traumatic Vascular Injury
+:PROPERTIES:
+:NOTER_PAGE: 860
+:END:
+***** Epidural Hematoma
+:PROPERTIES:
+:NOTER_PAGE: 860
+:END:
+***** Subdural Hematoma
+:PROPERTIES:
+:NOTER_PAGE: 860
+:END:
+*** Congenital Malformations and Perinatal Brain Injury
+:PROPERTIES:
+:NOTER_PAGE: 862
+:END:
+**** Malformations
+:PROPERTIES:
+:NOTER_PAGE: 862
+:END:
+***** Neural Tube Defects
+:PROPERTIES:
+:NOTER_PAGE: 862
+:END:
+***** Forebrain Malformations
+:PROPERTIES:
+:NOTER_PAGE: 863
+:END:
+***** Posterior Fossa Anomalies
+:PROPERTIES:
+:NOTER_PAGE: 863
+:END:
+**** Perinatal Brain Injury
+:PROPERTIES:
+:NOTER_PAGE: 863
+:END:
+*** Infections of the Nervous System
+:PROPERTIES:
+:NOTER_PAGE: 864
+:END:
+**** Epidural and Subdural Infections
+:PROPERTIES:
+:NOTER_PAGE: 864
+:END:
+**** Meningitis
+:PROPERTIES:
+:NOTER_PAGE: 864
+:END:
+***** Acute Pyogenic Meningitis (Bacterial Meningitis)
+:PROPERTIES:
+:NOTER_PAGE: 865
+:END:
+***** Aseptic Meningitis (Viral Meningitis)
+:PROPERTIES:
+:NOTER_PAGE: 865
+:END:
+***** Chronic Meningitis
+:PROPERTIES:
+:NOTER_PAGE: 865
+:END:
+****** Tuberculous Meningitis
+:PROPERTIES:
+:NOTER_PAGE: 865
+:END:
+****** Spirochetal Infections
+:PROPERTIES:
+:NOTER_PAGE: 866
+:END:
+****** Fungal Meningitis
+:PROPERTIES:
+:NOTER_PAGE: 866
+:END:
+**** Parenchymal Infections
+:PROPERTIES:
+:NOTER_PAGE: 866
+:END:
+***** Brain Abscesses
+:PROPERTIES:
+:NOTER_PAGE: 867
+:END:
+***** Viral Encephalitis
+:PROPERTIES:
+:NOTER_PAGE: 867
+:END:
+****** Arboviruses
+:PROPERTIES:
+:NOTER_PAGE: 867
+:END:
+****** Herpesviruses
+:PROPERTIES:
+:NOTER_PAGE: 868
+:END:
+****** Cytomegalovirus
+:PROPERTIES:
+:NOTER_PAGE: 869
+:END:
+****** Poliovirus
+:PROPERTIES:
+:NOTER_PAGE: 869
+:END:
+****** Rabies Virus
+:PROPERTIES:
+:NOTER_PAGE: 869
+:END:
+****** Human Immunodeficiency Virus
+:PROPERTIES:
+:NOTER_PAGE: 869
+:END:
+****** Polyomavirus and Progressive Multifocal Leukoencephalopathy
+:PROPERTIES:
+:NOTER_PAGE: 869
+:END:
+***** Fungal Encephalitis
+:PROPERTIES:
+:NOTER_PAGE: 870
+:END:
+***** Other Meningoencephalitides
+:PROPERTIES:
+:NOTER_PAGE: 870
+:END:
+****** Cerebral Toxoplasmosis
+:PROPERTIES:
+:NOTER_PAGE: 870
+:END:
+****** Cysticercosis
+:PROPERTIES:
+:NOTER_PAGE: 870
+:END:
+****** Amebiasis
+:PROPERTIES:
+:NOTER_PAGE: 870
+:END:
+**** Prion Diseases
+:PROPERTIES:
+:NOTER_PAGE: 871
+:END:
+***** Creutzfeldt-Jakob Disease (CJD)
+:PROPERTIES:
+:NOTER_PAGE: 871
+:END:
+***** Variant Creutzfeldt-Jakob Disease
+:PROPERTIES:
+:NOTER_PAGE: 872
+:END:
+*** Diseases of Myelin
+:PROPERTIES:
+:NOTER_PAGE: 872
+:END:
+**** Multiple Sclerosis (MS)
+:PROPERTIES:
+:NOTER_PAGE: 873
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 873
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 873
+:END:
+**** Other Acquired Demyelinating Diseases
+:PROPERTIES:
+:NOTER_PAGE: 873
+:END:
+**** Leukodystrophies
+:PROPERTIES:
+:NOTER_PAGE: 874
+:END:
+*** Genetic Metabolic Diseases
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+*** Acquired Metabolic and Toxic Disturbances
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+**** Nutritional Diseases
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+***** Thiamine Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+***** Vitamin B12 Deficiency
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+**** Metabolic Disorders
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+***** Hypoglycemia
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+***** Hyperglycemia
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+***** Hepatic Encephalopathy
+:PROPERTIES:
+:NOTER_PAGE: 875
+:END:
+**** Toxic Disorders
+:PROPERTIES:
+:NOTER_PAGE: 876
+:END:
+*** Neurodegenerative Diseases
+:PROPERTIES:
+:NOTER_PAGE: 876
+:END:
+**** Alzheimer Disease
+:PROPERTIES:
+:NOTER_PAGE: 876
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 877
+:END:
+**** Frontotemporal Lobar Degeneration
+:PROPERTIES:
+:NOTER_PAGE: 879
+:END:
+**** Parkinson Disease
+:PROPERTIES:
+:NOTER_PAGE: 879
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 879
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 881
+:END:
+**** Huntington Disease
+:PROPERTIES:
+:NOTER_PAGE: 881
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 881
+:END:
+**** Spinocerebellar Ataxias
+:PROPERTIES:
+:NOTER_PAGE: 881
+:END:
+**** Amyotrophic Lateral Sclerosis
+:PROPERTIES:
+:NOTER_PAGE: 882
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 882
+:END:
+*** Tumors
+:PROPERTIES:
+:NOTER_PAGE: 883
+:END:
+**** Gliomas
+:PROPERTIES:
+:NOTER_PAGE: 883
+:END:
+***** Diffuse Astrocytoma
+:PROPERTIES:
+:NOTER_PAGE: 883
+:END:
+***** Oligodendroglioma
+:PROPERTIES:
+:NOTER_PAGE: 883
+:END:
+****** Genetics and Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 884
+:END:
+***** Midline Glioma
+:PROPERTIES:
+:NOTER_PAGE: 884
+:END:
+***** Pilocytic Astrocytoma
+:PROPERTIES:
+:NOTER_PAGE: 885
+:END:
+***** Ependymoma
+:PROPERTIES:
+:NOTER_PAGE: 885
+:END:
+**** Neuronal Tumors
+:PROPERTIES:
+:NOTER_PAGE: 885
+:END:
+**** Embryonal (Primitive) Neoplasms
+:PROPERTIES:
+:NOTER_PAGE: 886
+:END:
+***** Medulloblastoma
+:PROPERTIES:
+:NOTER_PAGE: 886
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 886
+:END:
+**** Other Parenchymal Tumors
+:PROPERTIES:
+:NOTER_PAGE: 886
+:END:
+***** Primary Central Nervous System Lymphoma
+:PROPERTIES:
+:NOTER_PAGE: 886
+:END:
+***** Germ Cell Tumors
+:PROPERTIES:
+:NOTER_PAGE: 887
+:END:
+**** Meningiomas
+:PROPERTIES:
+:NOTER_PAGE: 887
+:END:
+**** Metastatic Tumors
+:PROPERTIES:
+:NOTER_PAGE: 887
+:END:
+**** Familial Tumor Syndromes
+:PROPERTIES:
+:NOTER_PAGE: 888
+:END:
+***** Tuberous Sclerosis
+:PROPERTIES:
+:NOTER_PAGE: 888
+:END:
+***** von Hippel–Lindau Disease
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Central Nervous System Trauma
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Congenital Malformations and Perinatal Brain Injury
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Infections of the Nervous System
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Demyelinating Diseases
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Neurodegenerative Diseases
+:PROPERTIES:
+:NOTER_PAGE: 889
+:END:
+**** Brain Tumors
+:PROPERTIES:
+:NOTER_PAGE: 890
+:END:
+** 24 Skin
+:PROPERTIES:
+:NOTER_PAGE: 891
+:END:
+*** Chapter Outline
+:PROPERTIES:
+:NOTER_PAGE: 891
+:END:
+*** Acute Inflammatory Dermatoses
+:PROPERTIES:
+:NOTER_PAGE: 891
+:END:
+**** Urticaria
+:PROPERTIES:
+:NOTER_PAGE: 891
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 891
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 892
+:END:
+**** Acute Eczematous Dermatitis
+:PROPERTIES:
+:NOTER_PAGE: 892
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 893
+:END:
+**** Erythema Multiforme
+:PROPERTIES:
+:NOTER_PAGE: 893
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 894
+:END:
+*** Chronic Inflammatory Dermatoses
+:PROPERTIES:
+:NOTER_PAGE: 894
+:END:
+**** Psoriasis
+:PROPERTIES:
+:NOTER_PAGE: 894
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 894
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 894
+:END:
+**** Lichen Planus
+:PROPERTIES:
+:NOTER_PAGE: 895
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+**** Lichen Simplex Chronicus
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+*** Infectious Dermatoses
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+**** Bacterial Infections
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+**** Fungal Infections
+:PROPERTIES:
+:NOTER_PAGE: 896
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 897
+:END:
+**** Verrucae (Warts)
+:PROPERTIES:
+:NOTER_PAGE: 897
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 897
+:END:
+*** Blistering (Bullous) Disorders
+:PROPERTIES:
+:NOTER_PAGE: 897
+:END:
+**** Pemphigus (Vulgaris and Foliaceus)
+:PROPERTIES:
+:NOTER_PAGE: 897
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 898
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 898
+:END:
+**** Bullous Pemphigoid
+:PROPERTIES:
+:NOTER_PAGE: 898
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 898
+:END:
+***** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 899
+:END:
+**** Dermatitis Herpetiformis
+:PROPERTIES:
+:NOTER_PAGE: 900
+:END:
+***** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 900
+:END:
+*** Tumors of the Skin
+:PROPERTIES:
+:NOTER_PAGE: 901
+:END:
+**** Benign and Premalignant Epithelial Lesions
+:PROPERTIES:
+:NOTER_PAGE: 901
+:END:
+***** Seborrheic Keratosis
+:PROPERTIES:
+:NOTER_PAGE: 901
+:END:
+***** Actinic Keratosis
+:PROPERTIES:
+:NOTER_PAGE: 902
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 902
+:END:
+**** Malignant Epidermal Tumors
+:PROPERTIES:
+:NOTER_PAGE: 902
+:END:
+***** Squamous Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 902
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 902
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 903
+:END:
+***** Basal Cell Carcinoma
+:PROPERTIES:
+:NOTER_PAGE: 904
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 904
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 904
+:END:
+**** Melanocytic Proliferations
+:PROPERTIES:
+:NOTER_PAGE: 905
+:END:
+***** Melanocytic Nevi
+:PROPERTIES:
+:NOTER_PAGE: 905
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 905
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 905
+:END:
+***** Dysplastic Nevus
+:PROPERTIES:
+:NOTER_PAGE: 905
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 906
+:END:
+***** Melanoma
+:PROPERTIES:
+:NOTER_PAGE: 907
+:END:
+****** Pathogenesis
+:PROPERTIES:
+:NOTER_PAGE: 907
+:END:
+****** Clinical Features
+:PROPERTIES:
+:NOTER_PAGE: 908
+:END:
+*** Suggested Readings
+:PROPERTIES:
+:NOTER_PAGE: 910
+:END:
