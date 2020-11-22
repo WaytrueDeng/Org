@@ -1,0 +1,14 @@
+#+title: rigid
+#+roam_tags:英语单词
+
+* 定义
+  
+rigid [ˈrɪdʒɪd]
+
+* Basic Explains
+- adj. 严格的；僵硬的，死板的；坚硬的；精确的
+
+* Web References
+- rigid :: 严格的; 硬性; 刚性的
+- rigid body :: 刚体; 刚性体; 刚性物体
+- rigid foundation :: 刚性基础; 刚性地基; 钢性基础

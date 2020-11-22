@@ -1,0 +1,14 @@
+#+title: coined
+#+roam_tags:英语单词
+
+* 定义
+  
+coined [nil]
+
+* Basic Explains
+- v. 杜撰（新词等）（coin的过去分词）；铸造（硬币）
+
+* Web References
+- coined :: 杜撰; 铸造; 被发明
+- coined marks :: 创造性商标
+- coined gold :: 金币

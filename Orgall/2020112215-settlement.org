@@ -1,0 +1,14 @@
+#+title: settlement
+#+roam_tags:英语单词
+
+* 定义
+  
+settlement [ˈsetlmənt]
+
+* Basic Explains
+- n. 解决，处理；[会计] 结算；沉降；殖民
+
+* Web References
+- Settlement :: 结算; 交割; 结帐
+- Settlement Price :: 结算价格; 结算价; 平仓价格
+- settlement joint :: 沉降缝; 沉降接缝

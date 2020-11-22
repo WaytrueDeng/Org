@@ -1,0 +1,15 @@
+#+title: veterinary
+#+roam_tags:英语单词
+
+* 定义
+  
+veterinary [ˈvetnri; ˈvetrənəri]
+
+* Basic Explains
+- n. 兽医（等于veterinarian）
+- adj. 兽医的
+
+* Web References
+- Veterinary :: 兽医; 兽医健康证明; 兽医学
+- Veterinary medicine :: 兽医学; 兽医学院; 兽医
+- veterinary microbiology :: 兽医微生物学; 兽医微生物; 动物微生物学

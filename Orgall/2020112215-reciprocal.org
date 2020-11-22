@@ -1,0 +1,15 @@
+#+title: reciprocal
+#+roam_tags:英语单词
+
+* 定义
+  
+reciprocal [rɪˈsɪprəkl]
+
+* Basic Explains
+- n. [数] 倒数；互相起作用的事物
+- adj. 互惠的；相互的；倒数的，彼此相反的
+
+* Web References
+- Reciprocal :: 倒数; 互惠; 相互的
+- reciprocal lattice :: 倒晶格; 倒易格子; 倒易点阵
+- Reciprocal rule :: 倒数定则; 交互规律; 交互规则

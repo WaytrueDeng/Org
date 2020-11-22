@@ -1,0 +1,14 @@
+#+title: mileage
+#+roam_tags:英语单词
+
+* 定义
+  
+mileage [ˈmaɪlɪdʒ]
+
+* Basic Explains
+- n. 英里数
+
+* Web References
+- mileage :: 英里数; 里程; 哩数
+- mileage recorder :: 里程表; 运行次数记录器; 里程记录仪
+- mileage charges :: 按英里程计算的运费

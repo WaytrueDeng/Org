@@ -1,0 +1,15 @@
+#+title: oblong
+#+roam_tags:英语单词
+
+* 定义
+  
+oblong [ˈɒblɒŋ]
+
+* Basic Explains
+- n. 椭圆形；长方形
+- adj. 椭圆形的；长方形的
+
+* Web References
+- oblong :: 长方形的; 椭圆形; 长型脸
+- oblong pad :: 长方形焊盘; 矩形焊盘
+- oblong link :: 长链环

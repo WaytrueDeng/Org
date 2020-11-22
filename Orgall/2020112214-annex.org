@@ -1,0 +1,16 @@
+#+title: annex
+#+roam_tags:英语单词
+
+* 定义
+  
+annex [ˈæneks; əˈneks]
+
+* Basic Explains
+- n. 附加物；附属建筑物；（文件）附录
+- v. 附加；获得；并吞；占为己有（非正式）
+- n. (Annex) （美、法、尼、瑞、加）艾尼克斯（人名）
+
+* Web References
+- Annex :: 附件; 配楼; 附录
+- memory annex :: 记忆器附添装置; 附属存储设备
+- annex point :: 附加点; 辅助点

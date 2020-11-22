@@ -1,0 +1,15 @@
+#+title: indicated
+#+roam_tags:英语单词
+
+* 定义
+  
+indicated ['ɪndə,keɪtɪd]
+
+* Basic Explains
+- v. 表明（indicate的过去分词）；指出；显示
+- adj. 表明的；指示的
+
+* Web References
+- indicated horsepower :: 额定马力; 指示功率; 点火正时
+- indicated output :: 指示输出; 指示出量指示功率; 指示出量指示输出
+- indicated throughput :: 指示输量

@@ -1,0 +1,16 @@
+#+title: probing
+#+roam_tags:英语单词
+
+* 定义
+  
+probing [ˈprəʊbɪŋ]
+
+* Basic Explains
+- adj. 追根究底的；仔细观察的
+- n. 探索，探查
+- v. 用手（或仪器）探查；调查， 探究；用探针探查（probe 的现在分词）
+
+* Web References
+- probing :: 好探索的
+- Linear probing :: 线性探测; 线性探查; 线性探测法
+- auto probing :: 自动探测

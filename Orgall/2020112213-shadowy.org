@@ -1,0 +1,14 @@
+#+title: shadowy
+#+roam_tags:英语单词
+
+* 定义
+  
+shadowy [ˈʃædəʊi]
+
+* Basic Explains
+- adj. 幽暗的，多阴影的；昏暗的，朦胧的；鲜为人知的，神秘莫测的；虚无的，虚幻的
+
+* Web References
+- shadowy :: 有影的; 幽暗的; 有阴影的
+- Shadowy Tarot :: 塔罗牌
+- shadowY dimension :: 阴影在y轴方向的偏移

@@ -1,0 +1,15 @@
+#+title: convicted
+#+roam_tags:英语单词
+
+* 定义
+  
+convicted [nil]
+
+* Basic Explains
+- v. 证明……有罪；宣判（某人）有罪；（使）知罪（convict 的过去式及过去分词）
+- adj. 证明有罪的；已被判刑的
+
+* Web References
+- Convicted :: 退信; 天牢喋血; 被判有罪
+- the convicted :: 已经定罪的
+- stand convicted :: 被认定有罪

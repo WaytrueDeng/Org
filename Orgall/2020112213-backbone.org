@@ -1,0 +1,14 @@
+#+title: backbone
+#+roam_tags:英语单词
+
+* 定义
+  
+backbone [ˈbækbəʊn]
+
+* Basic Explains
+- n. 脊骨，脊柱；支柱；骨气，毅力；书脊；（生化）聚合分子主链；（计算机）主干网
+
+* Web References
+- backbone :: 脊骨; 骨干; 中坚
+- Backbone Subsystem :: 干线子系统; 垂直干线子系统; 子系统
+- collapsed backbone :: 紧缩主干; 集中式主干网; 紧缩主干网

@@ -1,0 +1,14 @@
+#+title: aptitudes
+#+roam_tags:英语单词
+
+* 定义
+  
+aptitudes [nil]
+
+* Basic Explains
+- n. 适当；倾向；资质（aptitude的复数）
+
+* Web References
+- Aptitudes :: 资质; 及性向; 性向
+- appropriate aptitudes :: 专门人才
+- aptitudes sociales :: 社会能力

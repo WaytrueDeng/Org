@@ -1,0 +1,14 @@
+#+title: transactional
+#+roam_tags:英语单词
+
+* 定义
+  
+transactional [trænˈzækʃənəl]
+
+* Basic Explains
+- adj. 交易型的；事务性的；事务处理的
+
+* Web References
+- Transactional :: 事务处理; 策略事务缓存; 事务型
+- Transactional analysis :: 相互影响分析; 交互分析; 相互作用分析
+- Transactional distance :: 交互影响距离; 交互距离; 交感距离

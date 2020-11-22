@@ -1,0 +1,14 @@
+#+title: traumas
+#+roam_tags:英语单词
+
+* 定义
+  
+traumas [nil]
+
+* Basic Explains
+- n. 外伤；精神创伤（trauma的复数）
+
+* Web References
+- traumas :: 创伤; 精神创伤; 例句
+- Surgical traumas :: 外伤性
+- sport traumas :: 运动损伤

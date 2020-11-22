@@ -1,0 +1,14 @@
+#+title: devised
+#+roam_tags:英语单词
+
+* 定义
+  
+devised [nil]
+
+* Basic Explains
+- v. 设计（devise的过去式和过去分词）；计划；发明
+
+* Web References
+- devised :: 设计; 发明; 计划
+- Devised Methods :: 想出方法
+- Devised Strategies :: 运筹帷幄

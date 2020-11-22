@@ -1,0 +1,14 @@
+#+title: adjacent
+#+roam_tags:英语单词
+
+* 定义
+  
+adjacent [əˈdʒeɪsnt]
+
+* Basic Explains
+- adj. 邻近的，毗连的
+
+* Web References
+- Adjacent :: 相邻; 邻近的; 毗连的
+- adjacent channel :: 相邻信道; 邻近信道; 相邻通道
+- adjacent sea :: 边缘海; 邻海; 近海

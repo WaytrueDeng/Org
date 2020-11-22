@@ -1,0 +1,14 @@
+#+title: techniques
+#+roam_tags:英语单词
+
+* 定义
+  
+techniques [tekˈni:ks]
+
+* Basic Explains
+- n. 技术（technique的复数）；方法；技巧
+
+* Web References
+- Techniques :: 技法; 技术; 技巧
+- Sampling techniques :: 采样技术; 抽样技术; 取样技术
+- Metallographic Techniques :: 金相技术

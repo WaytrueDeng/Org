@@ -1,0 +1,14 @@
+#+title: articulations
+#+roam_tags:英语单词
+
+* 定义
+  
+articulations [nil]
+
+* Basic Explains
+- n. [解剖] 关节；连接；[生理] 发音（articulation的复数）
+
+* Web References
+- Articulations :: 关节; 发音技巧
+- intermetatarsal articulations :: 跖骨间关节
+- metatarsophalangeal articulations :: 跖趾关节

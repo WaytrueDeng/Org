@@ -1,0 +1,16 @@
+#+title: gust
+#+roam_tags:英语单词
+
+* 定义
+  
+gust [ɡʌst]
+
+* Basic Explains
+- n. 风味；一阵狂风；趣味
+- vi. 一阵阵地劲吹
+- n. (Gust)人名；(德、捷)古斯特
+
+* Web References
+- gust :: 阵风; 一阵风; 一阵狂风
+- Gust Load :: 阵风载荷; 阵风负荷; 阵风荷载
+- vertical gust :: 垂直阵风; 垂直突风

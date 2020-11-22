@@ -1,0 +1,16 @@
+#+title: hindered
+#+roam_tags:英语单词
+
+* 定义
+  
+hindered [nil]
+
+* Basic Explains
+- 阻碍
+- 牵制
+- 后方的
+
+* Web References
+- hindered :: 此路不通; 妨碍; 成为障碍
+- hindered contraction :: 限缩变形; 受阻收缩; 翻译
+- hindered sedimentatio :: 受阻沉降

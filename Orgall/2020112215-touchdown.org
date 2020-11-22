@@ -1,0 +1,14 @@
+#+title: touchdown
+#+roam_tags:英语单词
+
+* 定义
+  
+touchdown [ˈtʌtʃdaʊn]
+
+* Basic Explains
+- n. 着陆，降落；触地；触地得分
+
+* Web References
+- Touchdown :: 达阵; 达阵得分; 接地点
+- touchdown velocity :: 接地速度
+- touchdown distance :: 着地距离

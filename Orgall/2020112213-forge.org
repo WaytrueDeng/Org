@@ -1,0 +1,16 @@
+#+title: forge
+#+roam_tags:英语单词
+
+* 定义
+  
+forge [fɔːdʒ]
+
+* Basic Explains
+- v. 锻造，铸造；缔造，艰苦做成；伪造；稳步前进，匀速移动
+- n. (Forge) （美）福格（人名）
+- n. 锻铁炉，锻造车间，锻造厂；铁匠铺；伪造者
+
+* Web References
+- forge :: 伪造; 锻造; 铸造
+- forge welding :: 锻焊; 锻接; 锻接焊
+- forge iron :: 锻铁; 搅炼生铁; 打铁

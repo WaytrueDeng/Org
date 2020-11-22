@@ -1,0 +1,16 @@
+#+title: parenthesis
+#+roam_tags:英语单词
+
+* 定义
+  
+parenthesis [pəˈrenθəsɪs]
+
+* Basic Explains
+- n. 插入语,插入成分
+- n. 圆括号
+- n. 间歇，插曲
+
+* Web References
+- parenthesis :: 插入语; 括弧; 括号
+- open parenthesis :: 左括号; 左圆括号; 左开式圆括号
+- parenthesis grammar :: 括号文法; 括号文法

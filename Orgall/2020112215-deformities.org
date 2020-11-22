@@ -1,0 +1,14 @@
+#+title: deformities
+#+roam_tags:英语单词
+
+* 定义
+  
+deformities [nil]
+
+* Basic Explains
+- n. 畸形；缺损（deformity的复数形式）
+
+* Web References
+- deformities :: 缺损; 肌肉骨骼系统变形; 残缺
+- Hand Deformities :: 手畸形
+- bimaxillary deformities :: 双颌畸形

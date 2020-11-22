@@ -1,0 +1,15 @@
+#+title: primitive
+#+roam_tags:英语单词
+
+* 定义
+  
+primitive [ˈprɪmətɪv]
+
+* Basic Explains
+- n. 原始人
+- adj. 原始的，远古的；简单的，粗糙的
+
+* Web References
+- primitive :: 原始的; 原语; 基元
+- Primitive Quendian :: 古精灵语
+- primitive function :: 原函数; 基元功能; 原生函数

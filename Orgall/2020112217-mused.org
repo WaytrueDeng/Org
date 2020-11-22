@@ -1,0 +1,14 @@
+#+title: mused
+#+roam_tags:英语单词
+
+* 定义
+  
+mused [nil]
+
+* Basic Explains
+- v. 沉思，冥想，揣摩；沉思地自言自语（muse 的过去式和过去分词）
+
+* Web References
+- MUSED :: 庄家璇; 思忖
+- I Mused :: 我若有所思地说
+- Jack Mused :: 杰克若有所思地说

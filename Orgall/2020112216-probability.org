@@ -1,0 +1,14 @@
+#+title: probability
+#+roam_tags:英语单词
+
+* 定义
+  
+probability [ˌprɒbəˈbɪləti]
+
+* Basic Explains
+- n. 可能性；机率；[数] 或然率
+
+* Web References
+- probability :: 概率; 概率; 可能性
+- Probability Theory :: 概率论; 机率论; 概率方法
+- Probability Plot :: 概率图; 概率关系曲线图; 正态概率图

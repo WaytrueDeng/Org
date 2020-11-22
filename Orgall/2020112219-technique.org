@@ -1,0 +1,14 @@
+#+title: technique
+#+roam_tags:英语单词
+
+* 定义
+  
+technique [tekˈniːk]
+
+* Basic Explains
+- n. 技巧，技术；手法
+
+* Web References
+- technique :: 技术; 技巧; 方法
+- interaction technique :: 交互技术
+- Yubetsu technique :: 涌别技法

@@ -1,0 +1,14 @@
+#+title: integrity
+#+roam_tags:英语单词
+
+* 定义
+  
+integrity [ɪnˈteɡrəti]
+
+* Basic Explains
+- n. 完整；正直；诚实；廉正
+
+* Web References
+- Integrity :: 诚信; 完整性; 正直
+- Territorial integrity :: 领土完整; 领土的完整; 领
+- referential integrity :: 参照完整性; 引用完整性; 参考完整性

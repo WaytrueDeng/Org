@@ -1,0 +1,15 @@
+#+title: germs
+#+roam_tags:英语单词
+
+* 定义
+  
+germs [dʒə:mz]
+
+* Basic Explains
+- n. [微] 细菌；[基医] 病菌（germ的复数形式）；致病菌
+- v. 发生（germ的单三形式）；萌芽
+
+* Web References
+- germs :: 细菌
+- rogue germs :: 顽劣的病菌
+- carry germs :: 带病菌

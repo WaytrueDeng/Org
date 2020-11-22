@@ -1,0 +1,15 @@
+#+title: interpret
+#+roam_tags:英语单词
+
+* 定义
+  
+interpret [ɪnˈtɜːprət]
+
+* Basic Explains
+- vi. 解释；翻译
+- vt. 说明；口译
+
+* Web References
+- interpret :: 解释; 口译; 翻译
+- interpret as :: 解释为; 把……理解为; 把…理解为
+- interpret falsely :: 错误地解释

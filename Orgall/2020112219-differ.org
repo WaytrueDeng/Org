@@ -1,0 +1,16 @@
+#+title: differ
+#+roam_tags:英语单词
+
+* 定义
+  
+differ [ˈdɪfər]
+
+* Basic Explains
+- vi. 相异；意见分歧
+- vt. 使…相异；使…不同
+- n. (Differ)人名；(法)迪费
+
+* Web References
+- differ :: 相异; 不同; 相差
+- signatures differ :: 签名有误; 签名有误印鉴不符; 印鉴不符
+- differ in :: 不同在; 在某方面不同; 在

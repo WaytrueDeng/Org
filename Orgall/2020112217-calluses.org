@@ -1,0 +1,14 @@
+#+title: calluses
+#+roam_tags:英语单词
+
+* 定义
+  
+calluses [nil]
+
+* Basic Explains
+- n. 皮肤的硬结；[皮肤] 胼胝（callus的复数）
+
+* Web References
+- Calluses :: 老茧; 丛芽; 胼胝
+- calluses dead :: 褐化死亡
+- Foot Calluses :: 足茧

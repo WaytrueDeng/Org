@@ -1,0 +1,14 @@
+#+title: authority
+#+roam_tags:英语单词
+
+* 定义
+  
+authority [ɔːˈθɒrəti]
+
+* Basic Explains
+- n. 权威；权力；当局
+
+* Web References
+- Authority :: 权威; 职权; 权力
+- Certificate Authority :: 认证中心; 证书授权; 认证授权
+- moral authority :: 道德权威; 权威性; 道义权威

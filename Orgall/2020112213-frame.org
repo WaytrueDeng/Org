@@ -1,0 +1,18 @@
+#+title: frame
+#+roam_tags:英语单词
+
+* 定义
+  
+frame [freɪm]
+
+* Basic Explains
+- n. 框架；结构；眼镜框；[电影] 画面
+- vt. 给 (图画或照片) 配框；设计；建造；陷害；使…适合；制订；拟订
+- vi. 有成功希望
+- adj. 有木架的；有构架的
+- n. (Frame)人名；(英)弗雷姆
+
+* Web References
+- frame :: 帧; 架; 框架
+- frame rate :: 帧率; 帧速率; 帧频
+- Lead Frame :: 引脚框架; 导线架; 引线框架

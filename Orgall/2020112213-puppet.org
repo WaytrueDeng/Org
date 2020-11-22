@@ -1,0 +1,14 @@
+#+title: puppet
+#+roam_tags:英语单词
+
+* 定义
+  
+puppet [ˈpʌpɪt]
+
+* Basic Explains
+- n. 木偶；傀儡；受他人操纵的人
+
+* Web References
+- puppet :: 木偶; 傀儡; 木偶人
+- sock puppet :: 马甲; 傀儡; 袜子木偶
+- puppet play :: 傀儡戏; 卡通总动员人偶扮演; 木偶戏

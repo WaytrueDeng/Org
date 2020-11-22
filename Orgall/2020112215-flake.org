@@ -1,0 +1,16 @@
+#+title: flake
+#+roam_tags:英语单词
+
+* 定义
+  
+flake [fleɪk]
+
+* Basic Explains
+- n. 小薄片，碎片；古怪的人；搁架；坚硬石片；（卷绳或盘索的）一圈
+- n. (Flake) （美）弗拉克（人名）
+- v. 剥落，将……剥落；使……成薄片；（非正式）入睡，筋疲力尽；把（绳子）松松挽好
+
+* Web References
+- flake :: 薄片; 白点; 肌膈
+- Flake Size :: 雪片大小; 雪片尺寸; 雪花尺寸
+- Jeff Flake :: 弗莱克

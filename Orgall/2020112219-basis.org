@@ -1,0 +1,14 @@
+#+title: basis
+#+roam_tags:英语单词
+
+* 定义
+  
+basis [ˈbeɪsɪs]
+
+* Basic Explains
+- n. 基础；底部；主要成分；基本原则或原理
+
+* Web References
+- Basis :: 基础; 根据; 基
+- orthonormal basis :: 标准正交基; 正交基; 规范正交基
+- basis set :: 基组; 基底函數; 翻译

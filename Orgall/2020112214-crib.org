@@ -1,0 +1,16 @@
+#+title: crib
+#+roam_tags:英语单词
+
+* 定义
+  
+crib [krɪb]
+
+* Basic Explains
+- n. 婴儿床；栅栏；食槽
+- vi. 剽窃
+- vt. 拘禁，关入栅栏；抄袭
+
+* Web References
+- crib :: 婴儿床; 儿童床; 叠木框
+- crib cofferdam :: 木龙围堰; 木笼围堰
+- crib weir :: 木龙填石坝
