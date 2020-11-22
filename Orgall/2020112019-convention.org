@@ -1,0 +1,14 @@
+#+title: convention
+#+roam_tags:英语单词
+
+* 定义
+  
+convention [kənˈvenʃn]
+
+* Basic Explains
+- n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗
+
+* Web References
+- convention :: 大会; 公约; 会议
+- Calling Convention :: 调用约定; 呼叫惯例; 调用协定
+- Annapolis Convention :: 安纳波利斯会议; 历史上的今天安那波利斯大会

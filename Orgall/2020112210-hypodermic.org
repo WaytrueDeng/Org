@@ -1,0 +1,15 @@
+#+title: hypodermic
+#+roam_tags:英语单词
+
+* 定义
+  
+hypodermic [ˌhaɪpəˈdɜːmɪk]
+
+* Basic Explains
+- n. 皮下注射器；皮下注射
+- adj. 皮下的；（针）用于皮下注射的；（药物）注射于皮下的
+
+* Web References
+- hypodermic :: 皮下的; 皮下的
+- hypodermic layer :: 皮下层
+- hypodermic injection :: 皮下注射法

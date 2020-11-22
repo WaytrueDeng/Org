@@ -1,0 +1,14 @@
+#+title: physicians
+#+roam_tags:英语单词
+
+* 定义
+  
+physicians [nil]
+
+* Basic Explains
+- n. [内科] 内科医生（physician的复数）
+
+* Web References
+- physicians :: 内科; 医师; 内科医生
+- Physicians Two :: 两位医生
+- eclectic physicians :: 折衷的医师

@@ -1,0 +1,14 @@
+#+title: ramification
+#+roam_tags:英语单词
+
+* 定义
+  
+ramification [ˌræmɪfɪˈkeɪʃn]
+
+* Basic Explains
+- n. 衍生物；分枝，分叉；支流；（衍生的）结果、影响
+
+* Web References
+- ramification :: 结果; 分支机构; 分支
+- ramification group :: 分歧群
+- ramification index :: 分歧指数; 分歧指标

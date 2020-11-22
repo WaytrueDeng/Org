@@ -1,0 +1,13 @@
+#+title: assessment
+#+roam_tags:名词解释
+
+* 定义
+assessment [əˈsesmənt]
+
+* Basic Explains
+- n. 评定；估价
+
+* Web References
+- assessment :: 估价; 评定; 课堂评价
+- consequence assessment :: 后果评价
+- STaR assessment :: STaR评估

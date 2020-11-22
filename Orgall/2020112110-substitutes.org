@@ -1,0 +1,15 @@
+#+title: substitutes
+#+roam_tags:英语单词
+
+* 定义
+  
+substitutes [nil]
+
+* Basic Explains
+- n. 替代品；替补（substitute的复数）
+- v. 用…代替；由…接替（substitute的第三人称单数形式）
+
+* Web References
+- Substitutes :: 替补队员; 替代品; 替代者
+- fat substitutes :: 脂肪代用品; 脂肪替代品; 脂肪替代物
+- Gross Substitutes :: 总替代品

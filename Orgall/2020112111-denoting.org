@@ -1,0 +1,14 @@
+#+title: denoting
+#+roam_tags:英语单词
+
+* 定义
+  
+denoting [nil]
+
+* Basic Explains
+- 指示（denote的现在分词）
+
+* Web References
+- denoting :: 表示
+- denoting object :: 指称对象
+- By denoting :: 由表示; 通过表示; 正在翻译

@@ -1,0 +1,14 @@
+#+title: latent
+#+roam_tags:英语单词
+
+* 定义
+  
+latent [ˈleɪtnt]
+
+* Basic Explains
+- adj. 潜在的；潜伏的；隐藏的
+
+* Web References
+- latent :: 潜在的; 隐藏; 潜伏的
+- latent image :: 潜像; 潜像; 潜影
+- latent learning :: 潜伏学习; 潜在学习; 内隐学习

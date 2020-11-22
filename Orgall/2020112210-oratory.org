@@ -1,0 +1,14 @@
+#+title: oratory
+#+roam_tags:英语单词
+
+* 定义
+  
+oratory [ˈɒrətri]
+
+* Basic Explains
+- n. 雄辩；演讲术
+
+* Web References
+- oratory :: 讲演术; 雄辩; 演讲术
+- True Oratory :: 真正演讲术
+- oratory encoder :: 旋转编码器

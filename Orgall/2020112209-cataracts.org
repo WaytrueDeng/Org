@@ -1,0 +1,14 @@
+#+title: cataracts
+#+roam_tags:英语单词
+
+* 定义
+  
+cataracts [nil]
+
+* Basic Explains
+- n. （眼科）白内障；（文）大瀑布，洪水（cataract 的复数）
+
+* Web References
+- Cataracts :: 白内障
+- congenital cataracts :: 先天性白内障
+- eye cataracts :: 白内障

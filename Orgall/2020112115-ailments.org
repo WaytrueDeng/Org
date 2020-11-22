@@ -1,0 +1,14 @@
+#+title: ailments
+#+roam_tags:英语单词
+
+* 定义
+  
+ailments [nil]
+
+* Basic Explains
+- n. 疾病，小病（ailment复数形式）
+
+* Web References
+- Ailments :: 疾病知识; 疾病; 例句
+- economical ailments :: 经济失调
+- Skin Ailments :: 皮肤疾病

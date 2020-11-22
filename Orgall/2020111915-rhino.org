@@ -1,0 +1,13 @@
+#+title: rhino
+#+roam_tags:名词解释
+
+* 定义
+rhino [ˈraɪnəʊ]
+
+* Basic Explains
+- n. 犀牛（等于rhinoceros）；钱；现金
+
+* Web References
+- Rhino :: 犀牛; 犀牛软件; 软件
+- Hearty Rhino :: 犀牛大餐
+- Tundra Rhino :: 苔原犀牛

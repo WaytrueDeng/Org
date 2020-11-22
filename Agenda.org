@@ -2,11 +2,14 @@
 
 * Longterm
 ** TODO [#A]  健身 [0/4]
-SCHEDULED: <2020-11-18 三 +1d>
+SCHEDULED: <2020-11-21 六 +1d>
 :PROPERTIES:
 :ID:       45f8fc0c-7301-4048-b117-dd4bd5065a91
-:LAST_REPEAT: [2020-11-17 二 16:59]
+:LAST_REPEAT: [2020-11-21 六 15:26]
 :END:
+- State "MISS"       from "TODO"       [2020-11-21 六 15:26]
+- State "MISS"       from "TODO"       [2020-11-21 六 15:26]
+- State "MISS"       from "TODO"       [2020-11-21 六 15:25]
 - State "MISS"       from "TODO"       [2020-11-17 二 16:59]
 - State "MISS"       from "TODO"       [2020-11-17 二 16:59]
 - State "MISS"       from "TODO"       [2020-11-17 二 16:59]
@@ -71,17 +74,20 @@ SCHEDULED: <2020-11-18 三 +1d>
 - [ ] 核心肌肉训练
 - [ ] 慢跑三公里
 ** TODO [#A] 学习英语
-SCHEDULED: <2020-11-18 三 +1d>
+SCHEDULED: <2020-11-21 六 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-11-17 二 16:59]
+:LAST_REPEAT: [2020-11-21 六 15:26]
 :END:
 
+- State "DONE"       from "TODO"       [2020-11-21 六 15:26]
+- State "DONE"       from "TODO"       [2020-11-21 六 15:26]
+- State "DONE"       from "TODO"       [2020-11-21 六 15:25]
 - State "DONE"       from "TODO"       [2020-11-17 二 16:59]
 - State "DONE"       from "TODO"       [2020-11-17 二 16:59]
 - State "DONE"       from "TODO"       [2020-11-17 二 16:59]
 - State "DONE"       from "TODO"       [2020-11-17 二 16:59]
 - State "DONE"       from "TODO"       [2020-11-17 二 16:59]
-- State "MISS"       from "TODO"       [2020-11-17 二 16:59]
+- State "DONE"       from "TODO"       [2020-11-17 二 16:59]
 - State "DONE"       from "TODO"       [2020-11-12 Thu 18:02]
 - State "DONE"       from "TODO"       [2020-11-12 Thu 18:02]
 - State "DONE"       from "TODO"       [2020-11-12 Thu 18:02]
@@ -136,10 +142,13 @@ SCHEDULED: <2020-11-18 三 +1d>
 - State "DONE"       from "TODO"       [2020-09-22 二 20:44]
 - State "DONE"       from "TODO"       [2020-09-20 日 22:46]
 ** TODO [#A] 冥想
-SCHEDULED: <2020-11-18 三 +1d>
+SCHEDULED: <2020-11-21 六 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2020-11-17 二 16:59]
+:LAST_REPEAT: [2020-11-21 六 15:26]
 :END:
+- State "MISS"       from "TODO"       [2020-11-21 六 15:26]
+- State "MISS"       from "TODO"       [2020-11-21 六 15:26]
+- State "MISS"       from "TODO"       [2020-11-21 六 15:26]
 - State "MISS"       from "TODO"       [2020-11-17 二 16:59]
 - State "MISS"       from "TODO"       [2020-11-12 Thu 18:02]
 - State "MISS"       from "TODO"       [2020-11-12 Thu 18:02]
@@ -192,10 +201,10 @@ SCHEDULED: <2020-11-18 三 +1d>
 - State "MISS"       from "TODO"       [2020-10-01 四 22:30]
 * Weekly
 ** Monday
-*** TODO 学习梵语字母
-SCHEDULED: <2020-11-23 一 +1w>
+*** 学习梵语字母
+SCHEDULED: <2020-11-30 一 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2020-11-17 二 16:59]
+:LAST_REPEAT: [2020-11-21 六 14:22]
 :END:
 
 - State "MISS"       from "TODO"       [2020-11-17 二 16:59]
@@ -206,7 +215,7 @@ SCHEDULED: <2020-11-23 一 +1w>
 - State "MISS"       from "TODO"       [2020-10-13 二 17:49]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:54]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 09:59]
-*** TODO 学习临床诊断学
+*** 学习临床诊断学
 SCHEDULED: <2020-11-30 一 +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-17 二 16:59]
@@ -222,7 +231,7 @@ SCHEDULED: <2020-11-30 一 +1w>
 - State "MISS"       from "TODO"       [2020-09-29 二 15:54]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 09:59]
 ** Tuesday
-*** TODO 学习临床诊断学
+*** 学习临床诊断学
 SCHEDULED: <2020-11-24 二 +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-17 二 16:59]
@@ -236,7 +245,7 @@ SCHEDULED: <2020-11-24 二 +1w>
 - State "DONE"       from "TODO"       [2020-10-06 二 18:55]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "DONE"       from "TODO"       [2020-09-22 二 15:23]
-*** TODO 学习实验诊断学
+*** 学习实验诊断学
 SCHEDULED: <2020-11-24 二 +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-17 二 16:59]
@@ -250,7 +259,7 @@ SCHEDULED: <2020-11-24 二 +1w>
 - State "MISS"       from "TODO"       [2020-10-07 三 18:26]
 - State "CANCLE"     from "TODO"       [2020-09-25 五 10:00]
 ** Wednesday 
-*** TODO 学习实验诊断学
+*** 学习实验诊断学
 SCHEDULED: <2020-12-23 Wed +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -268,7 +277,7 @@ SCHEDULED: <2020-12-23 Wed +1w>
 - State "DONE"       from "TODO"       [2020-10-08 四 10:11]
 - State "DONE"       from "TODO"       [2020-10-01 四 16:07]
 - State "DONE"       from "TODO"       [2020-09-23 三 19:41]
-*** TODO 学习临床药理学
+*** 学习临床药理学
 SCHEDULED: <2020-11-25 Wed +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -283,7 +292,7 @@ SCHEDULED: <2020-11-25 Wed +1w>
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "MISS"       from "TODO"       [2020-09-25 五 10:00]
 ** Thursday
-*** TODO 学习临床药理学
+*** 学习临床药理学
 SCHEDULED: <2020-11-26 Thu +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -297,7 +306,7 @@ SCHEDULED: <2020-11-26 Thu +1w>
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-01 四 22:27]
 - State "DONE"       from "TODO"       [2020-09-24 四 17:06]
-*** TODO 学习影像学
+*** 学习影像学
 SCHEDULED: <2020-12-17 Thu +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -316,7 +325,7 @@ SCHEDULED: <2020-12-17 Thu +1w>
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
 - State "MISS"       from "TODO"       [2020-09-25 五 10:00]
 ** Friday
-*** TODO 学习影像学
+*** 学习影像学
 SCHEDULED: <2021-02-12 Fri +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -341,7 +350,7 @@ SCHEDULED: <2021-02-12 Fri +1w>
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "DONE"       from "TODO"       [2020-09-25 五 19:32]
-*** TODO 学习超声诊断学
+*** 学习超声诊断学
 SCHEDULED: <2020-12-11 Fri +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:02]
@@ -358,7 +367,7 @@ SCHEDULED: <2020-12-11 Fri +1w>
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-09-26 六 09:05]
 ** Saturday
-*** TODO 学习超声诊断学
+*** 学习超声诊断学
 SCHEDULED: <2021-01-02 Sat +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:03]
@@ -377,7 +386,7 @@ SCHEDULED: <2021-01-02 Sat +1w>
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "MISS"       from "TODO"       [2020-10-05 一 12:54]
 - State "DONE"       from "TODO"       [2020-09-26 六 20:29]
-*** TODO 复习生化
+*** 复习生化
 SCHEDULED: <2020-11-21 Sat +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:03]
@@ -391,7 +400,7 @@ SCHEDULED: <2020-11-21 Sat +1w>
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-09-27 日 09:59]
 ** Sunday
-*** TODO 复习生化
+*** 复习生化
 SCHEDULED: <2020-11-22 Sun +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:03]
@@ -404,7 +413,7 @@ SCHEDULED: <2020-11-22 Sun +1w>
 - State "MISS"       from "TODO"       [2020-10-12 一 07:50]
 - State "DONE"       from "TODO"       [2020-10-05 一 12:53]
 - State "MISS"       from "TODO"       [2020-10-01 四 22:29]
-*** TODO 学习梵语字母
+*** 学习梵语字母
 SCHEDULED: <2020-11-22 Sun +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2020-11-12 Thu 18:03]

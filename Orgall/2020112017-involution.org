@@ -1,0 +1,14 @@
+#+title: involution
+#+roam_tags:英语单词
+
+* 定义
+  
+involution [ɪnvə'ljuːʃən]
+
+* Basic Explains
+- n. [生物] 退化；纠缠（的事物）；乘方
+
+* Web References
+- involution :: 对合; 内卷化; 内卷
+- linear involution :: 线性对合
+- cultural involution :: 文化衍生

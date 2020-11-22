@@ -1,0 +1,16 @@
+#+title: alternate
+#+roam_tags:英语单词
+
+* 定义
+  
+alternate [ɔːlˈtɜːnət]
+
+* Basic Explains
+- v. （使）交替，（使）轮流
+- adj. 交替的，轮流的；间隔的，每隔（……天等）的；（一或多个事物）另外的，可供选择的；（两者）互不相容的；另类的，非传统的；（叶、芽）互生的
+- n. 替换物，代理人
+
+* Web References
+- alternate :: 交替的; 轮流; 相间
+- alternate trustee :: 候补受托人
+- alternate load :: 交变负载; 交变负荷; 交替载荷

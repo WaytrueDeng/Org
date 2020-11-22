@@ -1,0 +1,16 @@
+#+title: pedal
+#+roam_tags:英语单词
+
+* 定义
+  
+pedal [ˈpedl]
+
+* Basic Explains
+- n. （车辆，乐器的）踏板
+- v. 骑（自行车）；踩踏板
+- adj. 脚的；脚踏的
+
+* Web References
+- Pedal :: 踏板; 踩踏板; 脚踏板
+- pedal switch :: 脚踏开关; 踏板开关
+- gas pedal :: 油门; 加速踏板; 油门踏板

@@ -191,6 +191,7 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 **** Signal Transduction Pathways
 :PROPERTIES:
 :NOTER_PAGE: 27
+:ID:       414928c9-b348-478a-84c2-0367b933913c
 :END:
 ***** Receptors associated with kinase activity
 - geometry(几何学,形状)
@@ -209,13 +210,20 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :NOTER_PAGE: 30
 :END:
 *** Extracellular Matrix
+**** ECM serves several key functions
 :PROPERTIES:
 :NOTER_PAGE: 32
-:END:
+:END:• Mechanical support for cell anchorage(锚固) and cell migration,and maintenance of cell polarity.
 **** Components of the Extracellular Matrix
 :PROPERTIES:
 :NOTER_PAGE: 33
 :END:
+****** Collagens
+******* Some collagen types (e.g., types I, II, III, and V colla-gens) form linear fibrils stabilized by interchain hydro-gen bonding
+******* Nonfibrillar
+****** Elastin
+****** Proteoglycans and hyaluronan
+****** Adhesive glycoproteins and adhesion receptors
 *** Maintaining Cell Populations
 :PROPERTIES:
 :NOTER_PAGE: 35
@@ -228,6 +236,9 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :PROPERTIES:
 :NOTER_PAGE: 36
 :END:
+- roam:totipoten(全能的)
+- [[roam:tendency(趋势)]]
+- [[roam:hematopoietic(造血的)]]
 ***** Regenerative Medicine
 :PROPERTIES:
 :NOTER_PAGE: 39
@@ -280,6 +291,21 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :PROPERTIES:
 :NOTER_PAGE: 42
 :END:
+**** Hypoxia(缺氧) and ischemia(缺血)
+**** Toxins(毒素)
+**** Infectious agents
+- [[roam:fungi(菌类)]]
+- [[roam:protozoan(原虫)]]
+**** Immunologic reactions
+**** Genetic abnormalities
+- [[roam:aberration(差异)]]
+- [[roam:sickle(镰刀)]]
+**** Nutrirional imbalances
+- [[roam:diabetes(糖尿病)]]
+- [[roam:atherosclerosis(动脉粥样硬化)]] 
+**** Physical agents
+**** Aging
+
 *** Sequence of Events in Cell Injury and Cell Death
 :PROPERTIES:
 :NOTER_PAGE: 43
@@ -288,6 +314,13 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :PROPERTIES:
 :NOTER_PAGE: 43
 :END:
+Reversible injury is the stage of cell injury at which the deranged function and morphology of the injured cellscan return to normal if the damaging stimulus is removed
+***** MORPHOLOGY
+The two main morphologic correlates of reversible cell injury
+are cellular swelling and fatty change.
+- Cellular swelling (Fig. 2.4B) is commonly seen in cell injury associated with increased [[roam:permeability(渗透性)]] of the plasma membrane. It may be difficult to appreciate with the light micro-scope, but it is often apparent at the level of the whole organ. When it affects many cells in an organ, it causes pallor (as a result of compression of capillaries), increased turgor, and an increase in organ weight. Microscopic examination may show small, clear vacuoles within the cytoplasm; these represent distended and pinched-off segments of the endoplasmic reticu- lum (ER). This pattern of [[roam:nonlethal(非致命)]] injury is sometimes called hydropic change or vacuolar degeneration.
+- Fatty change is manifested by the appearance of triglyceride containing lipid vacuoles in the cytoplasm. It is principally encountered in organs that are involved in lipid metabolism, such as the liver, and hence it is discussed in Chapter 16.
+
 **** Cell Death
 :PROPERTIES:
 :NOTER_PAGE: 44

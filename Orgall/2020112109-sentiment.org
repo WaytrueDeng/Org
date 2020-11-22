@@ -1,0 +1,14 @@
+#+title: sentiment
+#+roam_tags:英语单词
+
+* 定义
+  
+sentiment [ˈsentɪmənt]
+
+* Basic Explains
+- n. 感情，情绪；情操；观点；多愁善感
+
+* Web References
+- sentiment :: 柔懦情感; 感觉; 感情
+- Sentiment Index :: 情绪指数; 情感指数
+- aesthetic sentiment :: 审美情趣

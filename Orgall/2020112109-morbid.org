@@ -1,0 +1,14 @@
+#+title: morbid
+#+roam_tags:英语单词
+
+* 定义
+  
+morbid [ˈmɔːbɪd]
+
+* Basic Explains
+- adj. 病态的；由病引起的；恐怖的；病变部位的
+
+* Web References
+- morbid :: 病态的; 莫比德; 疾病的
+- morbid anatomy :: 病理解剖学; 病理解剖学
+- morbid genomics :: 疾病基因组学

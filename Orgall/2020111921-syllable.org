@@ -1,0 +1,14 @@
+#+title: syllable
+#+roam_tags:名词解释
+
+* 定义
+syllable [ˈsɪləbl]
+
+* Basic Explains
+- n. 音节，表示音节的符号；只言片语
+- v. 一个一个音节地读
+
+* Web References
+- syllable :: 音节; 赛尔贝尔; 音节
+- nonsense syllable :: 无意义音节
+- syllable chart :: 音节表; 翻译

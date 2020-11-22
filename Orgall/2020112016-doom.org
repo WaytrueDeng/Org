@@ -1,0 +1,16 @@
+#+title: doom
+#+roam_tags:英语单词
+
+* 定义
+  
+doom [duːm]
+
+* Basic Explains
+- n. 厄运；死亡；判决；世界末日
+- vt. 注定；判决；使失败
+- n. (Doom)人名；(泰)伦
+
+* Web References
+- DOOM :: 毁灭战士; 毁灭金属; 末日使者
+- doom engine :: 毁灭战士引擎
+- Doom Rails :: 毁灭战车; 灭亡战车

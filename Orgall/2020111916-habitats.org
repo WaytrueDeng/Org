@@ -1,0 +1,14 @@
+#+title: habitats
+#+roam_tags:名词解释
+
+* 定义
+habitats [nil]
+
+* Basic Explains
+- n. [生态] 栖息地；（动植物的）[经] 产地（habitat的复数形式）
+
+* Web References
+- Habitats :: 栖息地
+- Wildlife habitats :: 野生生物生境; 栖息地
+- Water Habitats :: 水□息地; 水栖息地; 栖息地
+  

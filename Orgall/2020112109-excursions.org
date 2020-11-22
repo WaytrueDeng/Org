@@ -1,0 +1,15 @@
+#+title: excursions
+#+roam_tags:英语单词
+
+* 定义
+  
+excursions [nil]
+
+* Basic Explains
+- n. 远足，短途旅行（excursion的复数）
+- v. 短足；作旅行（excursion的三单形式）
+
+* Web References
+- Excursions :: 旅行散记; 出游; 游览
+- Male Excursions :: 马列市区游
+- Weekend excursions :: 周末郊游

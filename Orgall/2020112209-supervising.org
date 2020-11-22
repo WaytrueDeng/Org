@@ -1,0 +1,15 @@
+#+title: supervising
+#+roam_tags:英语单词
+
+* 定义
+  
+supervising [nil]
+
+* Basic Explains
+- n. [自] 监控
+- v. 监督；管理；指导（supervise的ing形式）
+
+* Web References
+- supervising :: 监督; 监视屏; 事后监督
+- Safety supervising :: 安全监控
+- supervising pathologist :: 法医指导

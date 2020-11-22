@@ -1,0 +1,14 @@
+#+title: dissipation
+#+roam_tags:英语单词
+
+* 定义
+  
+dissipation [ˌdɪsɪˈpeɪʃn]
+
+* Basic Explains
+- n. 浪费；消散；[物] 损耗
+
+* Web References
+- dissipation :: 损耗; 损耗; 消散
+- heat dissipation :: 热传; 散热; 热耗散
+- quantum dissipation :: 量子耗散

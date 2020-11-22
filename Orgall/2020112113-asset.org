@@ -1,0 +1,15 @@
+#+title: asset
+#+roam_tags:英语单词
+
+* 定义
+  
+asset [ˈæset]
+
+* Basic Explains
+- n. 资产；优点；有用的东西；有利条件；财产；有价值的人或物
+- n. （法）阿塞（人名）
+
+* Web References
+- Asset :: 资产; 有用的东西; 财产
+- Asset Allocation :: 资产配置; 资产分配; 资产分配原则
+- current asset :: 流动资产; 负债; 活动资产

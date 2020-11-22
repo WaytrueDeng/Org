@@ -1,0 +1,14 @@
+#+title: practitioners
+#+roam_tags:英语单词
+
+* 定义
+  
+practitioners [nil]
+
+* Basic Explains
+- n. 实践者；开业者；实习者（practitioner的复数）
+
+* Web References
+- Practitioners :: 从业者; 从业; 执业医师
+- futures practitioners :: 期货从业人员
+- Health Practitioners :: 医疗健康工作者

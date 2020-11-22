@@ -1,0 +1,16 @@
+#+title: penetrates
+#+roam_tags:英语单词
+
+* 定义
+  
+penetrates [nil]
+
+* Basic Explains
+- 穿透
+- 进入
+- 打入
+
+* Web References
+- penetrates :: 高渗剂
+- penetrates sugar :: 渗糖
+- Penetrates all soils deeper :: 渗透所有深度的土壤

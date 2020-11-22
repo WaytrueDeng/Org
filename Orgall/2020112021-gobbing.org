@@ -1,0 +1,15 @@
+#+title: gobbing
+#+roam_tags:英语单词
+
+* 定义
+  
+gobbing [nil]
+
+* Basic Explains
+- n. 充填；鼓泡物料
+- v. 吐唾沫（gob的现在分词）
+
+* Web References
+- gobbing :: 充填
+- gobbing slate :: 厚夹石层
+- hand gobbing :: 人工充填

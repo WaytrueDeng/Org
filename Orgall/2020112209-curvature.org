@@ -1,0 +1,14 @@
+#+title: curvature
+#+roam_tags:英语单词
+
+* 定义
+  
+curvature [ˈkɜːvətʃər]
+
+* Basic Explains
+- n. 弯曲，[数] 曲率
+
+* Web References
+- curvature :: 曲率; 曲率; 弯曲
+- growth curvature :: 生长弯曲; 生长曲线
+- double curvature :: 双曲率; 双曲率翼形; 双曲面

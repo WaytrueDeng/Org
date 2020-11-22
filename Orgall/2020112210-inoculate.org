@@ -1,0 +1,14 @@
+#+title: inoculate
+#+roam_tags:英语单词
+
+* 定义
+  
+inoculate [ɪˈnɒkjuleɪt]
+
+* Basic Explains
+- vt. [医] 接种；嫁接；灌输
+
+* Web References
+- inoculate :: 接种; 接种; 给…接种
+- inoculate dose :: 接种剂量
+- inoculate e :: 预防注射

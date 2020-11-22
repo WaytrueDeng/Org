@@ -1,0 +1,15 @@
+#+title: proportion
+#+roam_tags:英语单词
+
+* 定义
+  
+proportion [prəˈpɔːʃn]
+
+* Basic Explains
+- n. 比例，占比；部分；面积；均衡
+- vt. 使成比例；使均衡；分摊
+
+* Web References
+- Proportion :: 比例; 比率; 比
+- culet proportion :: 底尖比
+- Hiding Proportion :: 隐藏比例

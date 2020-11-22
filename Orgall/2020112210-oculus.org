@@ -1,0 +1,14 @@
+#+title: oculus
+#+roam_tags:英语单词
+
+* 定义
+  
+oculus ['ɒkjʊləs]
+
+* Basic Explains
+- n. 眼睛
+
+* Web References
+- Oculus :: 鬼遮眼; 奥克卢斯; 设备
+- Oculus Connect :: 开发者大会
+- oculus vr :: 虚拟现实; 虚拟实境头盔的欧酷拉; 傲库路思

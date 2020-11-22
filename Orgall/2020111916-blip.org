@@ -1,0 +1,15 @@
+#+title: blip
+#+roam_tags:名词解释
+
+* 定义
+  
+blip [blɪp]
+
+* Basic Explains
+- n. （在雷达屏幕显示出的）物体光点
+- v. （电子装置）发出哔哔声；短暂地打开（机动车的油门）
+
+* Web References
+- blip :: 标志; 标记; 尖头信号
+- Blip Blup :: 炫动光点
+- collision blip :: 碰撞标志

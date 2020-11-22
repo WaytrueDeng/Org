@@ -1,0 +1,15 @@
+#+title: puncture
+#+roam_tags:英语单词
+
+* 定义
+  
+puncture [ˈpʌŋktʃər]
+
+* Basic Explains
+- n. （轮胎被扎的）小孔；刺痕；刺伤
+- v. 刺穿；（被）戳破；使突然泄气；打断
+
+* Web References
+- puncture :: 穿刺; 爆胎; 穿孔
+- puncture test :: 穿击试验; 击穿试验; 刺破试验
+- Puncture Resistance :: 抗扎能力; 耐刺穿性; 防穿剌性能

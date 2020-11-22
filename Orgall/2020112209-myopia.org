@@ -1,0 +1,14 @@
+#+title: myopia
+#+roam_tags:英语单词
+
+* 定义
+  
+myopia [maɪˈəʊpiə]
+
+* Basic Explains
+- n. [眼科] 近视；目光短浅，缺乏远见
+
+* Web References
+- myopia :: 近视; 近视; 近视眼
+- pathologic myopia :: 病理性近视; 合并病理性近视; 研究病理性近视
+- sky myopia :: 白天近视

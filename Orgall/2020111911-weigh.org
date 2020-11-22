@@ -1,0 +1,17 @@
+#+title: weigh
+#+roam_tags:名词解释
+
+* 答 
+
+weigh [weɪ]
+
+* Basic Explains
+- n. 权衡；称重量
+- vt. 权衡；考虑；称…重量
+- vi. 重量为…；具有重要性；成为…的重荷；起锚
+
+* Web References
+- weigh :: 称量; 衡量; 称
+- weigh against :: 权衡; 与之相当
+- weigh bridge :: 轨道衡; 桥式天秤; 竖旋桥
+

@@ -1,0 +1,14 @@
+#+title: optometry
+#+roam_tags:英语单词
+
+* 定义
+  
+optometry [ɒpˈtɒmətri]
+
+* Basic Explains
+- n. 验光；[眼科] 视力测定法
+
+* Web References
+- optometry :: 视光学; 视力测定; 验光
+- Optometry Room :: 验光配镜室; 验光室
+- VEP optometry :: VEP验光

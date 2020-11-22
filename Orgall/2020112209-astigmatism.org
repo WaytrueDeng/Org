@@ -1,0 +1,14 @@
+#+title: astigmatism
+#+roam_tags:英语单词
+
+* 定义
+  
+astigmatism [əˈstɪɡmətɪzəm]
+
+* Basic Explains
+- n. [眼科] 散光；[光][电子] 像散性；[光][电子] 像散现象
+
+* Web References
+- astigmatism :: 散光; 像散; 像散性
+- myopic astigmatism :: 近视散光
+- cornea astigmatism :: 角膜散光

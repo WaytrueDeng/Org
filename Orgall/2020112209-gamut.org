@@ -1,0 +1,14 @@
+#+title: gamut
+#+roam_tags:英语单词
+
+* 定义
+  
+gamut ['ɡæmət]
+
+* Basic Explains
+- n. 全音阶；全音域；整个范围
+
+* Web References
+- gamut :: 色域; 音域; 全音阶
+- Color Gamut :: 色饱和度; 色域; 颜色范围
+- gamut points :: 广效点

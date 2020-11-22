@@ -1,0 +1,15 @@
+#+title: gauche
+#+roam_tags:英语单词
+
+* 定义
+  
+gauche [ɡəʊʃ]
+
+* Basic Explains
+- n. (Gauche)人名；(法)戈什；(西)高切
+- adj. 笨拙的；粗鲁的；不善交际的；偏转的
+
+* Web References
+- gauche :: 笨拙的; 粗鲁的; 不会社交的
+- gauche loc :: 在左边
+- gauche proton :: 间扭式质子

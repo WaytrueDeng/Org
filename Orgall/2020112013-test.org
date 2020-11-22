@@ -1,0 +1,8 @@
+#+title: test
+#+roam_tags:英语单词
+
+    点击测试 举例1：表达式 "Windows (?=NT|XP)" 在匹配 "Windows 98, Windows NT, Windows 2000" 时，
+* 定义
+[[file:2020112111-this.org][this]]
+[[file:2020112111-is.org][is]]
+  

@@ -1,0 +1,14 @@
+#+title: mortality
+#+roam_tags:英语单词
+
+* 定义
+  
+mortality [mɔːˈtæləti]
+
+* Basic Explains
+- n. 死亡数，死亡率；必死性，必死的命运
+
+* Web References
+- mortality :: 死亡率; 死亡; 病死率
+- operative mortality :: 手术死亡率
+- Experimental Mortality :: 实验死亡率; 被试者亡失; 样本的替换

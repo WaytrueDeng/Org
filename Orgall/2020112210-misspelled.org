@@ -1,0 +1,15 @@
+#+title: misspelled
+#+roam_tags:英语单词
+
+* 定义
+  
+misspelled [nil]
+
+* Basic Explains
+- adj. 拼错的
+- v. 拼错（misspell 的过去式和过去分词）
+
+* Web References
+- misspelled :: 拼错的; 被拼错的
+- misspelled word :: 拼错的词; 单词拼错
+- Or Misspelled :: 或拼写错误

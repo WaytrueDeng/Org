@@ -1,0 +1,15 @@
+#+title: ocular
+#+roam_tags:英语单词
+
+* 定义
+  
+ocular [ˈɒkjələr]
+
+* Basic Explains
+- n. [光] 目镜
+- adj. 眼睛的；视觉的；目击的
+
+* Web References
+- Ocular :: 眼睛的; 眼动态; 目镜
+- ocular inserts :: 眼用膜剂; 眼用嵌入剂
+- finding ocular :: 探索目镜; 翻译

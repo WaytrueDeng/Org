@@ -1,0 +1,13 @@
+#+title: sort of
+#+roam_tags:英语单词
+
+* 定义
+sort of [nil]
+
+* Basic Explains
+- 有几分地；到某种程度；稍稍
+
+* Web References
+- sort of :: 有几分地; 有点; 稍稍
+- tmmsome sort ofy of :: 事商淘宝商城
+- Sort Algorithm of Lexicon :: 词汇排序算法
