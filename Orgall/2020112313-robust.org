@@ -1,0 +1,14 @@
+#+title: robust
+#+roam_tags:英语单词
+
+* 定义
+  
+robust [rəʊˈbʌst]
+
+* Basic Explains
+- adj. 强健的；健康的；粗野的；粗鲁的
+
+* Web References
+- robust :: 健壮; 乐百氏; 稳健
+- robust estimation :: 抗差估计; 稳健估计; 鲁棒估计
+- robust a :: 健壮的; 坚定的; 健壮的健全的

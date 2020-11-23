@@ -71,7 +71,39 @@ sciplinary literacy (学科素养)
 - I suggest you try power posing which is simple. but  will significant change the outcome of your life
 - ok next time we are going to discuss the social functions of body language
 
-  
+* 19-8-minilecure(2)
+- I also notice another interesting thing about this.
+- It seems women are much more likely to do this kind of thing than men.
+- I mean women are more likely to make themselves small.
+- Women feel chronically less powerful than men, so this is not surprising.
+- The second question concerns our minds.
+- We know that our minds change our bodies.
+- But is it also true that our bodies change our minds?
+- And when I say minds, in the case of the powerful, what do I mean?
+- I'm talking about thoughts and feelings and the sort of physiological things that make up our thoughts and feelings,
+- and in my case, that's hormones.
+- I look at hormones.
+- So what do the minds of the powerful [[file:2020112310-versus.org][versus]] the powerless look like?
+- Powerful people tend to be, not surprisingly, more assertive and more confident, more optimistic.
+- They actually feel that they're going to win even ~at~ games of chance.
+- They also tend to be able to think more abstractly.
+- They take more risks.
+- So there are a lot of differences between powerful and powerless people.
+- Physiologically, there also are differences on two key hormones: one is dominance hormone, and the other is stress hormone.
+- What we find is that powerful and effective leaders have high dominance hormone and low stress hormone.
+- What does that mean?
+- That means power is also about how you react to stress.
+- Once we did an experiment.
+- We decided to bring people into the lab and run that little experiment.
+- These people adopted, for two minutes, either high-power [[file:2020112310-poses.org][poses]] or low-power poses.
+- We, for two minutes, say, "You need to do this or this."
+- And we also want them to be feeling power.
+- So after two minutes we will ask them "How powerful do you feel?" on a series of items, and then we give them an opportunity to [[file:2020112310-gamble.org][gamble]].
+- Before and after the experiment, we take their samples of [[file:2020112310-saliva.org][saliva]] for a hormone test.
+- That's the whole experiment.
+- And this is what we have found -- risk tolerance, which is gambling.
+- What we find is that when you're in the high-power pose condition, 86 percent of you will gamble.
+- When you're in the low-power pose condition, it's down to only 60 percent, and that's a pretty significant difference.
 * 19-8-minilecure(1)
 - Body Language and Mind
 - Good morning, everyone.
@@ -106,3 +138,22 @@ sciplinary literacy (学科素养)
 - and they will not fully stretch their arms when they raise their hands.
 
 
+* 18-8-interview(1)
+- W: Good evening listeners, this is BBC. Today, we are very delighted to have invited James Dobbins, US special [[file:2020112311-representative.org][representative]] for Afghanistan, to tell us the [[file:2020112311-electoral.org][electoral]] process in Afghanistan currently. Well, James, how are you reading what's happening in Afghanistan at the moment?
+- M: We're concerned about the trend in ~events~. We ~have been~ concerned for some time that the electoral process ~hasn't~ been moving forward smoothly. We believe there needs to be a powerful and transparent ~audit of~ potentially dishonest ~ballots~ and we're sorry that hasn't moved forward quickly and substantially enough. We regret the [[file:2020112311-preliminary.org][preliminary]] announcement ~of results~ that was made yesterday. We think that~was [[file:2020112311-premature.org][premature]] given that there are still a number of ballots that need to be examined and there's not yet a clear agreement on how best to do so. We do believe that...
+- W: Forgive me for interrupting, James. Can~I ask~you why you think that announcement was made yesterday?
+- M: I think~it was made because the electoral institutions had ~previously~ set that date and they held to it despite advice to the contrary from the ~UN~, from the United States, and from other voices ~within~ Afghanistan, and we think that was unfortunate.
+- W: Is there~another reason that could be slightly more [[file:2020112311-favorable.org][favorable]], that~is, they wanted to prepare the ground because if they just came out* with one final result at the end of all this then it can be pretty likely ~that* the~ loser, whoever it was going to be, was going to complain because they think it is unfair?
+- M: I think it's ~our~ view that they didn't have a basis for preparing the ground because there's such a large number of votes that still need to be examined and* ~that~ therefore any [[file:2020112311-preliminary.org][preliminary]] result might be more misleading than preparing the ground.
+- W: In terms now ~of where this goes~, we've already heard some very strong, very emotional language from the camp of the man who appears to be on the losing side of all this, Dr. Abdullah Abdullah. What have you been ~saying~ to him in order to try ~and~ ~calm~ those feelings?
+- M: Well, we have ~heard~ talk about establishing a [[file:2020112217-parallel.org][parallel]] presidency. We made clear that the United States and~its partners are not in a position to support a divided Afghanistan. That any effort to establish a parallel presidency would make it~impossible for the United States and its partners to continue their financial, economic and military support, and that the consequences for the country would be potentially quite terrible. Clearly, this is not something the Afghan population wants. It's not something they were voting for. And it's not something that they expect to happen, but it could be the consequences of an ill-considered action.
+
+* 18-8-interview(2) 
+- W: Let me turn it on to the man who may ~end up~ the winner, Mr. Ashraf Ghani. What pressure, if any, are you trying to bring on him to ensure that whatever happens he tried to include Abdullah Abdullah, or Abdullah Abdullah's people in any future government?
+- M: We're not making any [[file:2020112313-assumptions.org][assumptions]] about who might be the winner or who might be the loser, and we think it's [[file:2020112311-premature.org][premature]] for anybody to be doing so. We've made clear to both candidates ~that*~ two things need* to happen. First of all, there needs to be a [[file:2020112313-robust.org][robust]] and transparent process for determining the winner, and there's still a good deal of work to be done there. And second*ly, we believe that both candidates need*to begin discussing the formation of a government that would have the support of all important components and elements within the country, a government of national unity that would~ensure that all of the significant [[file:2020112314-sectors.org][sectors]] of Afghan society feel included.
+- W: You're saying it's all a bit [[file:2020112314-hasty.org][hasty]] to say whether one side or the other has won or lost. It is difficult, is it not, to see this result being overturned? This is a flat margin of victory at the moment -- 56 percent to 44 percent. It would be extraordinary to see the result overturned in the space of a couple of weeks.
+- M: I think both candidates have agreed that there was extensive [[file:2020112314-fraud.org][fraud]] in the electoral process. Both candidates have agreed that the [[file:2020112314-suspect.org][suspect]] [[file:2020112314-ballots.org][ballots]] need to be audited. They haven't agreed on exactly how to go about that. We believe it's the responsibility of the electoral institutions to go ahead and conduct that kind of broad audit, whether or not the candidates have agreed on every [[roam:precise]] element of the process, they will have to do it. And we believe until they've done so it's premature to be coming to any judgments.
+- W: It is worrying though, isn't it? I suppose it was all too predictable that democracy is an imperfect thing in Afghanistan and that undoubtedly there has been fraud, we've heard all sorts of reports that project there have been a measure of fraud, and whoever was going to lose in this election was going to say it's been by unfair means.
+- M: I agree with you that Afghanistan is a relatively new democracy. The countries at this stage of democratic development often have difficulties of this sort. That there's not a tradition of good losers in societies at this level of political development. And in that sense, the problem we face is not unparalleled. There are other countries who have gone through similar difficulties. Nevertheless, the fact is that millions of Afghans went out and voted in the expectation that their vote would count. The numerous polls indicate that most Afghans are prepared to support either candidate as the victor. That most Afghans have said that they could accept the person they didn't vote for winning the election if that was the result. So while the problems we face are not unparalleled, the Afghan voters expect something better.
+- W: James, I'm so grateful to you. I hugely appreciate you answering it and answering all the other questions as well.
+- M: Pleasure.

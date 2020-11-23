@@ -1,0 +1,16 @@
+#+title: solid
+#+roam_tags:英语单词
+
+* 定义
+  
+solid [ˈsɒlɪd]
+
+* Basic Explains
+- n. 固体；立方体
+- adj. 固体的；可靠的；立体的；结实的；一致的
+- n. (Solid)人名；(瑞典)索利德
+
+* Web References
+- solid :: 固体; 立体的; 实线
+- SOLİD :: 太空摇滚
+- Solid Geometry :: 立体几何; 立体几何学; 实体几何

@@ -1,0 +1,14 @@
+#+title: propensity
+#+roam_tags:英语单词
+
+* 定义
+  
+propensity [prəˈpensəti]
+
+* Basic Explains
+- n. 倾向，习性；癖好，偏爱
+
+* Web References
+- propensity :: 倾向; 嗜好; 习性
+- consumption propensity :: 消费倾向
+- queuing propensity :: 排队倾向

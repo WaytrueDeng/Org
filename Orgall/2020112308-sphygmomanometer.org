@@ -1,0 +1,14 @@
+#+title: sphygmomanometer
+#+roam_tags:英语单词
+
+* 定义
+  
+sphygmomanometer [,sfɪɡməʊmə'nɒmɪtə]
+
+* Basic Explains
+- n. [内科] 血压计
+
+* Web References
+- sphygmomanometer :: 血压计; 测量血压的器械; 电子血压计
+- electronic sphygmomanometer :: 电子血压计
+- portable sphygmomanometer :: 携带式血压计

@@ -372,9 +372,9 @@ A [[file:2020112217-graphologist.org][graphologist]]
 **** getting old
 This social scientist deals with the financial, economic, sexual, social, retirement, and other non-medical problems of the elderly.
 A [[file:2020112217-gerontologist.org][gerontologist]]
-*** SESSION 8
-**** ORIGINS AND RELATED WORDS
-***** the mental life
+** SESSION 8
+*** ORIGINS AND RELATED WORDS
+**** the mental life
 - Psychologist is built upon the same Greek root as psychiatrist-~psyche~, spirit, soul, or mind. In psychiatrist, the combining form is ~iatreia~, medical healing. In psychologist, the combining form is ~logos~, science or study; a psychologist, by etynmology, is one who studies the mind.
 - The field is psychology (si-KOL'-~jee), the adjective psychological (si'-k~LOJ'-a-kal).
 - [[file:2020112218-psyche.org][Psyche]] (SI'-kee) is also an English word in its own right..:._it designates the mental life, the spiritual or non-physical [[file:2020112020-aspect.org][aspect]] of one's existence. The adjective psychic (SI'-kik) refers to [[file:2020112218-phenomena.org][phenomena]] or qualities that cannot be explained in purely physical terms. People may be called psychic if they seem to possess a sixth sense, a special gift of mind reading, or any mysterious [[file:2020112217-aptitudes.org][aptitudes]] that cannot be accounted for logically. A person's [[file:2020112218-disturbance.org][disturbance]] is psychic if ii is emotional or mental, rather than physical.
@@ -391,4 +391,86 @@ A [[file:2020112217-gerontologist.org][gerontologist]]
 #+BEGIN_QUOTE
 [[file:2020112219-psychopathy.org][Psychopathy]] is usually [[file:2020112219-characterized.org][characterized]] by antisocial and extremely egocentric behavior. A psychopath (Sl'-ka-path'), sometimes called a psychopathic personality, appears to be lacking an inner moral censor, and often commits criminal acts, without anxiety or guilt, in order to obtain immediate [[file:2020112219-gratification.org][gratification]] of desires. Such a person may be [[file:2020112219-utterly.org][utterly]] lacking in sexual [[file:2020112219-restraint.org][restraint]], or addicted to hard drugs. Some psychologists prefer the label sociopath (SO'-shee-a-path' or SO>-see-:>-path') for this type of personality to [[file:2020112219-indicate.org][indicate]] the absence of a social [[file:2020112219-conscience.org][conscience]].
 #+END_QUOTE
-
+*** REVIEW OF ETYMOLOGY
+| psyche  | spirt,soul,mind   |
+| iatreia | medical healing   |
+| -ic     | agjective suffix  |
+| soma    | body              |
+| genesis | birth,origin      |
+| pathos  | suffering,disease |
+** SESSION 9
+*** ORIGINS AND RELATED WORDS
+**** the whole tooth
+- Orthodontist, as we discovered in Chapter 4, is built on ~orthos~, straight, correct, plus ~odontos~, tooth. 
+- A [[file:2020112308-pedodontist.org][pedodontist]] (pee'-do-DON'-tist) specializes in the care of children's teeth-the title is constructed from ~paidos~, child, plus
+~odontos~. The specialty: pedodontia (pee'-do-DON'-sha); the adjective: pedodontic (pee'-do-DON'-tik).
+- A [[file:2020112308-periodontist.org][periodontist]] (pair'-ee-0-DON'-tist) is a [[file:2020112308-gum.org][gum]] specialist--=-the term combines ~odontos~ with the prefix ~peri-~, around, surrounding. (As a quick glance in the mirror will tell you, the gums surround the teeth, more or less.)
+- Can you figure out the word for · the specialty?
+- For the adjective? _ _ _ _ _ _ _ _ _ _ _ _
+- An [[file:2020112308-endodontist.org][endodontist]] (en'-do-DON'-tist) specializes in work on the [[file:2020112308-pulp.org][pulp]] of the tooth and in root- ~canal~ therapy-the prefix in this term is ~endo~, from .Greek ~endon~, inner, within.
+- Try your. hand again ·at .constructing words. What is the specialty? . And the adjective?
+- The prefix ex-, out, combines with ~odontos~ to form [[file:2020112308-exodontist.org][exodontist]] (eks'-0-DON'-tist). What do you suppose, therefore, is the work in which this practitioner specializes? - - - - - - - - - -
+- And the terin for the specialty? ----------~For the adject
+****  measurement
+- The [[file:2020112210-optometrist.org][optometrist]], by etymology, measures vision-the term is built on ~opsis~, ~optikos~, view, vision, plus ~metron~, measurement. Metron is the root in many other words:
+- thermometer (th::ir-MOM'-G-t::ir)-an instrument to meas- ure heat (Greek therme, heat).
+- [[file:2020112308-barometer.org][barometer]] (bG-ROM'-G-ter)-an instrument to measure atmospheric pressure (Greek ~baros~, weight); the adjective is barometric (bair'-G-MET'-rik).
+- [[file:2020112308-sphygmomanometer.org][sphygmomanometer]] (sfig'-mo-m::i-NOM'-::i-t::ir)-a device for measuring blood pressure (Greek ~sphygmos~, pulse).
+- metric system-a decimal system of weights and measures, long used in other countries and now gradually being adopted in the United States.
+**** bones, feet, and hands
+- [[file:2020112308-osteopath.org][Osteopath]] combines Greek ~osteon~, bone, with ~pathos~, suffering, disease. Osteopathy (os'-tee-OP'-::i-thee), you will recall, was originally based on the theory that disease is caused by pressure of the bones on blood vessels and nerves. An osteopathic (os'-tee-::i- PATH'-ik) physician is not a bone specialist, despite the misleading etymology-and should not be confused with the [[file:2020112209-orthopedist.org][orthopedist]], who is.
+- The [[file:2020112217-podiatrist.org][podiatrist]] (Greek ~pous~, ~podos~, foot, plus ~iatreia~, medical healing) practices podiatry (p::i-DI'-G-tree). The adjective is po- diatric (po'-dee-A T'-rik).
+- The root ~pous~, ~podos~ is found also in:
+- [[file:2020112308-octopus.org][octopus]] (OK'-b-p::is), the eight-armed (or, as the etymol-ogy has it, eight-footed) sea creature (Greek ~okto~, eight).
+- [[file:2020112308-platypus.org][platypus]] (PLAT'-::icp::is), the strange water mammal with a duck's [[file:2020112308-bill.org][bill]], [[file:2020112308-webbed.org][webbed]] feet, and a [[file:2020112308-beaver.org][beaver]] -like tail that reproduces by laying eggs (Greek ~platys~, broad, flat-hence, by etymology, a flatfoot!).
+- podium (PO'-dee-::im), a speaker's platform, etymologically a place for the feet. (The suffix ~-ium~ often signifies "place where," as in [[file:2020112308-gymnasium.org][gymnasium]], [[file:2020112308-stadium.org][stadium]], [[file:2020112308-auditorium.org][auditorium]], etc.) 
+- tripod (TRI'-pod), a three-legged (or "footed") stand for a camera or other device {tri-, three).
+- [[file:2020112308-chiropodist.org][chiropodist]] (ka-ROP'-a-dist}, earlier title for a [[file:2020112217-podiatrist.org][podiatrist]], and still often used. The specialty is [[file:2020112308-chiropody.org][chiropody]] (h-ROP'-a-dee).
+- [[roam:Chiropody]] combines ~podos~ with Greek ~cheir~, hand, spelled chiro- in English words. The term was coined in the days before labor-saving machinery and push-button devices, when people worked with their hands and developed [[file:2020112217-calluses.org][calluses]] on their upper [[file:2020112308-extremities.org][extremities]] as well as on their feet. Today most of us earn a [[file:2020112308-livelihood.org][livelihood]] in more [[file:2020112308-sedentary.org][sedentary]] occupations, and so we may develop calluses on less visible portions of our anatomy.
+- [[file:2020112308-chiropractors.org][Chiropractors]] heal with their hands-the specialty is chiropractic (ki'-ro-PRAK'-tik).
+- ~Cheir~ ( chiro-), hand, is the root in [[file:2020112308-chirography.org][chirography]] (ki-ROG'-ra- fee). Recalling the graph- in graphologist, can you figure out by etymology what chirography i s ? · _ - - - - - - - - - - -
+- An expert in writing by hand, or in [[file:2020112308-penmanship.org][penmanship]] (a lost art in these days of electronic word-processing),would be a chirographer (ki-ROG'-ra-far); the adjective is chirographic
+- If the suffix ~-mancy~ comes from a Greek word meaning ~fore-~ telling or prediction, can you decide what [[file:2020112309-chiromancy.org][chiromancy]] (KI'-ro- man'-see) must b e ? - - - - - - - - - - - - - - - -
+- The person who practices chiromancy is a chiromancer (Ki'-ro- man'-sar); the adjective is chiromantic (ki'-ro-MAN'-tik).
+**** REVIEW OF ETYMOLOGY
+| orthos          | straight,correct   |
+| odontos         | tooth              |
+| paidos (ped-)   | child              |
+| ~ic             | adjective suffix   |
+| peri-           | around,surrounding |
+| endo-           | inner,within       |
+| ex-             | out                |
+| opsis, optikos  | vision             |
+| metron          | measurement        |
+| therme·         | heat               |
+| baros           | weight             |
+| sphygmos        | pulse              |
+| osteon          | bone               |
+| pathos          | suffering,disease  |
+| pous, podos     | foot               |
+| okto            | eight              |
+| platys          | broad,flat         |
+| -ium            | place,where        |
+| tri-            | three              |
+| cheir ( chiro-) | hand               |
+| mancy           | prediction         |
+| iatreia         | medical healing    |
+** SESSION 10
+*** ORIGINS AND RELATED WORDS
+**** writing and writers
+- The Greek verb ~graphein~, to write, is the source of a great many English words.
+- We know that the [[file:2020112217-graphologist.org][graphologist]] analyzes handwriting, the term combining ~graphein~ with ~logos~, science, study. The specialty is graphology (gr:i-FOL'-:i-jee), the adjective graphological (graf'-:i- LOJ' -:i-k:il) .
+- [[file:2020112317-chirographer.org][Chirographer]] is built on graphein plus cheir (chiro-), hand.
+*** IDEAS
+**** you don't fool even some of the people
+- Everybody knows your [[file:2020112317-propensity.org][propensity]] for avoiding facts. You have built so [[file:2020112317-solid.org][solid]] and [[file:2020112317-unsavory.org][unsavory]] a reputation that only a stranger is likely to be misled-and then, not for long.
+A [[file:2020112317-notorious.org][notorious]] liar
+****  to the highest summits of [[file:2020112317-artistry.org][artistry]]
+- Your ability is [[file:2020112317-top_drawer.org][top-drawer]]. rarely does anyone lie as [[file:2020112317-convincingly.org][convincingly]] or as artistically as you do. Your skill has, in short, reached the [[file:2020112317-zenith.org][zenith]] of perfection. Indeed, your mastery of the art is so great that your lying is almost always [[file:2020112317-crowned.org][crowned]] with success-and you have no trouble [[file:2020112317-seducing.org][seducing]] an [[file:2020112317-unwary.org][unwary]] listener into believing that you are telling [[file:2020112317-gospel.org][gospel]] truth.
+- A [[file:2020112317-consummate.org][consummate]] liar
+**** beyond [[file:2020112317-redemption.org][redemption]] or [[file:2020112317-salvation.org][salvation]]
+- You are [[file:2020112317-impervious.org][impervious]] to correction. Often as you may be caught in your fabrications, there is no reforming you-you go right on lyng despite~ the punishment, embarrassment, or unhappiness that your distortions of truth may bring upon you.
+- An [[file:2020112019-incorrigible.org][incorrigible]] liar
+**** too old to learn new tricks
+- You are the victim of firmly fixed and deep-rooted habits. Telling untruths is as frequent and customary an activity as brushing your teeth in the morning, or having toast and coffee for breakfast, or lighting up a cigarette after dinner (if you are a smoker). And almost as [[file:2020112317-reflexive.org][reflexive]].
+- An [[roam:inveterate]] liar

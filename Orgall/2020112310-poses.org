@@ -1,0 +1,14 @@
+#+title: poses
+#+roam_tags:英语单词
+
+* 定义
+  
+poses [nil]
+
+* Basic Explains
+- 姿势
+
+* Web References
+- Poses :: 动作; 唱片名; 姿势
+- Restorative poses :: 恢复性的姿势
+- Poses Problems :: 都会产生问题

@@ -1,0 +1,15 @@
+#+title: ballots
+#+roam_tags:英语单词
+
+* 定义
+  
+ballots [nil]
+
+* Basic Explains
+- n. 选举（ballot的复数）；不记名票
+- v. 投票（ballot的第三人称单数）
+
+* Web References
+- Ballots :: 不记名票; 投票; 投票形式显示
+- provisional ballots :: 临时选票
+- absentee ballots :: 通讯选票; 缺席投票

@@ -1,0 +1,14 @@
+#+title: barometer
+#+roam_tags:英语单词
+
+* 定义
+  
+barometer [bəˈrɒmɪtər]
+
+* Basic Explains
+- n. [气象] 气压计；晴雨表；显示变化的事物
+
+* Web References
+- barometer :: 气压表; 气压计; 晴雨表
+- normal barometer :: 标准气压表; 标准气压计; 规范大气的压力表
+- cistern barometer :: 槽式气压计; 液槽气压计; 水银槽气压计

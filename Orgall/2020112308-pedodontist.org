@@ -1,0 +1,12 @@
+#+title: pedodontist
+#+roam_tags:英语单词
+
+* 定义
+  
+pedodontist [nil]
+
+* Basic Explains
+- n. 儿童牙医
+
+* Web References
+- pedodontist :: 儿童牙医; 儿科牙医; 儿童牙科医

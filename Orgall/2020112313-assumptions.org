@@ -1,0 +1,14 @@
+#+title: assumptions
+#+roam_tags:英语单词
+
+* 定义
+  
+assumptions [nil]
+
+* Basic Explains
+- n. 假定，设想（assumption复数形式）
+
+* Web References
+- Assumptions :: 假设; 假定; 假想
+- Accounting Assumptions :: 会计假设; 会计假定; 会计的基本假设
+- synchronization assumptions :: 如果类有任何同步前提; 其同步前提

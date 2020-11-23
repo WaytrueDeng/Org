@@ -1,0 +1,15 @@
+#+title: sectors
+#+roam_tags:英语单词
+
+* 定义
+  
+sectors ['sektəs]
+
+* Basic Explains
+- n. 部门；分区；扇区数（sector的复数）
+- v. 把…划成扇形；把…分成部分（sector的三单形式）
+
+* Web References
+- Sectors :: 扇区数; 行业类别; 扇区
+- Industrial sectors :: 工业行业; 产业部门
+- Other Sectors :: 其它行业
