@@ -1,0 +1,15 @@
+#+title: mathematician
+#+roam_tags:英语单词
+
+* 定义
+  
+mathematician [ˌmæθəməˈtɪʃn]
+
+* Basic Explains
+- n. 数学家
+- 善作数字计算的人
+
+* Web References
+- mathematician :: 数学家; 数学家; 数学者
+- Intuitive Mathematician :: 直觉计算
+- Charted Mathematician :: 注册数学家

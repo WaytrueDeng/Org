@@ -1,0 +1,15 @@
+#+title: demands
+#+roam_tags:英语单词
+
+* 定义
+  
+demands [nil]
+
+* Basic Explains
+- n. [经] 需求（demand的复数）
+- v. [经] 需求（demand的第三人称单数形式）
+
+* Web References
+- Demands :: 诉求; 需求; 要求
+- Teaching demands :: 教学要求; 教学目标
+- Inquiring Demands :: 询问要求

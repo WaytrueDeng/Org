@@ -1,0 +1,17 @@
+#+title: ram
+#+roam_tags:英语单词
+
+* 定义
+  
+ram [ræm]
+
+* Basic Explains
+- abbr. 随机存取存储器（random access memory的缩写）；随机访问内存（random-access memory的缩写）
+- n. 公羊；撞锤；撞击装置；有撞角的军舰；（水压机的）[机] 活塞
+- v. 撞击；填塞；强迫通过或接受
+- n. (Ram)人名；(英、印、尼、不丹、瑞典)拉姆
+
+* Web References
+- RAM :: 内存; 运行内存; 随机存取存储器(Random Access Memory)
+- Ferroelectric RAM :: 铁电随机存取内存; 铁电存储器; 存储器
+- ram pressure :: 冲压力; 速度压头; 风筒压力

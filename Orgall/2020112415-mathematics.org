@@ -1,0 +1,14 @@
+#+title: mathematics
+#+roam_tags:英语单词
+
+* 定义
+  
+mathematics [ˌmæθəˈmætɪks]
+
+* Basic Explains
+- n. 数学；数学运算
+
+* Web References
+- Mathematics :: 数学; 数学; 排名
+- Applied Mathematics :: 应用数学; 应用数学; 应用数学系
+- Advanced Mathematics :: 高等数学; 教学大纲; 高等数学含现性代数

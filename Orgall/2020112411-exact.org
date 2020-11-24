@@ -1,0 +1,16 @@
+#+title: exact
+#+roam_tags:英语单词
+
+* 定义
+  
+exact [ɪɡˈzækt]
+
+* Basic Explains
+- adj. 准确的，精密的；精确的
+- vt. 要求；强求；急需
+- vi. 勒索钱财
+
+* Web References
+- exact :: 精确的; 确切; 准确的
+- exact cover :: 精确覆盖问题; 精确覆盖; 恰好覆盖
+- exact quantity :: 确数; 准确数量; 正确的数量

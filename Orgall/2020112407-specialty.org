@@ -1,0 +1,15 @@
+#+title: specialty
+#+roam_tags:英语单词
+
+* 定义
+  
+specialty [ˈspeʃəlti]
+
+* Basic Explains
+- n. 专业，专长；特产；特性；招牌菜
+- adj. 特色的；专门的；独立的
+
+* Web References
+- Specialty :: 专业; 特长; 招牌菜
+- Specialty Practice :: 专业实习; 专业实践
+- Specialty DRAM :: 利基型记忆体; 利基型内存; 特殊型记忆体

@@ -1,0 +1,15 @@
+#+title: infinitive
+#+roam_tags:英语单词
+
+* 定义
+  
+infinitive [ɪnˈfɪnətɪv]
+
+* Basic Explains
+- adj. 不定式的
+- n. （动词的）不定式
+
+* Web References
+- infinitive :: 不定式; 不定词; 动词不定式
+- perfect infinitive :: 动词不定式的完成式; 完成不定式; 完成时不定式
+- infinitive complement :: 不定词补语

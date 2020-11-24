@@ -1,0 +1,15 @@
+#+title: fabrications
+#+roam_tags:英语单词
+
+* 定义
+  
+fabrications [nil]
+
+* Basic Explains
+- 捏造
+- 制造
+
+* Web References
+- Fabrications :: 捏造的; 制作设备; 制造
+- METAL FABRICATIONS :: 金属制品
+- delta fabrications :: 区域

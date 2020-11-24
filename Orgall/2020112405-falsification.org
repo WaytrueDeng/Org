@@ -1,0 +1,14 @@
+#+title: falsification
+#+roam_tags:英语单词
+
+* 定义
+  
+falsification [ˌfɔːlsɪfɪˈkeɪʃn]
+
+* Basic Explains
+- n. 伪造；歪曲；[审计] 篡改；证明是假
+
+* Web References
+- falsification :: 证伪; 弄虚作假; 伪造
+- falsification principle :: 证伪原则; 可证否性原则
+- Preference falsification :: 降低偏好伪装

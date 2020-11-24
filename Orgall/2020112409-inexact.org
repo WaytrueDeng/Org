@@ -1,0 +1,14 @@
+#+title: inexact
+#+roam_tags:英语单词
+
+* 定义
+  
+inexact [ˌɪnɪɡˈzækt]
+
+* Basic Explains
+- adj. 不精确的；不严格的；不正确的
+
+* Web References
+- inexact :: 不精确的; 不正确的; 不确切
+- inexact function :: 不确切函数
+- inexact statement :: 不确切命题

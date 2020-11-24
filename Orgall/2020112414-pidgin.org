@@ -1,0 +1,14 @@
+#+title: pidgin
+#+roam_tags:英语单词
+
+* 定义
+  
+pidgin [ˈpɪdʒɪn]
+
+* Basic Explains
+- n. 洋泾滨语；混杂语言；事务
+
+* Web References
+- pidgin :: 皮钦语; 混杂语言; 洋泾浜语
+- Pidgin Portable :: 即时通讯软件
+- Pidgin Reference :: pidgin参考手册

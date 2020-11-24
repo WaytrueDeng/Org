@@ -1,0 +1,14 @@
+#+title: cardiograph
+#+roam_tags:英语单词
+
+* 定义
+  
+cardiograph ['kɑ:diəɡrɑ:f]
+
+* Basic Explains
+- n. 心电图；[内科] 心动描记器
+
+* Web References
+- cardiograph :: 心电图; 心动描记器; 心电图仪
+- cardiograph disappearance :: 心电消失
+- apex cardiograph :: 心尖搏动描记器; 尖端心动描记器

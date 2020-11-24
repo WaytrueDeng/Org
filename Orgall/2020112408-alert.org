@@ -1,0 +1,17 @@
+#+title: alert
+#+roam_tags:英语单词
+
+* 定义
+  
+alert [əˈlɜːt]
+
+* Basic Explains
+- n. 警戒，警惕；警报；警戒期；（电子设备的）提示信号
+- v. 使警觉，警告；使意识到
+- adj. 警惕的，警觉的；机警的，机敏的；充分意识到的
+- n. (Alert)（美、德、俄、西、印）阿莱尔特（人名）
+
+* Web References
+- Alert :: 警惕; 机灵的; 消息
+- Koeberg Alert :: 科贝赫核电站警告
+- Alert File :: 警告文件; 正告文件; 警文件

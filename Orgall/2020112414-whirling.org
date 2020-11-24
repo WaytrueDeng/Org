@@ -1,0 +1,15 @@
+#+title: whirling
+#+roam_tags:英语单词
+
+* 定义
+  
+whirling [nil]
+
+* Basic Explains
+- v. （使）旋转；（使）急走；（思维、感觉）变混乱；（思绪、脑中影像）接连不断（whirl 的现在分词）
+- n. 旋转
+
+* Web References
+- Whirling :: 婆娑; 旋转; 回旋曲
+- whirling current :: 旋涡流; 涡流; 旋流
+- whirling psychrometer :: 旋转式干湿球湿度计; 手摇干湿计; 旋转式干湿表

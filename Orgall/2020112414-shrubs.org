@@ -1,0 +1,14 @@
+#+title: shrubs
+#+roam_tags:英语单词
+
+* 定义
+  
+shrubs [nil]
+
+* Basic Explains
+- n. [林] 灌木；权木；矮树丛（shrub的复数）
+
+* Web References
+- shrubs :: 灌木; 权木; 矮树
+- Desert shrubs :: 荒漠灌木; 沙生灌木
+- alpine shrubs :: 高寒灌丛

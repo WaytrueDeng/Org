@@ -1,0 +1,14 @@
+#+title: cosmonaut
+#+roam_tags:英语单词
+
+* 定义
+  
+cosmonaut [ˈkɒzmənɔːt]
+
+* Basic Explains
+- n. （俄）宇航员（等于astronaut）
+
+* Web References
+- cosmonaut :: 宇宙飞行员; 航天员; 宇航员
+- cosmonaut system :: 航天员系统
+- Cosmonaut Extravehicular Activity :: 航天员出舱

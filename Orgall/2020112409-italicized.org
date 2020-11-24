@@ -1,0 +1,14 @@
+#+title: italicized
+#+roam_tags:英语单词
+
+* 定义
+  
+italicized [nil]
+
+* Basic Explains
+- 用斜体字印刷
+
+* Web References
+- italicized :: 单词斜体
+- italicized words :: 斜体字
+- italicized type :: 斜体

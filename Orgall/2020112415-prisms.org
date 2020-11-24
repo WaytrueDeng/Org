@@ -1,0 +1,14 @@
+#+title: prisms
+#+roam_tags:英语单词
+
+* 定义
+  
+prisms [nil]
+
+* Basic Explains
+- n. [光] 棱镜（prism的复数）
+
+* Web References
+- Prisms :: 棱镜
+- prisms tolerance :: 棱柱公差
+- cross prisms :: 正交棱镜

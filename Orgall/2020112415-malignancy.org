@@ -1,0 +1,14 @@
+#+title: malignancy
+#+roam_tags:英语单词
+
+* 定义
+  
+malignancy [məˈlɪɡnənsi]
+
+* Basic Explains
+- n. 恶性（肿瘤等）；恶意
+
+* Web References
+- malignancy :: 恶性; 恶性肿瘤
+- Second malignancy :: 二进宫
+- grade malignancy :: 恶性程度

@@ -1,0 +1,15 @@
+#+title: riddles
+#+roam_tags:英语单词
+
+* 定义
+  
+riddles ['ridlz]
+
+* Basic Explains
+- n. 谜语；[矿业] 粗筛；谜一般的人（riddle的复数）
+- v. 猜谜；穿孔；筛；遍及（riddle的三单形式）
+
+* Web References
+- Riddles :: 谜语; 猜谜; 猜谜语
+- guess riddles :: 猜灯谜; 编织灯谜; 利用谜语
+- descriptive riddles :: 描述性谜语; 也叫做描写性谜儿; 性谜语

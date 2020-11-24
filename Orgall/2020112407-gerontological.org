@@ -1,0 +1,14 @@
+#+title: gerontological
+#+roam_tags:英语单词
+
+* 定义
+  
+gerontological [nil]
+
+* Basic Explains
+- 老年的
+
+* Web References
+- gerontological :: 老年医学的
+- gerontological psychology :: 老年心理学
+- gerontological ward :: 老年病房

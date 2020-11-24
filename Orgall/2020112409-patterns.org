@@ -1,0 +1,15 @@
+#+title: patterns
+#+roam_tags:英语单词
+
+* 定义
+  
+patterns ['pætənz]
+
+* Basic Explains
+- n. 模式（pattern的复数形式）
+- v. 摹制；用图案装饰；复写（pattern的第三人称单数形式）
+
+* Web References
+- patterns :: 花样; 模型; 木模
+- fashionable patterns :: 花色入时; 花样进时; 时尚模式
+- Corrective Patterns :: 调整浪形态; 调剂浪形态
