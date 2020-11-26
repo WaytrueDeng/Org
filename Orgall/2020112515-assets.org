@@ -1,0 +1,14 @@
+#+title: assets
+#+roam_tags:英语单词
+
+* 定义
+  
+assets [nil]
+
+* Basic Explains
+- n. 资产；宝贵的人材；有益的品质；[经] 财产；有利条件 （一项）财物；资产（asset的名词复数）；（商店、破产者等的）财产；遗产；有价值的人或物
+
+* Web References
+- Assets :: 资产; 资产类; 资源
+- current assets :: 流动资产; 流动性资产; 活动资产
+- fixed assets :: 固定资产; 固定资产管理; 资本资产

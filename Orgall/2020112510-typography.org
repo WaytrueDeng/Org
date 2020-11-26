@@ -1,0 +1,14 @@
+#+title: typography
+#+roam_tags:英语单词
+
+* 定义
+  
+typography [taɪˈpɒɡrəfi]
+
+* Basic Explains
+- n. 排印；[印刷] 活版印刷术；印刷格式
+
+* Web References
+- typography :: 字体排印学; 印刷术; 排印工艺
+- Typography :: 印刷设计
+- typography styles :: 排版样式; 文字

@@ -1,0 +1,14 @@
+#+title: restrict
+#+roam_tags:英语单词
+
+* 定义
+  
+restrict [rɪˈstrɪkt]
+
+* Basic Explains
+- vt. 限制；约束；限定
+
+* Web References
+- restrict :: 限制; 制约; 约束
+- RESTRICT VIOLATION :: 违反限制
+- restrict area :: 禁航区域

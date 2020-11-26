@@ -1,0 +1,14 @@
+#+title: spatial
+#+roam_tags:英语单词
+
+* 定义
+  
+spatial [ˈspeɪʃl]
+
+* Basic Explains
+- adj. 空间的；存在于空间的；受空间条件限制的
+
+* Web References
+- spatial :: 空间; 空间智能
+- spatial frequency :: 空间频率; 空间频率; 翻译
+- Spatial Planning :: 空间规划; 空间计划; 布局

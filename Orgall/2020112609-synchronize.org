@@ -1,0 +1,15 @@
+#+title: synchronize
+#+roam_tags:英语单词
+
+* 定义
+  
+synchronize [ˈsɪŋkrənaɪz]
+
+* Basic Explains
+- vt. 使……合拍；使……同步
+- vi. 同步；同时发生
+
+* Web References
+- synchronize :: 同步; 使同步; 同时发生
+- Synchronize Selection :: 同步选择
+- Synchronize merge :: 同步聚合; 平行合并

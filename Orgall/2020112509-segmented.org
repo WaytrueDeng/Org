@@ -1,0 +1,15 @@
+#+title: segmented
+#+roam_tags:英语单词
+
+* 定义
+  
+segmented ['seɡməntɪd; seɡ'mentɪd]
+
+* Basic Explains
+- adj. 分段的
+- v. 分割（segment的过去式）
+
+* Web References
+- segmented :: 分段
+- Segmented Control :: 分段控件; 分段控制; 段控件
+- segmented display :: 断码式显示

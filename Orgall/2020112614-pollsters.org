@@ -1,0 +1,15 @@
+#+title: pollsters
+#+roam_tags:英语单词
+
+* 定义
+  
+pollsters [nil]
+
+* Basic Explains
+- 民意测验专家
+- 民意调查人（pollster的名词复数）
+
+* Web References
+- pollsters :: 民意测验者
+- Consumer pollsters :: 消费者调查机构
+- Soundings by the opinion pollsters :: 民意测验的结果

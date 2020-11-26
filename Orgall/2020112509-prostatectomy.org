@@ -1,0 +1,14 @@
+#+title: prostatectomy
+#+roam_tags:英语单词
+
+* 定义
+  
+prostatectomy [,prɒstə'tektəmɪ]
+
+* Basic Explains
+- n. [泌尿] 前列腺切除术
+
+* Web References
+- prostatectomy :: 前列腺切除术; 前列腺摘除术; 摄护腺切除术
+- transurethral prostatectomy :: 经尿道前列腺切除术; 电切术; 经尿道前列腺电切术
+- Robotic Prostatectomy :: 机器人前列腺切除术

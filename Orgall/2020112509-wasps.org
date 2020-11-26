@@ -1,0 +1,14 @@
+#+title: wasps
+#+roam_tags:英语单词
+
+* 定义
+  
+wasps [nil]
+
+* Basic Explains
+- n. [昆] 黄蜂；[昆] 胡蜂（wasp的复数形式）；马蜂
+
+* Web References
+- solitary wasps :: 独居黄蜂
+- fig wasps :: 榕小蜂
+- burrowing wasps :: 小唇沙蜂

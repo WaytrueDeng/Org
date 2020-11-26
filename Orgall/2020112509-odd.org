@@ -1,0 +1,16 @@
+#+title: odd
+#+roam_tags:英语单词
+
+* 定义
+  
+odd [ɒd]
+
+* Basic Explains
+- n. 奇数；怪人；奇特的事物
+- adj. 奇数的；古怪的；剩余的；临时的；零散的
+- n. (Odd)人名；(英、西、挪、瑞典)奥德
+
+* Web References
+- odd :: 奇数的; 零头; 余的
+- odd function :: 奇函数; 正弦函数是奇函数; 零函数
+- odd pricing :: 余数定价法; 奇; 奇数定价法

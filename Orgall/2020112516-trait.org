@@ -1,0 +1,15 @@
+#+title: trait
+#+roam_tags:英语单词
+
+* 定义
+  
+trait [treɪt]
+
+* Basic Explains
+- n. 特性，特点；品质；少许
+- n. （Trait）（美、法）特雷（人名）
+
+* Web References
+- trait :: 品质; 特征; 特点
+- Quantitative trait :: 数量性状; 数目性状
+- Qualitative trait :: 质量性状

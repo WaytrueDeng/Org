@@ -1,0 +1,14 @@
+#+title: Genealogy
+#+roam_tags:英语单词
+
+* 定义
+  
+genealogy [ˌdʒiːniˈælədʒi]
+
+* Basic Explains
+- n. 宗谱；血统；家系；系谱学
+
+* Web References
+- genealogy :: 系谱学; 谱系学; 家系
+- genealogy data :: 失效和系统数据
+- Genealogy Graph :: 学术家族树

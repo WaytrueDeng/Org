@@ -1,0 +1,14 @@
+#+title: philosopher
+#+roam_tags:英语单词
+
+* 定义
+  
+philosopher [fəˈlɒsəfər]
+
+* Basic Explains
+- n. 哲学家；哲人
+
+* Web References
+- philosopher :: 哲学家; 哲人; 思想家
+- Philosopher King :: 哲人王; 哲学王
+- Dining Philosopher :: 哲学家共餐; 像

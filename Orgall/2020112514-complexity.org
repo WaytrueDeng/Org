@@ -1,0 +1,14 @@
+#+title: complexity
+#+roam_tags:英语单词
+
+* 定义
+  
+complexity [kəmˈpleksəti]
+
+* Basic Explains
+- n. 复杂，复杂性；复杂错综的事物
+
+* Web References
+- complexity :: 复杂性; 复杂; 复杂度
+- dynamic complexity :: 动态性复杂; 动态复杂性; 复杂性
+- Algorithmic Complexity :: 算法的复杂性; 算法复杂性; 算法复杂度

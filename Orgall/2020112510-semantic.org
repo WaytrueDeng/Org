@@ -1,0 +1,14 @@
+#+title: semantic
+#+roam_tags:英语单词
+
+* 定义
+  
+semantic [sɪˈmæntɪk]
+
+* Basic Explains
+- adj. 语义的；语义学的（等于semantical）
+
+* Web References
+- Semantic :: 语义; 语意; 语义化
+- Semantic Integration :: 语义集成; 语义整合; 语言形式
+- semantic error :: 语义错误; 语义差错; 语意错误

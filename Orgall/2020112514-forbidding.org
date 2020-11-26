@@ -1,0 +1,15 @@
+#+title: forbidding
+#+roam_tags:英语单词
+
+* 定义
+  
+forbidding [fəˈbɪdɪŋ]
+
+* Basic Explains
+- adj. （外表）冷峻的，令人生畏的；令人厌恶的；险恶的
+- v. 禁止；不准（某人）做某事；（使）……不可能做某事，妨碍（forbid 的现在分词）
+
+* Web References
+- forbidding :: 可怕的; 望而生畏的; 森严
+- forbidding subgraph :: 禁用子图
+- Forbidding Watchtower :: 险要的瞭望台

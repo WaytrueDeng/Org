@@ -1,0 +1,14 @@
+#+title: Pathological
+#+roam_tags:英语单词
+
+* 定义
+  
+pathological [ˌpæθəˈlɒdʒɪkl]
+
+* Basic Explains
+- adj. 病理学的；病态的；由疾病引起的（等于pathologic）
+
+* Web References
+- Pathological :: 病理性; 病理; 病态的
+- pathological changesofheart :: 心脏病理
+- pathological function :: 病态函数; 病态函数

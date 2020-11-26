@@ -1,0 +1,15 @@
+#+title: polled
+#+roam_tags:英语单词
+
+* 定义
+  
+polled [pəʊld]
+
+* Basic Explains
+- adj. （牛、羊等）被剪去毛的；无角的
+- v. 对……作民意调查；（候选人）获得票数；投票；轮询；截掉（动物，尤指小牛）的角；截去（树或植物）的梢（poll 的过去式及过去分词）
+
+* Web References
+- Polled :: 查询; 轮询; 剪去毛的
+- polled dna :: 混合dna池
+- Polled Devon :: 无角德温

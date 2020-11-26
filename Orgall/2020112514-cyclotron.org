@@ -1,0 +1,14 @@
+#+title: cyclotron
+#+roam_tags:英语单词
+
+* 定义
+  
+cyclotron [ˈsaɪklətrɒn]
+
+* Basic Explains
+- n. [核] 回旋加速器，粒子回旋加速器
+
+* Web References
+- cyclotron :: 回旋加速器; 回旋加速器; 同步电子回旋加速器
+- cyclotron dees :: 回旋加速坪绪; 回旋加速芼
+- cyclotron instability :: 回旋不稳定性

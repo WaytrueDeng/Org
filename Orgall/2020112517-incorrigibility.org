@@ -1,0 +1,14 @@
+#+title: incorrigibility
+#+roam_tags:英语单词
+
+* 定义
+  
+incorrigibility [ɪn,kɒrɪdʒə'bɪlətɪ]
+
+* Basic Explains
+- n. 难望矫正；屡教不改
+
+* Web References
+- incorrigibility :: 难望矫正; 无可救药; 的中文意思
+- incorrigibility report :: 无可感化的报告
+- incorrigibility of data :: 数据的不可更改性

@@ -1,0 +1,16 @@
+#+title: clutter
+#+roam_tags:英语单词
+
+* 定义
+  
+clutter [ˈklʌtər]
+
+* Basic Explains
+- n. 杂乱，混乱
+- vt. 使凌乱；胡乱地填满
+- n. (Clutter)人名；(英)克拉特
+
+* Web References
+- Clutter :: 混乱; 杂乱; 杂七杂八的东西
+- clutter filter :: 杂波滤波器; 静噪滤波器; 杂波滤波器
+- clutter tests :: 混杂测试

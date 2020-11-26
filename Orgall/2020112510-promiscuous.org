@@ -1,0 +1,15 @@
+#+title: promiscuous
+#+roam_tags:英语单词
+
+* 定义
+  
+promiscuous [prəˈmɪskjuəs]
+
+* Basic Explains
+- adj. 混杂的；杂乱的
+- adv. 偶然地；胡乱地
+
+* Web References
+- Promiscuous :: 混杂模式; 混杂; 杂乱的
+- Promiscuous Pairing :: 实现了无序结对编程
+- multicast promiscuous :: 多播混杂

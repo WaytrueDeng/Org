@@ -1,0 +1,17 @@
+#+title: concrete
+#+roam_tags:英语单词
+
+* 定义
+  
+concrete [ˈkɒŋkriːt]
+
+* Basic Explains
+- n. 具体物；凝结物
+- adj. 混凝土的；实在的，具体的；有形的
+- vt. 使凝固；用混凝土修筑
+- vi. 凝结
+
+* Web References
+- Concrete :: 混凝土; 具体的; 具体物
+- reinforced concrete :: 钢筋混凝土; 增强剂; 被加固的混凝土
+- concrete vibrator :: 混凝土振捣器; 混凝土振动器; 混凝土震捣器

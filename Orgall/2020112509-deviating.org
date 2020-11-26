@@ -1,0 +1,14 @@
+#+title: deviating
+#+roam_tags:英语单词
+
+* 定义
+  
+deviating [nil]
+
+* Basic Explains
+- v. 偏离，出轨（deviate的现在分词形式）
+
+* Web References
+- deviating :: 使井偏斜; 偏离; 偏向力
+- deviating hole :: 斜钻孔; 偏斜孔
+- Tolerance deviating :: 容许偏差

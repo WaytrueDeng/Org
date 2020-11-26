@@ -1,0 +1,14 @@
+#+title: statements
+#+roam_tags:英语单词
+
+* 定义
+  
+statements [nil]
+
+* Basic Explains
+- n. 声明；报告；陈述句；状态说明（statement的复数形式）
+
+* Web References
+- Statements :: 表述; 语句; 陈述句
+- Statements of :: 一家之言
+- bank statements :: 账单; 银行对账单; 银行对帐单

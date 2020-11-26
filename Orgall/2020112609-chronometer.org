@@ -1,0 +1,14 @@
+#+title: chronometer
+#+roam_tags:英语单词
+
+* 定义
+  
+chronometer [krəˈnɒmɪtər]
+
+* Basic Explains
+- n. [天] 精密记时表；高度精确的钟表；航海经线仪
+
+* Web References
+- Chronometer :: 天文台表; 计时器; 记时计
+- electron chronometer :: 电子精确计时器; 电子计时器
+- half chronometer :: 半精密记时表; 半精密记时表

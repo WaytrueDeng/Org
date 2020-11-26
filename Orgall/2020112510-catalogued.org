@@ -1,0 +1,15 @@
+#+title: catalogued
+#+roam_tags:英语单词
+
+* 定义
+  
+catalogued ['kætəlɔgd]
+
+* Basic Explains
+- adj. 编目的
+- v. 把…编目分类（catalogue的过去式和过去分词）
+
+* Web References
+- catalogued :: 编目的; 分类; 目录
+- Catalogued d :: 分类
+- catalogued procedures :: 编目程序

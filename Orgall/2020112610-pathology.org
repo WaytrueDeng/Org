@@ -1,0 +1,14 @@
+#+title: Pathology
+#+roam_tags:英语单词
+
+* 定义
+  
+pathology [pəˈθɒlədʒi]
+
+* Basic Explains
+- n. 病理学；病状；精神异常；社会异常；语言异常
+
+* Web References
+- Pathology :: 病理学; 恐怖解剖室; 病理科
+- surgical pathology :: 外科病理学; 外科病理; 或外科病理学
+- general pathology :: 普通病理学; 病理学; 病理学总论

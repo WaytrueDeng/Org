@@ -1,0 +1,14 @@
+#+title: extent
+#+roam_tags:英语单词
+
+* 定义
+  
+extent [ɪkˈstent]
+
+* Basic Explains
+- n. 程度；范围；长度
+
+* Web References
+- extent :: 程度; 范围; 大小
+- extent allocation :: 扩展分配; 区分配
+- in extent :: 就面积而言

@@ -1,0 +1,14 @@
+#+title: rarity
+#+roam_tags:英语单词
+
+* 定义
+  
+rarity [ˈreərəti]
+
+* Basic Explains
+- n. 罕见；珍贵；珍品（需用复数）；稀薄
+
+* Web References
+- rarity :: 稀少; 诺瑞德; 稀有
+- cherish rarity :: 希罕
+- rarity function :: 稀有度函数

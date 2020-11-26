@@ -1,0 +1,14 @@
+#+title: submitted
+#+roam_tags:英语单词
+
+* 定义
+  
+submitted [nil]
+
+* Basic Explains
+- v. 递交；主张；屈服（submit的过去分词）
+
+* Web References
+- Submitted :: 报送; 呈交; 报请
+- Submitted by :: 提交人; 提交者
+- SUBMITTED ONL :: 在线提交; 指为失败者提交

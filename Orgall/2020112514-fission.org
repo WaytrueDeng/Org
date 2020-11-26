@@ -1,0 +1,14 @@
+#+title: fission
+#+roam_tags:英语单词
+
+* 定义
+  
+fission [ˈfɪʃn]
+
+* Basic Explains
+- n. 裂变；分裂；分体；分裂生殖法
+
+* Web References
+- fission :: 分裂; 裂变; 裂开
+- fission reactor :: 裂变反应堆
+- fission chamber :: 裂变室; 裂变电离室; 分裂腔

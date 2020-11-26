@@ -1,0 +1,14 @@
+#+title: senex
+#+roam_tags:英语单词
+
+* 定义
+  
+senex [nil]
+
+* Basic Explains
+- n. 老头子
+
+* Web References
+- Senex :: 森纳士
+- Cypseloides senex :: 大黑雨燕
+- Todirostrum senex :: 黄颊哑霸鹟

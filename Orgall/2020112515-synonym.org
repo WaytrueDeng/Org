@@ -1,0 +1,14 @@
+#+title: synonym
+#+roam_tags:英语单词
+
+* 定义
+  
+synonym [ˈsɪnənɪm]
+
+* Basic Explains
+- n. 同义词；同义字
+
+* Web References
+- synonym :: 同义词; 异名; 代名词
+- local synonym :: 或本地近义字; 或当地近义字; 远义字
+- senior synonym :: 先定同物异名; 首异名; 本种同物异名

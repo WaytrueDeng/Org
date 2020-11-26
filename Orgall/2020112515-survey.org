@@ -1,0 +1,16 @@
+#+title: survey
+#+roam_tags:英语单词
+
+* 定义
+  
+survey [ˈsɜːveɪ]
+
+* Basic Explains
+- n. 调查；测量；审视；纵览
+- vt. 调查；勘测；俯瞰
+- vi. 测量土地
+
+* Web References
+- Survey :: 信息反馈; 调查; 信息反馈等
+- redshift survey :: 红移巡天
+- survey mark :: 测量标志; 测量点; 测量标记

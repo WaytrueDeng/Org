@@ -1,0 +1,14 @@
+#+title: momentum
+#+roam_tags:英语单词
+
+* 定义
+  
+momentum [məˈmentəm]
+
+* Basic Explains
+- n. 势头；[物] 动量；动力；冲力
+
+* Web References
+- momentum :: 动量; 动力; 势头
+- momentum equation :: 动量方程; 方程式; 动量方程式
+- linear momentum :: 线动量; 线动量陀螺仪; 又称线性动量

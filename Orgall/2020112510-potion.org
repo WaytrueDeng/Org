@@ -1,0 +1,14 @@
+#+title: potion
+#+roam_tags:英语单词
+
+* 定义
+  
+potion [ˈpəʊʃn]
+
+* Basic Explains
+- n. 一剂；一服；饮剂；魔药
+
+* Web References
+- potion :: 药水; 药剂; 一部分
+- Attack Potion :: 提升攻击伤害; 蓝水
+- Wolfsbane potion :: 狼毒试剂; 缚狼汁; 吐真剂

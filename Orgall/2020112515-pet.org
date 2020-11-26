@@ -1,0 +1,18 @@
+#+title: pet
+#+roam_tags:英语单词
+
+* 定义
+  
+pet [pet]
+
+* Basic Explains
+- n. 宠物；生气；受宠爱的人
+- vt. 宠爱
+- vi. 生气；爱抚
+- adj. 生气；爱抚
+- n. （Pet）（俄）佩特；（柬）贝（人名）
+
+* Web References
+- PET :: 聚对苯二甲酸乙二醇酯; 宠物; 聚对苯二甲酸乙二酯
+- Pet Sounds :: 宠物之声; 唱片名
+- Pet Sematary :: 宠物坟场; 禁入坟场; 宠物公墓
