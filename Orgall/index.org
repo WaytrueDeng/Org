@@ -47,3 +47,4 @@
 ** [[file:2020-11-23.org][2020-11-23]]
 * English Words
 - [[file:word_power_made_easy.org][Word Power Made Easy]]
+- [[roam:The Reublic by Plato]]

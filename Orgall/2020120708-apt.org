@@ -1,0 +1,15 @@
+#+title: apt
+#+roam_tags:英语单词
+
+* 定义
+  
+apt [æpt]
+
+* Basic Explains
+- adj. 恰当的；有…倾向的；灵敏的
+- n. (Apt)人名；(法、波、英)阿普特
+
+* Web References
+- APT :: 高级持续性威胁(Advanced Persistent Threat); 仲钨酸铵; 套利定价理论(Arbitrage Pricing Theory)
+- apt at :: 聪明; 善于; 聪明善于
+- apt a :: 聪明灵巧的; 恰当的; 易于…的

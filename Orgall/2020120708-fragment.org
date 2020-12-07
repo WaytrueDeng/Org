@@ -1,0 +1,16 @@
+#+title: fragment
+#+roam_tags:英语单词
+
+* 定义
+  
+fragment ['frægmənt]
+
+* Basic Explains
+- n. 碎片；片段或不完整部分
+- vt. 使成碎片
+- vi. 破碎或裂开
+
+* Web References
+- Fragment :: 片段; 片断; 碎片
+- fragment ion :: 碎片离子; 翻译; 碎体离子
+- Fragment Shader :: 片段着色器; 片元着色器; 片断着色器

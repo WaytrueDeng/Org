@@ -1,0 +1,17 @@
+#+title: content
+#+roam_tags:英语单词
+
+* 定义
+  
+content [ˈkɒntent; kənˈtent]
+
+* Basic Explains
+- n. 内容，目录；满足；容量
+- adj. 满意的
+- vt. 使满意
+- n. （Content）（法）孔唐（人名）
+
+* Web References
+- content :: 内容; 含量; 目录
+- Content Farm :: 内容农场; 形式农场; 文字工厂
+- Ash content :: 灰分; 灰分含量; 含灰量

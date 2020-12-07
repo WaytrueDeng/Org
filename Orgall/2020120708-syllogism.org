@@ -1,0 +1,14 @@
+#+title: syllogism
+#+roam_tags:英语单词
+
+* 定义
+  
+syllogism [ˈsɪlədʒɪzəm]
+
+* Basic Explains
+- n. 三段论；推论
+
+* Web References
+- syllogism :: 三段论; 三段式; 诡辩
+- legal syllogism :: 法律三段论
+- linear syllogism :: 线性三段论

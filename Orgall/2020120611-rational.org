@@ -1,0 +1,15 @@
+#+title: rational
+#+roam_tags:英语单词
+
+* 定义
+  
+rational [ˈræʃnəl]
+
+* Basic Explains
+- n. 有理数
+- adj. 合理的；理性的
+
+* Web References
+- rational :: 理性的; 有理性的; 合理的
+- rational agent :: 理性主体; 理性人; 理性主体人
+- rational appeals :: 理性诉求; 性诉求; 感性诉求
