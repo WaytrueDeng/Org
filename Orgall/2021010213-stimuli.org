@@ -1,0 +1,14 @@
+#+title: stimuli
+#+roam_tags:英语单词
+
+* 定义
+  
+stimuli ['stɪmjʊlaɪ]
+
+* Basic Explains
+- n. 刺激；刺激物；促进因素（stimulus的复数）
+
+* Web References
+- stimuli :: 刺激; 刺激物; 激励
+- external stimuli :: 外部刺激; 外界的刺激; 外界刺激
+- unidimensional stimuli :: 单维刺激

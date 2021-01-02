@@ -2,7 +2,7 @@
 #+roam_tags:英语单词
 
 * 定义
-  
+
 Solon ['sɔlən; -lɔn]
 
 * Basic Explains
@@ -12,3 +12,4 @@ Solon ['sɔlən; -lɔn]
 - Solon :: 梭伦; 贤人; 梭仑
 - Bette solon :: 戴维斯
 - Matt Solon :: 标签
+

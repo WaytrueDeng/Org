@@ -1,0 +1,14 @@
+#+title: correlates
+#+roam_tags:英语单词
+
+* 定义
+  
+correlates [nil]
+
+* Basic Explains
+- 相关
+
+* Web References
+- Correlates :: 因素; 相关因素; 相互关系
+- contextual correlates :: 语境性
+- articulatory correlates :: 发音实现

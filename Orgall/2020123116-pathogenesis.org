@@ -1,0 +1,14 @@
+#+title: Pathogenesis
+#+roam_tags:英语单词
+
+* 定义
+  
+pathogenesis [ˌpæθəˈdʒenɪsɪs]
+
+* Basic Explains
+- n. 发病机理；发病原
+
+* Web References
+- pathogenesis :: 发病机制; 发病机理; 发病学
+- Microbial Pathogenesis :: 微生物发病机理; 微生物发病机制
+- TCM Pathogenesis :: 中医病机

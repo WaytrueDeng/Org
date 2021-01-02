@@ -283,10 +283,15 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :PROPERTIES:
 :NOTER_PAGE: 41
 :END:
+**** two important terms 
+- [[file:2020123116-etiology.org][Etiology]]
+- [[file:2020123116-pathogenesis.org][Pathogenesis]] provides the scienctific foundation for the practice of medicine
 *** Overview of Cellular Responses to Stress and Noxious Stimuli
 :PROPERTIES:
 :NOTER_PAGE: 41
 :END:
+- [[file:2020123117-accommodate.org][accommodate]]
+- [[file:2020123117-milieu.org][milieu]]
 *** Causes of Cell Injury
 :PROPERTIES:
 :NOTER_PAGE: 42
@@ -302,10 +307,17 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 - [[roam:sickle(镰刀)]]
 **** Nutrirional imbalances
 - [[roam:diabetes(糖尿病)]]
-- [[roam:atherosclerosis(动脉粥样硬化)]] 
-**** Physical agents
-**** Aging
+- [[roam:atherosclerosis(动脉粥样硬化)]]
+- [[file:2020112213-ironic.org][ironic]]
+- [[file:2021010213-impoverished.org][impoverished]]
 
+**** Physical agents
+- [[file:2020112219-trauma.org][trauma]]
+**** Aging
+- [[file:2021010213-senescence.org][senescence]]
+- [[file:2021010213-stimuli.org][stimuli]]
+
+  
 *** Sequence of Events in Cell Injury and Cell Death
 :PROPERTIES:
 :NOTER_PAGE: 43
@@ -314,11 +326,10 @@ The ability of cells to adopt a particular shape, maintainpolarity, organize the
 :PROPERTIES:
 :NOTER_PAGE: 43
 :END:
-Reversible injury is the stage of cell injury at which the deranged function and morphology of the injured cellscan return to normal if the damaging stimulus is removed
+- Reversible injury is the stage of cell injury at which the [[file:2021010213-deranged.org][deranged]] function and [[file:2021010213-morphology.org][morphology]] of the injured cells can return to normal if the damaging stimulus is removed
 ***** MORPHOLOGY
-The two main morphologic correlates of reversible cell injury
-are cellular swelling and fatty change.
-- Cellular swelling (Fig. 2.4B) is commonly seen in cell injury associated with increased [[roam:permeability(渗透性)]] of the plasma membrane. It may be difficult to appreciate with the light micro-scope, but it is often apparent at the level of the whole organ. When it affects many cells in an organ, it causes pallor (as a result of compression of capillaries), increased turgor, and an increase in organ weight. Microscopic examination may show small, clear vacuoles within the cytoplasm; these represent distended and pinched-off segments of the endoplasmic reticu- lum (ER). This pattern of [[roam:nonlethal(非致命)]] injury is sometimes called hydropic change or vacuolar degeneration.
+The two main morphologic [[file:2021010213-correlates.org][correlates]] of reversible cell injury are cellular swelling and fatty change.
+- Cellular swelling (Fig. 2.4B) is commonly seen in cell injury associated with increased [[roam:permeability(渗透性)]] of the plasma membrane. It may be difficult to appreciate with the light micro-scope, but it is often apparent at the level of the whole organ. When it affects many cells in an organ, it causes [[file:2021010213-pallor.org][pallor]] (as a result of compression of capillaries), increased [[roam:turgor]], and an increase in organ weight. Microscopic examination may show small, clear vacuoles within the cytoplasm; these represent distended and pinched-off segments of the endoplasmic reticu- lum (ER). This pattern of [[file:2020111818-nonlethal_非致命.org][nonlethal(非致命)]] injury is sometimes called hydropic change or vacuolar degeneration.
 - Fatty change is manifested by the appearance of triglyceride containing lipid vacuoles in the cytoplasm. It is principally encountered in organs that are involved in lipid metabolism, such as the liver, and hence it is discussed in Chapter 16.
 
 **** Cell Death

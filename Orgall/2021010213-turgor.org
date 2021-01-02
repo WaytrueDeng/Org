@@ -1,0 +1,14 @@
+#+title: turgor
+#+roam_tags:英语单词
+
+* 定义
+  
+turgor ['tɜːɡə]
+
+* Basic Explains
+- n. （细胞组织的）肿胀，膨胀；浮夸，夸张
+
+* Web References
+- turgor :: 膨压; 皮肤饱满; 充盈
+- skin turgor :: 记录皮肤张力
+- Turgor Cylinder :: 涨紧油缸

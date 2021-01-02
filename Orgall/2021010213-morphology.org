@@ -1,0 +1,14 @@
+#+title: morphology
+#+roam_tags:英语单词
+
+* 定义
+  
+morphology [mɔːˈfɒlədʒi]
+
+* Basic Explains
+- n. 形态学，形态论；[语] 词法，[语] 词态学
+
+* Web References
+- morphology :: 形态学; 形态学; 词法学
+- urban morphology :: 城市形态; 城市形态学; 都市形态
+- morphology box :: 模幅箱

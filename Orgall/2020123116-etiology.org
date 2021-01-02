@@ -1,0 +1,14 @@
+#+title: Etiology
+#+roam_tags:英语单词
+
+* 定义
+  
+etiology [,iːtɪ'ɒlədʒɪ]
+
+* Basic Explains
+- n. [病理] 病因学；[基医] 病原学；致病源
+
+* Web References
+- etiology :: 原因论; 病原学; 病因学
+- Hiccup etiology :: 病因学; 呃逆
+- Although Etiology :: 虽然病因
