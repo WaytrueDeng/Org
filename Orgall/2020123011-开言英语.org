@@ -5,4 +5,4 @@
 - [[file:2020123011-butt_of_the_joke.org][butt of the joke]]
 - [[file:2020123011-improv_comedy.org][improv comedy]]
 - [[file:2020123011-combo.org][combo]]
-- [[roam:witty]]
+- [[file:2020123011-witty.org][witty]]

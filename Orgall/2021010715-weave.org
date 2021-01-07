@@ -1,0 +1,16 @@
+#+title: weave
+#+roam_tags:英语单词
+
+* 定义
+  
+weave [wiːv]
+
+* Basic Explains
+- vt. 编织；编排；使迂回前进
+- vi. 纺织；编成；迂回行进
+- n. 织物；织法；编织式样
+
+* Web References
+- weave :: 织法; 织造; 织入
+- PLAIN WEAVE :: 平纹梭织; 平纹组织; 平布
+- jacquard weave :: 提花

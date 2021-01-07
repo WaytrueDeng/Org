@@ -1,0 +1,14 @@
+#+title: fusion
+#+roam_tags:英语单词
+
+* 定义
+  
+fusion [ˈfjuːʒn]
+
+* Basic Explains
+- n. 融合；熔化；熔接；融合物；[物] 核聚变
+
+* Web References
+- Fusion :: 融合; 蒙迪欧; 美版蒙迪欧
+- nuclear fusion :: 核聚变; 核融合; 核子融合
+- fusion welding :: 熔化焊; 熔焊; 熔接

@@ -1,0 +1,14 @@
+#+title: refreshment
+#+roam_tags:英语单词
+
+* 定义
+  
+refreshment [rɪˈfreʃmənt]
+
+* Basic Explains
+- n. 点心；起提神作用的东西；精力恢复
+
+* Web References
+- refreshment :: 茶点; 点心; 保鲜
+- refreshment station :: 备有小吃的车站
+- Intra Refreshment :: 帧内更新; 帧内刷新

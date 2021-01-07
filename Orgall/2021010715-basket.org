@@ -1,0 +1,15 @@
+#+title: basket
+#+roam_tags:英语单词
+
+* 定义
+  
+basket [ˈbɑːskɪt]
+
+* Basic Explains
+- n. 篮子；（篮球比赛的）得分；一篮之量；篮筐
+- vt. 装入篮
+
+* Web References
+- basket :: 篮; 篮子; 蝴蝶竺
+- currency basket :: 一篮子货币; 货币篮子; 货币篮
+- bamboo basket :: 竹篓; 竹篮; 竹笼

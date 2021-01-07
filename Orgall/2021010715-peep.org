@@ -1,0 +1,16 @@
+#+title: peep
+#+roam_tags:英语单词
+
+* 定义
+  
+peep [piːp]
+
+* Basic Explains
+- v. 窥视，偷看；隐约出现，微现；发出吱吱声
+- n. 窥视；说话；啾啾声；瞬间的景象
+- n. (Peep) （美、荷、瑞）佩普（人名）
+
+* Web References
+- PEEP :: 呼气末正压; 呼气末正压通气(Positive End Expiratory Pressure); 偷窥
+- peep toe :: 露趾凉鞋; 露趾; 鱼嘴
+- 总PEEP :: PEEPTOT
