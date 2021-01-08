@@ -1,0 +1,15 @@
+#+title: vague
+#+roam_tags:英语单词
+
+* 定义
+  
+vague [veɪɡ]
+
+* Basic Explains
+- adj. 模糊的；含糊的；不明确的；暧昧的
+- n. (Vague)人名；(法)瓦格；(英)韦格
+
+* Web References
+- vague :: 模糊的; 含糊的; 模糊不清的
+- vague language :: 模糊语言; 模糊语; 模糊用语
+- vague convergence :: 不梅收敛
