@@ -1,0 +1,15 @@
+#+title: generalize
+#+roam_tags:英语单词
+
+* 定义
+  
+generalize [ˈdʒenrəlaɪz]
+
+* Basic Explains
+- vi. 形成概念
+- vt. 概括；推广；使...一般化
+
+* Web References
+- generalize :: 概括; 推广; 归纳
+- generalize to :: 推广到
+- generalize reasoning :: 归纳推理

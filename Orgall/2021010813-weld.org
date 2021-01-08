@@ -1,0 +1,17 @@
+#+title: weld
+#+roam_tags:英语单词
+
+* 定义
+  
+weld [weld]
+
+* Basic Explains
+- n. 焊接；焊接点
+- vt. 焊接；使结合；使成整体
+- vi. 焊牢
+- n. (Weld)人名；(英)韦尔德
+
+* Web References
+- weld :: 焊接; 焊缝; 接合
+- Weld County :: 韦尔德县; 科劳拉多州韦德郡; 科罗拉多州维尔德县
+- weld zone :: 焊接区; 焊缝区; 烧焊区

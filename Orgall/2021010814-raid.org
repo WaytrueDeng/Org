@@ -1,0 +1,18 @@
+#+title: raid
+#+roam_tags:英语单词
+
+* 定义
+  
+raid [reɪd]
+
+* Basic Explains
+- n. 袭击；突袭；搜捕；抢劫
+- vi. 突袭
+- vt. 袭击，突袭
+- n. （Raid）（阿拉伯）拉伊德（人名）
+- abbr. （Raid）独立硬盘冗余阵列（Redundant Array of Inexpensive Disks）
+
+* Web References
+- RAID :: 独立磁盘冗余阵列; 磁盘阵列(Redundant Arrays Of Independent Disks); 雷达
+- Raid Mode :: 突袭模式; 突击模式; 阵列模式
+- Rhino Raid :: 犀牛狂奔; 犀牛奇袭; 世界自然基金会犀牛行动
