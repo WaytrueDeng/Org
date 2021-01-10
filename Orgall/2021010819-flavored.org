@@ -1,0 +1,15 @@
+#+title: flavored
+#+roam_tags:英语单词
+
+* 定义
+  
+flavor ['fleɪvə]
+
+* Basic Explains
+- n. 情味，风味；香料；滋味
+- vt. 加味于
+
+* Web References
+- flavored proteinase :: 风味蛋白酶
+- ginger flavored :: 姜味
+- flavored hypernuclei :: 味超核
