@@ -51,4 +51,33 @@
 - raider 袭击者 ,[[file:2021010814-raid.org][raid]]
 - disinfect dis-infect 消毒
 - fatigue 劳累
-- [[roam:amid]] am im mid amid
+- [[file:2021010814-amid.org][amid]] am im mid amid
+  
+* MBP的两周纯粹主观使用报告
+
+** 缘起
+
+*** arm芯片的续航太强大了
+*** windows的孱弱无力
+- 命令行功能被淡化
+- 安装软件不方便
+- 吧啦吧啦
+
+*** GNU/linux整体支持较差
+- linux的笔记本续航不太理想
+- linux下的国产软件生态较差
+
+** 为什么要买丐版
+*** 明白自己真正的需求
+*** 适合自己需求的就是最好的
+** mac arm 现阶段软件支持现状一瞥
+*** 原生的macos arm应用
+- app store
+- homebrew
+*** rosseta amd64转制
+*** ios/ipad应用                                                   :杀手锏:
+** arm未来展望
+*** macos arm自然是必然
+*** PC厂家windows,也会全面arm化
+*** Linux大有可为,可以期待原生兼容安卓
+
