@@ -1,0 +1,16 @@
+#+title: faint
+#+roam_tags:英语单词
+
+* 定义
+  
+faint [feɪnt]
+
+* Basic Explains
+- n. [中医] 昏厥，昏倒
+- adj. 模糊的；头晕的；虚弱的；[医] 衰弱的
+- vi. 昏倒；变得微弱；变得没气力
+
+* Web References
+- FAINT :: 昏厥; 微弱的; 晕倒
+- Faint Yellow :: 淡黄色; 静态浅黄色
+- faint haze :: 薄雾

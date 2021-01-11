@@ -1,0 +1,17 @@
+#+title: anchor
+#+roam_tags:英语单词
+
+* 定义
+  
+anchor [ˈæŋkər]
+
+* Basic Explains
+- n. 锚；抛锚停泊；靠山；新闻节目主播
+- vt. 抛锚；使固定；主持节目
+- vi. 抛锚
+- adj. 末棒的；最后一棒的
+
+* Web References
+- Anchor :: 锚; 锚点; 安佳
+- Anchor text :: 锚文本; 链接锚文本; 锚文字
+- Anchor Island :: 安克岛

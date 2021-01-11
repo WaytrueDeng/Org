@@ -1,0 +1,70 @@
+#+title: 2021-01-11
+
+* 在Macbook pro 13 arm 丐版上安装windows on arm64(x64支持版)
+** 获取windows镜像 ✅
+** 获取paralles desktop的m1预览版 ✅
+** 保姆式自行安装 ✅
+** windows的激活
+** 各项性能参数一览
+
+* windows on arm64 软件生态的评测
+
+* 百词斩
+- derelict der-elict der-表否定,elict表选择
+- fort 堡垒 fortnite 堡垒之夜
+- ashore 在岸上
+- obedience 服从
+- beacon beach light on 信号灯,闪光灯
+- snooker斯诺克
+- grieve 伤心悲痛 grave 坟墓
+- cider cuter 挤压,汁
+- radiator 散热器 radi 光线
+- conservation 保护,保存,维持 serv 服务,reserve得到
+- butler 男管家,仆役长
+- anchor末棒运动员,新闻节目主持人
+- monopoly 垄断
+- framework 骨架,框架
+- seasonning 调味品,增添趣味的东西. 季节是生活的调味品
+- [[file:2021011115-anchor.org][anchor]]
+- sleet 下雨夹雪
+- mutton 羊,羊肉
+- [[file:2021011115-tertiary.org][tertiary]] tert-iary
+- consecutive 连贯的,secut 跟随
+- mischievous 有害的,调皮的 mis-chive-ous
+- hostage 人质,host客人,age表名次,把客人留下来,人质
+- [[file:2021011115-fortitude.org][fortitude]]
+- [[file:2021011115-commandment.org][commandment]] 戒律法令
+- [[file:2021011115-glamorous.org][glamorous]] 迷人的富有魅力的,glamor 魅力
+- prosperous 富裕的,茁壮生长的,pro 向前,sper 希望,ous 形容词后缀
+- pro-voc-ative pro 向前,voc呼喊,声,召集,ative
+- peony 牡丹,芍药 财富如粪土 屁ony
+- mustard 芥末,芥末色的
+- sawmill 锯木厂 saw 电锯, mill 磨坊
+- attic 阁楼,楼顶 at-tic 在楼顶
+- a-muse 娱乐,amuse 娱乐,使发笑
+- anode 氧化反应发生地,负极
+- in-ton-ation 声调,语调
+- depart 离开,出发
+- [[file:2021011116-apparatus.org][apparatus]]  装置,仪器 ap 使, par准备, atus 表名词
+- verdict 裁决, ver 真实, dict 说话断言
+- postage 邮费,资费
+- civil 民用的,公民的,国内的,有礼貌的,客气的
+- post 在后面, pon 放, postpone 推迟
+- [[file:2021011116-punctual.org][punctual]]
+- cosmetic 化妆品
+- perpendicular per for all , pend for 悬挂, ic ...的, ular 形容词后缀
+- ridicule 嘲笑,愚弄
+- stir 搅拌
+- [[file:2021011116-cosmetic.org][cosmetic]] 化妆品
+- [[file:2021011116-faint.org][faint]] 晕倒晕厥
+- hush 安静下来
+- [[file:2021011116-nun.org][nun]] 修女,尼姑
+- [[file:2021011116-pluck.org][pluck]] 拔去 勇气
+- aperture aper 开 ture 表名词
+- denture 一副假牙
+- [[file:2021011116-plumber.org][plumber]] 铅锤 + er 人
+- [[file:2021011116-orthodox.org][orthodox]] 正统的
+- [[file:2020112215-perceive.org][perceive]] 抓住,觉察
+- [[file:2021011116-ornament.org][ornament]] 装饰
+- compromise 妥协折中
+- comerce 商业贸易
