@@ -1,0 +1,14 @@
+#+title: amorphous
+#+roam_tags:英语单词
+
+* 定义
+  
+amorphous [əˈmɔːfəs]
+
+* Basic Explains
+- adj. 无定形的；无组织的；[物] 非晶形的
+
+* Web References
+- amorphous :: 无定形的; 非晶质; 非结晶的
+- amorphous carbon :: 无定形碳; 非晶碳; 非晶质碳
+- amorphous polymer :: 无定形聚合物; 非晶态聚合物; 聚合物

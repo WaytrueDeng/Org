@@ -1,0 +1,14 @@
+#+title: aperture
+#+roam_tags:英语单词
+
+* 定义
+  
+aperture [ˈæpətʃə(r)]
+
+* Basic Explains
+- n. 孔，穴；（照相机，望远镜等的）光圈，孔径；缝隙
+
+* Web References
+- Aperture :: 光圈; 孔径; 壳口
+- Aperture Science :: 光圈科技; 光圈科学; 穿梭之力量
+- Aperture ratio :: 开口率; 孔径比; 口径比

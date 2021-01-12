@@ -1,0 +1,15 @@
+#+title: denatured
+#+roam_tags:英语单词
+
+* 定义
+  
+denatured [di:'neitʃəd]
+
+* Basic Explains
+- adj. 变性的
+- v. 变性（denature的过去分词）
+
+* Web References
+- denatured :: 变性的; 中毒的
+- denatured state :: 变性状态
+- denatured fuel :: 变性燃料; 改性燃料; 翻译

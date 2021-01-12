@@ -1,0 +1,14 @@
+#+title: lesion
+#+roam_tags:英语单词
+
+* 定义
+  
+lesion [ˈliːʒn]
+
+* Basic Explains
+- n. 损害；身体上的伤害；机能障碍
+
+* Web References
+- lesion :: 损害; 病变; 机能障碍
+- precancerous lesion :: 癌前病变; 癌前期病变; 癌前病损
+- secondary lesion :: 继发性损害; 继发损害; 继发性皮损

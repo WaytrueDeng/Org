@@ -1,0 +1,14 @@
+#+title: proteolysis
+#+roam_tags:英语单词
+
+* 定义
+  
+proteolysis [,prəʊtɪ'ɒlɪsɪs]
+
+* Basic Explains
+- n. [生化] 蛋白质水解；蛋白水解作用
+
+* Web References
+- proteolysis :: 蛋白酶解; 蛋白分解; 蛋白质水解
+- selective proteolysis :: 选择性酶解; 选择性蛋白分解
+- limited proteolysis :: 复杂的限制性蛋白解; 解作用; 限制性蛋白水解

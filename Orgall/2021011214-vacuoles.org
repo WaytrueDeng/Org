@@ -1,0 +1,14 @@
+#+title: vacuoles
+#+roam_tags:英语单词
+
+* 定义
+  
+vacuoles [nil]
+
+* Basic Explains
+- n. [细胞] 液泡（vacuole的复数）
+
+* Web References
+- Vacuoles :: 液泡; 焊洞; 空泡
+- contractile vacuoles :: 水份的液胞; 伸缩泡; 收缩泡
+- Radish vacuoles :: 萝卜液泡

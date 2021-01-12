@@ -1,0 +1,15 @@
+#+title: anucleate
+#+roam_tags:英语单词
+
+* 定义
+  
+anucleate [nil]
+
+* Basic Explains
+- 无核的
+- 缺核的
+
+* Web References
+- anucleate :: 无核的
+- anucleate detail :: 无核生物
+- anucleate cell :: 无核细胞

@@ -1,0 +1,16 @@
+#+title: dye
+#+roam_tags:英语单词
+
+* 定义
+  
+dye [daɪ]
+
+* Basic Explains
+- n. 染料；染色
+- v. 染；把……染上颜色；被染色
+- n. (Dye) （美、法）戴伊（人名）
+
+* Web References
+- Dye :: 染料; 染色; 墨水
+- dye laser :: 染料激光器; 染料镭射; 染料雷射
+- sulfur dye :: 硫化染料; 翻译

@@ -1,0 +1,14 @@
+#+title: ischemia
+#+roam_tags:英语单词
+
+* 定义
+  
+ischemia [is'ki:miə]
+
+* Basic Explains
+- n. [内科] 局部缺血
+
+* Web References
+- Ischemia :: 缺血; 局部缺血; 局部贫血
+- cerebral ischemia :: 脑缺血; 血管性痴呆; 脑梗死
+- ischemia reperfusion :: 缺血再灌注; 缺血再灌注损伤; 缺血

@@ -1,0 +1,14 @@
+#+title: macrophages
+#+roam_tags:英语单词
+
+* 定义
+  
+macrophages [nil]
+
+* Basic Explains
+- n. [组织] 巨噬细胞；大噬細胞；大饵捕食者（macrophage的复数形式）
+
+* Web References
+- Macrophages :: 巨噬细胞; 大噬细胞; 吞噬细胞
+- Mononuclear macrophages :: 单核巨噬细胞
+- fixed macrophages :: 固定巨噬细胞; 释义固定巨噬细胞

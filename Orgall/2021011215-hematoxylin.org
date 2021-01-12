@@ -1,0 +1,14 @@
+#+title: hematoxylin
+#+roam_tags:英语单词
+
+* 定义
+  
+hematoxylin [,hiːmə'tɒksɪlɪn]
+
+* Basic Explains
+- n. [有化] 苏木精；苏木紫（等于haematoxylin）
+
+* Web References
+- hematoxylin :: 苏木精; 苏木色精; 苏木素
+- Hematoxylin hydrate :: 苏木色精
+- hematoxylin dyeing :: 苏木精染色法

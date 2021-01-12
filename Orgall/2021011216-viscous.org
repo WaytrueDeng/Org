@@ -1,0 +1,14 @@
+#+title: viscous
+#+roam_tags:英语单词
+
+* 定义
+  
+viscous [ˈvɪskəs]
+
+* Basic Explains
+- adj. 粘性的；黏的
+
+* Web References
+- viscous :: 粘滞的; 粘性的; 粘的
+- viscous damping :: 粘性阻尼; 粘滞阻尼; 粘性衰减
+- viscous flow :: 粘性怜; 粘性流; 滞流粘性流

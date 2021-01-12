@@ -1,0 +1,14 @@
+#+title: leukocytes
+#+roam_tags:英语单词
+
+* 定义
+  
+leukocytes [nil]
+
+* Basic Explains
+- n. 白血球（leukocyte的复数形式）
+
+* Web References
+- leukocytes :: 白血球; 尿白血球; 白细胞
+- granular leukocytes :: 粒性白血球; 粒细胞英语; 翻译
+- leukocytes s :: 白血球

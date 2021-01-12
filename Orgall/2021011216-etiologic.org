@@ -1,0 +1,14 @@
+#+title: etiologic
+#+roam_tags:英语单词
+
+* 定义
+  
+etiologic [,i:tiə'lɔdʒik]
+
+* Basic Explains
+- adj. 病因学的；病原学的
+
+* Web References
+- etiologic :: 病因学的; 病因论
+- etiologic factor :: 病因
+- etiologic research :: 病因研究

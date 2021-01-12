@@ -1,0 +1,14 @@
+#+title: cavity
+#+roam_tags:英语单词
+
+* 定义
+  
+cavity [ˈkævəti]
+
+* Basic Explains
+- n. 腔；洞，凹处
+
+* Web References
+- Cavity :: 型腔; 空腔; 模穴
+- back cavity :: 后腔
+- talbot cavity :: talbot腔; talbot外腔

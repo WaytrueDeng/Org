@@ -1,0 +1,14 @@
+#+title: eliminated
+#+roam_tags:英语单词
+
+* 定义
+  
+eliminated [nil]
+
+* Basic Explains
+- v. 被淘汰；消除；排除（eliminate的过去分词）
+
+* Web References
+- eliminated :: 除去; 消除; 消除了
+- Eliminated parasites :: 去除寄生虫
+- eliminated effectively :: 有效地克服

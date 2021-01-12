@@ -1,0 +1,14 @@
+#+title: fragmentation
+#+roam_tags:英语单词
+
+* 定义
+  
+fragmentation [ˌfræɡmenˈteɪʃn]
+
+* Basic Explains
+- n. 破碎；分裂；[计] 存储残片
+
+* Web References
+- fragmentation :: 断裂生殖; 分片; 碎片化
+- IP fragmentation :: IP分片
+- nuclear fragmentation :: 核断裂; 核碎裂; 核裂断

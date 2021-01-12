@@ -1,0 +1,14 @@
+#+title: neutrophils
+#+roam_tags:英语单词
+
+* 定义
+  
+neutrophils [nil]
+
+* Basic Explains
+- n. 中性粒（白）细胞；嗜中性球
+
+* Web References
+- neutrophils :: 中性粒细胞; 中性白细胞; 嗜中性球
+- Polymorphonuclear neutrophils :: 中性粒细胞; 多形核中性粒细胞; 细胞
+- polymorphonuelear neutrophils :: 在中性粒细胞; 中性粒细胞

@@ -1,0 +1,14 @@
+#+title: ribonucleic
+#+roam_tags:英语单词
+
+* 定义
+  
+ribonucleic [nil]
+
+* Basic Explains
+- adj. 核醣核酸的
+
+* Web References
+- ribonucleic :: 核糖核酸
+- normal ribonucleic :: 正常核糖核酸
+- Sodium Ribonucleic :: 核糖核酸钠

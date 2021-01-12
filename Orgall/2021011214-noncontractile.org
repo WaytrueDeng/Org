@@ -1,0 +1,12 @@
+#+title: noncontractile
+#+roam_tags:英语单词
+
+* 定义
+  
+noncontractile [nil]
+
+* Basic Explains
+- adj. 非收缩性
+
+* Web References
+- noncontractile :: 非收缩性

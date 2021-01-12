@@ -1,0 +1,15 @@
+#+title: elapsed
+#+roam_tags:英语单词
+
+* 定义
+  
+elapsed [nil]
+
+* Basic Explains
+- v. （时间）消逝，过去（elapse 的过去式和过去分词）
+- adj. 过去的，经过的
+
+* Web References
+- elapsed :: 经过; 时间; 时间过去
+- Elapsed Time :: 经过的时间; 经过时间; 运行时间
+- elapsed timer :: 经时计时器; 经过定时器; 停止用户经过计时器

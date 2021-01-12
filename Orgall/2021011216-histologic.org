@@ -1,0 +1,15 @@
+#+title: histologic
+#+roam_tags:英语单词
+
+* 定义
+  
+histologic [nil]
+
+* Basic Explains
+- 组织的
+- 组织学的
+
+* Web References
+- Histologic :: 组织学; 组织的
+- histologic lesion :: 翻译; 组织学病变
+- histologic spectrum :: 组织学谱

@@ -1,0 +1,14 @@
+#+title: saponification
+#+roam_tags:英语单词
+
+* 定义
+  
+saponification [sə,pɒnɪfɪ'keɪʃən]
+
+* Basic Explains
+- n. [化学] 皂化
+
+* Web References
+- saponification :: 皂化反应; 皂化; 皂化作用
+- alkaline saponification :: 加碱皂化; 碱皂化
+- calcium saponification :: 钙皂

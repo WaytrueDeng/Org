@@ -1,0 +1,16 @@
+#+title: pattern
+#+roam_tags:英语单词
+
+* 定义
+  
+pattern [ˈpætn]
+
+* Basic Explains
+- n. 模式；图案；样品
+- vt. 模仿；以图案装饰
+- vi. 形成图案
+
+* Web References
+- Pattern :: 式; 模式; 图案
+- Strategy Pattern :: 策略模式; 计谋模式; 计谋形式
+- Proxy Pattern :: 代理模式; 代办形式; 代理人模式

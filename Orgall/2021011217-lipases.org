@@ -1,0 +1,14 @@
+#+title: lipases
+#+roam_tags:英语单词
+
+* 定义
+  
+lipases [nil]
+
+* Basic Explains
+- n. [生化] 脂酶（lipase的复数）
+
+* Web References
+- Lipases :: 脂酶; 脂肪酶
+- rhizopus lipases :: 根霉脂肪酶
+- lipoprotein lipases :: 脂性蛋白脂肪酶

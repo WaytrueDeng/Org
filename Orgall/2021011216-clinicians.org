@@ -1,0 +1,14 @@
+#+title: clinicians
+#+roam_tags:英语单词
+
+* 定义
+  
+clinicians [nil]
+
+* Basic Explains
+- 临床医生（clinician的名词复数）
+
+* Web References
+- Clinicians :: 科立纯; 临床医生; 临床医师
+- And Clinicians :: 和临床医生
+- Nurse Clinicians :: 临床护理医生
