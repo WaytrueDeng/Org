@@ -1,0 +1,14 @@
+#+title: setbacks
+#+roam_tags:英语单词
+
+* 定义
+  
+setbacks [nil]
+
+* Basic Explains
+- n. 挫折；周折（setback复数）
+
+* Web References
+- Setbacks :: 周折; 挫折; 逆境
+- normal setbacks :: 一般回档; 正常回档
+- Financial setbacks :: 财务困难

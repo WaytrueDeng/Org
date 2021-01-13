@@ -1,0 +1,17 @@
+#+title: hog
+#+roam_tags:英语单词
+
+* 定义
+  
+hog [hɒɡ]
+
+* Basic Explains
+- n. 猪，像猪般的人；贪婪者
+- vt. 使拱起
+- vi. 拱起
+- n. (Hog)人名；(法)奥格
+
+* Web References
+- hog :: 阉猪; 肥猪; 方向梯度直方图
+- hog shred :: 松散机; 粉碎机
+- hog fat :: 猪油; 猪脂
