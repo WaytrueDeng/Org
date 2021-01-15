@@ -1,0 +1,1624 @@
+* 病理学 第9版_步宏，李一雷主编2018年（彩图）
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../PDFs/第九版临床医学（含其他版）「53本全套」/病理学 第9版_步宏，李一雷主编2018年（彩图）.pdf
+:END:
+** Skeleton
+*** 封面
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+*** 书名
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+*** 版权
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+*** 前言
+:PROPERTIES:
+:NOTER_PAGE: 18
+:END:
+*** 目录
+:PROPERTIES:
+:NOTER_PAGE: 20
+:END:
+**** 二、病理学在医学中的地位
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+**** 一、病理学的内容和任务
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+*** 绪论
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+**** 三、病理学诊断和研究的方法
+:PROPERTIES:
+:NOTER_PAGE: 33
+:END:
+**** 四、病理学的发展
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+**** 第一节 适应
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+#+begin_quote
+细胞和由其构成的组织器官和对于内外环境中的持续性刺激和各种有害因子而产生的非损伤性应答反应称为,适应表现为形态性和功能性,为内外环境变化中达到代谢功能形态结构上新的平衡.
+#+end_quote
+*** 第一章 细胞和组织的适应与损伤
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+***** 一、萎缩
+:PROPERTIES:
+:NOTER_PAGE: 37
+:END:
+#+begin_quote
+- 指已经发育正常的细胞,组织或器官的体积的缩小
+- 细胞的功能层面:合成代谢降低,能量需求减少,原有功能下降
+- 组织与器官的层面:实质细胞内物质丧失而致体积缩小外,还可伴有实质细胞的数量减少
+#+end_quote
+****** 萎缩的类型
+******* 生理性萎缩 (phsilological [[file:2021011416-atrophy.org][atrophy]])
+******** 胸腺青春期萎缩
+******** 卵巢,子宫和睾丸的更年期后萎缩
+******* 病理性萎缩 ([[file:2020112609-pathological.org][Pathological]] [[file:2021011416-atrophy.org][atrophy]])
+******** [[file:2021011416-atrophy.org][atrophy]] due to inadequate nutrition (营养不良性萎缩) 从营养供给的角度
+#+begin_quote
+可从蛋白质摄入不足,消耗过多和血液供应不足引起.萎缩的细胞,组织和器官通过调节细胞体积,数量和功能以适应降低的血液供给和营养补给.
+#+end_quote
+********* 全身营养不良性萎缩
+- 糖尿病结核病和肿瘤等慢性消耗性疾病,称为恶病质
+********* 局部营养不良性萎缩
+- 如脑动脉粥样硬化后,血管壁增厚,管腔变窄,脑组织缺乏足够血液供应引起的脑萎缩.
+******** atrophy due to pressure (压迫性萎缩) 从机械的角度
+#+begin_quote
+因组织长期受压所致,其机制是受压组织和细胞缺氧,缺血.
+#+end_quote
+- 肝脑肺肿瘤推挤压破,可致临近正常组织萎缩
+- 尿路梗阻时肾盂积水,压迫周围肾组织.引起肾皮质,髓质
+******** atrophy due to decreased workload  (失用性萎缩) 从自身功能降低的
+
+******** [[file:2021011416-atrophy.org][atrophy]] due to loss of innervation (去神经性萎缩) 从神经调节降低
+******** atrophy due to loss of endocrine stimulation (内分泌性萎缩) 从体液调节上降低
+
+******** atrophy due to aging and injury (老化和损伤性萎缩) 从时间和空间的角度
+
+
+***** 二、肥大
+:PROPERTIES:
+:NOTER_PAGE: 39
+:END:
+***** 三、增生
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+***** 四、化生
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+***** 一、细胞和组织损伤的原因
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+**** 第二节 细胞和组织损伤的原因和机制
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+***** 二、细胞和组织损伤的机制
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+**** 第三节 细胞可逆性损伤
+:PROPERTIES:
+:NOTER_PAGE: 46
+:END:
+***** —、细胞水肿
+:PROPERTIES:
+:NOTER_PAGE: 47
+:END:
+***** 二、脂肪变
+:PROPERTIES:
+:NOTER_PAGE: 48
+:END:
+***** 四、淀粉样变
+:PROPERTIES:
+:NOTER_PAGE: 49
+:END:
+***** 三、玻璃样变
+:PROPERTIES:
+:NOTER_PAGE: 49
+:END:
+***** 六、病理性色素沉着
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+***** 五、黏液样变
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+***** 七、病理性钙化
+:PROPERTIES:
+:NOTER_PAGE: 51
+:END:
+***** 一、坏死
+:PROPERTIES:
+:NOTER_PAGE: 52
+:END:
+**** 第四节 细胞死亡
+:PROPERTIES:
+:NOTER_PAGE: 52
+:END:
+***** 二、凋亡
+:PROPERTIES:
+:NOTER_PAGE: 55
+:END:
+***** 三、细胞老化的机制
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+***** 二、细胞老化的形态学
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+***** 一、细胞老化的特征
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+***** 第五爷细胞老化
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+***** 一、细胞周期和不同类型细胞的再生潜能
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+**** 第一节 再生
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+*** 第二章 损伤的修复
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+***** 二、干细胞及其在再生中的作用
+:PROPERTIES:
+:NOTER_PAGE: 61
+:END:
+***** 三、组织再生的机制和过程
+:PROPERTIES:
+:NOTER_PAGE: 64
+:END:
+***** 四、细胞再生的影响因素
+:PROPERTIES:
+:NOTER_PAGE: 65
+:END:
+***** 一、肉芽组织的形态及作用
+:PROPERTIES:
+:NOTER_PAGE: 68
+:END:
+**** 第二节 纤维性修复
+:PROPERTIES:
+:NOTER_PAGE: 68
+:END:
+***** 三、肉芽组织和瘢痕组织的形成过程及机制
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+***** 二、瘢痕组织的形态及作用
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+***** 一、皮肤创伤愈合
+:PROPERTIES:
+:NOTER_PAGE: 72
+:END:
+**** 第三节 创伤愈合
+:PROPERTIES:
+:NOTER_PAGE: 72
+:END:
+***** 三、影响创伤愈合的因素
+:PROPERTIES:
+:NOTER_PAGE: 74
+:END:
+***** 二、骨折愈合
+:PROPERTIES:
+:NOTER_PAGE: 74
+:END:
+***** 一、充血
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+**** 第一节 充血和淤血
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+*** 第三章 局部血液循环障碍
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+***** 一、出血的病因和发病机制
+:PROPERTIES:
+:NOTER_PAGE: 79
+:END:
+***** 二、淤血46第二节 出血
+:PROPERTIES:
+:NOTER_PAGE: 79
+:END:
+**** 第三节 血栓形成
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+***** 三、出血的后果
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+***** 二、出血的病理变化
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+***** 一、血栓形成的条件和机制
+:PROPERTIES:
+:NOTER_PAGE: 81
+:END:
+***** 二、血栓形成的过程及血栓的形态
+:PROPERTIES:
+:NOTER_PAGE: 83
+:END:
+***** 四、血栓形成对机体的影响
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+***** 三、血栓的结局
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+***** 一、栓子的运行途径
+:PROPERTIES:
+:NOTER_PAGE: 86
+:END:
+**** 第四节 栓塞
+:PROPERTIES:
+:NOTER_PAGE: 86
+:END:
+***** 二、栓塞的类型和对机体的影响
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+**** 第五节 梗死
+:PROPERTIES:
+:NOTER_PAGE: 89
+:END:
+***** 二、梗死的病变及类型
+:PROPERTIES:
+:NOTER_PAGE: 90
+:END:
+***** 一、梗死形成的原因和条件
+:PROPERTIES:
+:NOTER_PAGE: 90
+:END:
+***** 三、梗死对机体的影响和结局
+:PROPERTIES:
+:NOTER_PAGE: 92
+:END:
+***** 一、水肿的发病机制
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+**** 第六节 水肿
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+***** 二、水肿的病理变化.
+:PROPERTIES:
+:NOTER_PAGE: 94
+:END:
+***** 三、水肿对机体的影响
+:PROPERTIES:
+:NOTER_PAGE: 95
+:END:
+***** 二、炎症的原因
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+***** 一、炎症的概念
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+**** 第一节 炎症的概述
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+*** 第四章 炎症
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+***** 三、炎症的基本病理变化
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+***** 四、炎症的局部表现和全身反应
+:PROPERTIES:
+:NOTER_PAGE: 98
+:END:
+**** 第二节 急性炎症
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+***** 五、炎症的分类
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+***** 一、急性炎症过程中的血管反应
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+***** 二、急性炎症过程中的白细胞反应
+:PROPERTIES:
+:NOTER_PAGE: 101
+:END:
+***** 三、炎症介质在炎症过程中的作用
+:PROPERTIES:
+:NOTER_PAGE: 104
+:END:
+***** 五、急性炎症的病理学类型
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+***** 四、急性炎症反应的终止
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+***** 六、急性炎症的结局
+:PROPERTIES:
+:NOTER_PAGE: 109
+:END:
+**** 第三节 慢性炎症
+:PROPERTIES:
+:NOTER_PAGE: 110
+:END:
+***** 二、肉芽肿性炎
+:PROPERTIES:
+:NOTER_PAGE: 111
+:END:
+***** 一、一般慢性炎症的病理变化特点
+:PROPERTIES:
+:NOTER_PAGE: 111
+:END:
+***** 一、自身免疫病的发病机制
+:PROPERTIES:
+:NOTER_PAGE: 113
+:END:
+**** 第一节 自身免疫病
+:PROPERTIES:
+:NOTER_PAGE: 113
+:END:
+*** 第五章 免疫性疾病
+:PROPERTIES:
+:NOTER_PAGE: 113
+:END:
+***** 二、自身免疫病的类型
+:PROPERTIES:
+:NOTER_PAGE: 114
+:END:
+**** 第二节 免疫缺陷病
+:PROPERTIES:
+:NOTER_PAGE: 118
+:END:
+***** 二、继发性免疫缺陷病
+:PROPERTIES:
+:NOTER_PAGE: 119
+:END:
+***** 一、原发性免疫缺陷病
+:PROPERTIES:
+:NOTER_PAGE: 119
+:END:
+***** 一、移植排斥反应机制
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+**** 第三节 器官和骨髓移植
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+***** 二、实体器官移植排斥反应
+:PROPERTIES:
+:NOTER_PAGE: 124
+:END:
+***** 三、骨髓移植排斥反应
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+*** 第六章 肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 126
+:END:
+***** 一、肿瘤的大体形态
+:PROPERTIES:
+:NOTER_PAGE: 127
+:END:
+**** 第二节 肿瘤的形态
+:PROPERTIES:
+:NOTER_PAGE: 127
+:END:
+**** 第一节 肿瘤的概念
+:PROPERTIES:
+:NOTER_PAGE: 127
+:END:
+***** 二、肿瘤的组织形态
+:PROPERTIES:
+:NOTER_PAGE: 128
+:END:
+***** 三、肿瘤的分化与异型性
+:PROPERTIES:
+:NOTER_PAGE: 129
+:END:
+***** 一、命名原则
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+**** 第三节 肿瘤的命名与分类
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+***** 二、分类
+:PROPERTIES:
+:NOTER_PAGE: 131
+:END:
+***** 一、肿瘤的生长
+:PROPERTIES:
+:NOTER_PAGE: 134
+:END:
+**** 第四节 肿瘤的生长和扩散
+:PROPERTIES:
+:NOTER_PAGE: 134
+:END:
+***** 二、肿瘤扩散
+:PROPERTIES:
+:NOTER_PAGE: 135
+:END:
+**** 第五节 肿瘤的分级和分期
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+**** 第六节 肿瘤对机体的影响
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+**** 第七节 良性肿瘤与恶性肿瘤的区别
+:PROPERTIES:
+:NOTER_PAGE: 140
+:END:
+***** 一、上皮组织肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+**** 第八节 常见肿瘤举例
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+***** 二、间叶组织肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+***** 三、神经外胚叶肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 148
+:END:
+***** 一、癌前疾病（或病变）
+:PROPERTIES:
+:NOTER_PAGE: 149
+:END:
+**** 第九节 癌前疾病（或病变）、异型增生和原位癌
+:PROPERTIES:
+:NOTER_PAGE: 149
+:END:
+***** 一、细胞生长与增殖的调控
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+**** 第十节 肿瘤发生的分子基础
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+***** 二、异型增生和原位癌
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+***** 二、肿瘤发生与发展的分子机制
+:PROPERTIES:
+:NOTER_PAGE: 152
+:END:
+**** 第十一节 环境致瘤因素
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+***** 三、生物致癌因素
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+***** 二、物理致癌因素
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+***** 一、化学物质
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+**** 第十二节 肿瘤与遗传
+:PROPERTIES:
+:NOTER_PAGE: 163
+:END:
+***** 一、空气污染
+:PROPERTIES:
+:NOTER_PAGE: 165
+:END:
+**** 第一节 环境污染和职业暴露
+:PROPERTIES:
+:NOTER_PAGE: 165
+:END:
+*** 第七章 环境和营养性疾病
+:PROPERTIES:
+:NOTER_PAGE: 165
+:END:
+***** 二、酒精中毒
+:PROPERTIES:
+:NOTER_PAGE: 169
+:END:
+***** 一、吸烟
+:PROPERTIES:
+:NOTER_PAGE: 169
+:END:
+**** 第二节 个人暴露——成瘾及其相关疾病
+:PROPERTIES:
+:NOTER_PAGE: 169
+:END:
+***** 四、药物滥用
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+***** 三、治疗性药物损伤
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+***** 一、肥胖症
+:PROPERTIES:
+:NOTER_PAGE: 172
+:END:
+**** 第三节 营养性疾病
+:PROPERTIES:
+:NOTER_PAGE: 172
+:END:
+***** 二、营养不良
+:PROPERTIES:
+:NOTER_PAGE: 173
+:END:
+***** 一、与遗传性疾病相关的基因异常
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+**** 第一节 遗传性疾病
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+*** 第八章 遗传性疾病和儿童疾病
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+***** 二、遗传性疾病的类型
+:PROPERTIES:
+:NOTER_PAGE: 175
+:END:
+***** 三、遗传性疾病举例
+:PROPERTIES:
+:NOTER_PAGE: 176
+:END:
+**** 第二节 儿童疾病
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+***** —、出生缺陷
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+***** 四、坏死性小肠结肠炎
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+***** 三、围产期感染
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+***** 二、早产和胎儿生长受限
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+***** 五、儿童肿瘤和肿瘤样病变
+:PROPERTIES:
+:NOTER_PAGE: 183
+:END:
+**** 第一节 动脉粥样硬化
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+*** 第九章 心血管系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 184
+:END:
+***** —、病因和发病机制
+:PROPERTIES:
+:NOTER_PAGE: 185
+:END:
+***** 二、病理变化
+:PROPERTIES:
+:NOTER_PAGE: 187
+:END:
+**** 第二节 高血压病
+:PROPERTIES:
+:NOTER_PAGE: 192
+:END:
+***** 一、病因和发病机制
+:PROPERTIES:
+:NOTER_PAGE: 193
+:END:
+***** 二、类型和病理变化
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+**** 第三节 动脉瘤
+:PROPERTIES:
+:NOTER_PAGE: 197
+:END:
+***** 二、基本病理变化
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+***** 一、病因和发病机制
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+**** 第四节 风湿病
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+***** 二、风湿病的各器官病变
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+***** 一、病因和发病机制
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** 第五节 感染性心内膜炎
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** 第六节 心瓣膜病
+:PROPERTIES:
+:NOTER_PAGE: 202
+:END:
+***** 二、病理变化及临床病理联系
+:PROPERTIES:
+:NOTER_PAGE: 202
+:END:
+***** 二、二尖瓣关闭不全
+:PROPERTIES:
+:NOTER_PAGE: 203
+:END:
+***** 一、二尖瓣狭窄
+:PROPERTIES:
+:NOTER_PAGE: 203
+:END:
+***** ―、扩张型心肌病
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+**** 第七节 心肌病
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+***** 四、主动脉瓣关闭不全
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+***** 三、主动脉瓣狭窄
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+***** 四、致心律失常性右室心肌病
+:PROPERTIES:
+:NOTER_PAGE: 205
+:END:
+***** 三、限制型心肌病
+:PROPERTIES:
+:NOTER_PAGE: 205
+:END:
+***** 二、肥厚型心肌病
+:PROPERTIES:
+:NOTER_PAGE: 205
+:END:
+***** 五、特异性心肌病
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+***** 一、病毒性心肌炎
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+**** 第八节 心肌炎
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+***** 一、急性心包炎
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** 第九节 心包炎
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+***** 四、免疫反应性心肌炎
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+***** 三、孤立性心肌炎
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+***** —、细囷性1、肌炎
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** 第十节 先天性心脏病
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+***** 二、慢性心包炎
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+***** 二、室间隔缺损
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+***** 一、房间隔缺损
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+***** 六、大动脉移位
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+***** 五、主动脉缩窄
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+***** 四、动脉导管未闭
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+***** 三、法洛四联症
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+*** 第十章 呼吸系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 213
+:END:
+***** 一、鼻炎、鼻窦炎
+:PROPERTIES:
+:NOTER_PAGE: 214
+:END:
+**** 第一节 呼吸道和肺炎症性疾病
+:PROPERTIES:
+:NOTER_PAGE: 214
+:END:
+***** 三、急性气管支气管、细支气管炎
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+***** 二、咽炎、喉炎
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+***** 四、肺炎
+:PROPERTIES:
+:NOTER_PAGE: 216
+:END:
+***** 一、慢性支气管炎
+:PROPERTIES:
+:NOTER_PAGE: 221
+:END:
+**** 第二节 慢性阻塞性肺疾病
+:PROPERTIES:
+:NOTER_PAGE: 221
+:END:
+***** 二、支气管哮喘
+:PROPERTIES:
+:NOTER_PAGE: 222
+:END:
+***** 三、支气管扩张症
+:PROPERTIES:
+:NOTER_PAGE: 223
+:END:
+***** 四、肺气肿
+:PROPERTIES:
+:NOTER_PAGE: 224
+:END:
+***** 一、肺硅沉着病
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+**** 第三节 肺尘埃沉着病
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+***** 二、肺石棉沉着病
+:PROPERTIES:
+:NOTER_PAGE: 228
+:END:
+**** 第四节 慢性肺源性心脏病
+:PROPERTIES:
+:NOTER_PAGE: 229
+:END:
+***** 二、新生儿呼吸窘迫综合征
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+***** 一、成人呼吸窘迫综合征
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+**** 第五节 呼吸窘迫综合征
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+***** 一、鼻咽癌
+:PROPERTIES:
+:NOTER_PAGE: 231
+:END:
+**** 第六节 呼吸系统常见肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 231
+:END:
+***** 三、肺癌
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+***** 二、喉癌
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+***** 二、胸膜间皮瘤
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+***** 一、胸膜炎
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+**** 第七节 胸膜疾病
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+***** 一、食管的炎症
+:PROPERTIES:
+:NOTER_PAGE: 239
+:END:
+**** 第一节 食管的炎症、狭窄与扩张
+:PROPERTIES:
+:NOTER_PAGE: 239
+:END:
+*** 第十一章 消化系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 239
+:END:
+**** 第二节 胄炎
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+***** 二、食管狭窄、扩张与贲门弛缓不能
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+***** 二、慢性胃炎
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+***** 一、急性胃炎
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+**** 第三节 消化性溃疡病
+:PROPERTIES:
+:NOTER_PAGE: 242
+:END:
+***** 三、特殊类型胃炎
+:PROPERTIES:
+:NOTER_PAGE: 242
+:END:
+**** 第四节 阑尾炎
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+***** 一、炎症性肠病
+:PROPERTIES:
+:NOTER_PAGE: 246
+:END:
+**** 第五节 非特异性肠炎
+:PROPERTIES:
+:NOTER_PAGE: 246
+:END:
+***** 三、菌群失调性肠炎
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+***** 二、急性出血性坏死性肠炎
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+**** 第六节 病毒性肝炎
+:PROPERTIES:
+:NOTER_PAGE: 248
+:END:
+***** 一、酒精性肝病
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+**** 第七节 酒精性肝病和非酒精性脂肪肝病
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+**** 第八节 肝硬化
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+***** 二、非酒精性脂肪肝病
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+***** 一、胆囊炎
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+**** 第十节 胆囊炎与胆石症
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+***** 二、肝循环障碍
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+***** 一、肝代谢性疾病
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+**** 第九节 肝代谢性疾病与循环障碍
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+***** 一、急性胰腺炎
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+**** 第十一节 胰腺炎
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+***** 二、胆石症
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+***** 一、食管癌
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+**** 第十二节 消化系统常见肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+***** 二、慢性胰腺炎
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+***** 二、胃癌
+:PROPERTIES:
+:NOTER_PAGE: 260
+:END:
+***** 三、大肠癌
+:PROPERTIES:
+:NOTER_PAGE: 262
+:END:
+***** 四、原发性肝癌
+:PROPERTIES:
+:NOTER_PAGE: 266
+:END:
+***** 六、胆道肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+***** 五、胰腺癌
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+***** 七、胃肠间质瘤
+:PROPERTIES:
+:NOTER_PAGE: 268
+:END:
+***** 一、反应性淋巴结炎
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+**** 第一节 淋巴结的良性病变
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+*** 第十二章 淋巴造血系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+***** 二、特异性淋巴结炎
+:PROPERTIES:
+:NOTER_PAGE: 270
+:END:
+***** —、概述
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+**** 第二节 淋巴组织肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+***** 二、非霍奇金淋巴瘤
+:PROPERTIES:
+:NOTER_PAGE: 275
+:END:
+***** 三、霍奇金淋巴瘤
+:PROPERTIES:
+:NOTER_PAGE: 282
+:END:
+**** 第三节 髓系肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 285
+:END:
+***** ―、急性髓系白血病
+:PROPERTIES:
+:NOTER_PAGE: 286
+:END:
+***** 二、骨髓增殖性肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 288
+:END:
+***** Langerhans细胞组织细胞增生症
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+**** 第四节 组织细胞和树突状细胞肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+***** 附：类白血病反应
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+**** 第一节 肾小球疾病
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+*** 第十三章 泌尿系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+***** 一、病因与发病机制
+:PROPERTIES:
+:NOTER_PAGE: 293
+:END:
+***** 二、基本病理变化
+:PROPERTIES:
+:NOTER_PAGE: 295
+:END:
+***** 三、临床与病理联系
+:PROPERTIES:
+:NOTER_PAGE: 297
+:END:
+***** 四、类型与病理特点
+:PROPERTIES:
+:NOTER_PAGE: 298
+:END:
+***** 一、肾盂肾炎
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+**** 第二节 肾小管间质性肾炎
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+***** 二、药物和中毒引起的肾小管间质性肾炎
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+***** 一、肾细胞癌
+:PROPERTIES:
+:NOTER_PAGE: 308
+:END:
+**** 第三节 肾和膀胱常见肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 308
+:END:
+***** 二、肾母细胞瘤
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+***** 三、尿路与膀肮上皮肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+***** 二、子宫颈上皮内瘤变和子宫颈癌
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+***** 一、慢性子宫颈炎
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+**** 第一节 子宫颈疾病
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+*** 第十四章 生殖系统和乳腺疾病
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+***** 一、子宫内膜异位症
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+**** 第二节 子宫体疾病
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+***** 三、子宫肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+***** 二、子宫内膜增生症
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+***** 一、葡萄胎
+:PROPERTIES:
+:NOTER_PAGE: 317
+:END:
+**** 第三节 滋养层细胞疾病
+:PROPERTIES:
+:NOTER_PAGE: 317
+:END:
+***** 三、绒毛膜癌
+:PROPERTIES:
+:NOTER_PAGE: 318
+:END:
+***** 二、侵蚀性葡萄胎
+:PROPERTIES:
+:NOTER_PAGE: 318
+:END:
+***** 四、胎盘部位滋养细胞肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 319
+:END:
+***** 一、卵巢上皮性肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+**** 第四节 卵巢肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+***** 三、卵巢生殖细胞肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 322
+:END:
+***** 二、卵巢性索间质肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 322
+:END:
+***** 二、前列腺癌
+:PROPERTIES:
+:NOTER_PAGE: 324
+:END:
+***** 一、前列腺增生症
+:PROPERTIES:
+:NOTER_PAGE: 324
+:END:
+**** 第五节 前列腺疾病
+:PROPERTIES:
+:NOTER_PAGE: 324
+:END:
+***** 一、乳腺增生性病变
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+**** 第七节 乳腺疾病
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+***** 二、阴茎肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+***** 一、睾丸肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+**** 第六节 睾丸和阴茎肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+***** 三、乳腺癌
+:PROPERTIES:
+:NOTER_PAGE: 326
+:END:
+***** 二、乳腺纤维腺瘤
+:PROPERTIES:
+:NOTER_PAGE: 326
+:END:
+***** 四、男性乳腺发育
+:PROPERTIES:
+:NOTER_PAGE: 329
+:END:
+***** 一、下丘脑、垂体后叶疾病
+:PROPERTIES:
+:NOTER_PAGE: 330
+:END:
+**** 第一节 垂体疾病
+:PROPERTIES:
+:NOTER_PAGE: 330
+:END:
+*** 第十五章 内分泌系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 330
+:END:
+***** 二、垂体前叶功能亢进与低下
+:PROPERTIES:
+:NOTER_PAGE: 331
+:END:
+***** 三、垂体肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 332
+:END:
+***** 一、弥漫性非毒性甲状腺肿
+:PROPERTIES:
+:NOTER_PAGE: 333
+:END:
+**** 第二节 甲状腺疾病
+:PROPERTIES:
+:NOTER_PAGE: 333
+:END:
+***** 三、甲状腺功能低下
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+***** 二、弥漫性毒性甲状腺肿
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+***** 四、甲状腺炎
+:PROPERTIES:
+:NOTER_PAGE: 336
+:END:
+***** 五、甲状腺肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 337
+:END:
+***** 二、肾上腺皮质功能低下
+:PROPERTIES:
+:NOTER_PAGE: 339
+:END:
+***** 一、肾上腺皮质功能宄进
+:PROPERTIES:
+:NOTER_PAGE: 339
+:END:
+**** 第三节 肾上腺疾病
+:PROPERTIES:
+:NOTER_PAGE: 339
+:END:
+**** 第四节 胰岛疾病
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+***** 三、肾上腺肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+***** 一、糖尿病
+:PROPERTIES:
+:NOTER_PAGE: 341
+:END:
+***** 一、弥散性神经内分泌系统的概述
+:PROPERTIES:
+:NOTER_PAGE: 342
+:END:
+**** 第五节 弥散性神经内分泌肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 342
+:END:
+***** 二、胰岛细胞瘤
+:PROPERTIES:
+:NOTER_PAGE: 342
+:END:
+***** 二、DNES肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 343
+:END:
+***** 一、神经元及其神经纤维的基本病变
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+**** 第一节 神经系统疾病的基本病变
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+*** 第十六章 神经系统疾病
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+***** 二、神经胶质细胞的基本病变
+:PROPERTIES:
+:NOTER_PAGE: 347
+:END:
+**** 第二节 中枢神经系统疾病常见并发症
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** 三、脑积水
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+***** 二、脑水肿
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+***** 一、颜内压升高及脑痛形成
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+***** 一、细菌性疾病
+:PROPERTIES:
+:NOTER_PAGE: 350
+:END:
+**** 第三节 中枢神经系统感染性疾病
+:PROPERTIES:
+:NOTER_PAGE: 350
+:END:
+***** 二、病毒性疾病
+:PROPERTIES:
+:NOTER_PAGE: 352
+:END:
+**** 第四节 神经系统变性疾病
+:PROPERTIES:
+:NOTER_PAGE: 354
+:END:
+***** 二、海绵状細病
+:PROPERTIES:
+:NOTER_PAGE: 354
+:END:
+***** 一、阿尔茨海默病
+:PROPERTIES:
+:NOTER_PAGE: 355
+:END:
+**** 第五节 缺氧与脑血管病
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** 二、Parkinson病
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** 二、阻塞性脑血管病
+:PROPERTIES:
+:NOTER_PAGE: 357
+:END:
+***** 一、缺血性脑病
+:PROPERTIES:
+:NOTER_PAGE: 357
+:END:
+***** 一、多发性硬化症
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+**** 第六节 脱髓鞘疾病
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+***** 三、脑出血
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+***** 三、急性坏死出血性白质脑炎
+:PROPERTIES:
+:NOTER_PAGE: 359
+:END:
+***** 二、急性播散性脑脊髓炎
+:PROPERTIES:
+:NOTER_PAGE: 359
+:END:
+***** 一、中枢神经系统肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+**** 第七节 神经系统肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+***** 二、外周神经肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 364
+:END:
+***** 三、转移性肿瘤
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+***** 一、病原微生物的传播途径及在体内的播散
+:PROPERTIES:
+:NOTER_PAGE: 366
+:END:
+**** 第一节 感染性疾病概述
+:PROPERTIES:
+:NOTER_PAGE: 366
+:END:
+*** 第十七章 感染性疾病
+:PROPERTIES:
+:NOTER_PAGE: 366
+:END:
+***** 二、宿主和病原微生物之间的相互作用
+:PROPERTIES:
+:NOTER_PAGE: 368
+:END:
+***** 三、病原微生物的致病机制
+:PROPERTIES:
+:NOTER_PAGE: 369
+:END:
+***** —、概述
+:PROPERTIES:
+:NOTER_PAGE: 370
+:END:
+**** 第二节 结核病
+:PROPERTIES:
+:NOTER_PAGE: 370
+:END:
+***** 四、感染性疾病的类型
+:PROPERTIES:
+:NOTER_PAGE: 370
+:END:
+***** 二、肺结核病
+:PROPERTIES:
+:NOTER_PAGE: 372
+:END:
+***** 三、肺外结核病
+:PROPERTIES:
+:NOTER_PAGE: 376
+:END:
+**** 第三节 伤寒
+:PROPERTIES:
+:NOTER_PAGE: 377
+:END:
+**** 第四节 细菌性痢疾
+:PROPERTIES:
+:NOTER_PAGE: 379
+:END:
+**** 第六节 流行性出血热
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+**** 第五节 钩端螺旋体病
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+***** 二、尖锐湿疣
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+***** 一、淋病
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+**** 第七节 性传播性疾病
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+***** 三、梅毒
+:PROPERTIES:
+:NOTER_PAGE: 382
+:END:
+**** 第八节 深部真菌病
+:PROPERTIES:
+:NOTER_PAGE: 383
+:END:
+***** 一、阿米巴病
+:PROPERTIES:
+:NOTER_PAGE: 384
+:END:
+**** 第九节 寄生虫病
+:PROPERTIES:
+:NOTER_PAGE: 384
+:END:
+***** 二、血吸虫病
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+***** 三、棘球蚴病
+:PROPERTIES:
+:NOTER_PAGE: 389
+:END:
+**** 第一节 大体、组织和细胞病理学技术
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+*** 第十八章 疾病的病理学诊断和研究方法
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+**** 第二节 组织化学与免疫组织（细胞）化学技术
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+**** 第三节 电子显微镜技术
+:PROPERTIES:
+:NOTER_PAGE: 393
+:END:
+**** 第四节 显微切割技术
+:PROPERTIES:
+:NOTER_PAGE: 394
+:END:
+**** 第五节 激光扫描共聚焦显微技术
+:PROPERTIES:
+:NOTER_PAGE: 395
+:END:
+**** 第六节 核酸原位杂交技术
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+**** 第八节 流式细胞术
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** 第七节 原位聚合酶链反应技术
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** 第九节 图像采集和分析技术
+:PROPERTIES:
+:NOTER_PAGE: 398
+:END:
+**** 第十节 比较基因组杂交技术
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+**** 第十一节 生物芯片技术
+:PROPERTIES:
+:NOTER_PAGE: 400
+:END:
+**** 第十二节 第二代测序技术
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+**** 第十四节 人工智能技术
+:PROPERTIES:
+:NOTER_PAGE: 402
+:END:
+**** 第十三节 生物信息学技术
+:PROPERTIES:
+:NOTER_PAGE: 402
+:END:
+*** 推荐阅读
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+*** 中英文名词对照索引
+:PROPERTIES:
+:NOTER_PAGE: 404
+:END:
