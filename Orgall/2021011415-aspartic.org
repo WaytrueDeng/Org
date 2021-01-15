@@ -1,0 +1,14 @@
+#+title: aspartic
+#+roam_tags:英语单词
+
+* 定义
+  
+aspartic [nil]
+
+* Basic Explains
+- adj. 天冬氨酸的
+
+* Web References
+- aspartic :: 天冬氨酸; 天门冬
+- aspartic semialdehyde :: 天冬氨酸半醛
+- aspartic deaminase :: 天门冬氨脱氨酶

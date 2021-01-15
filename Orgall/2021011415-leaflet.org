@@ -1,0 +1,14 @@
+#+title: leaflet
+#+roam_tags:英语单词
+
+* 定义
+  
+leaflet [ˈliːflət]
+
+* Basic Explains
+- n. 小叶；传单
+
+* Web References
+- leaflet :: 传单; 说明书; 小叶
+- septal leaflet :: 以及三尖瓣隔叶; 瓣隔叶
+- Programme Leaflet :: 课程简章

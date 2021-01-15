@@ -1,0 +1,14 @@
+#+title: phagocytes
+#+roam_tags:英语单词
+
+* 定义
+  
+phagocytes [nil]
+
+* Basic Explains
+- n. [细胞] 吞噬细胞（phagocyte的复数形式）
+
+* Web References
+- phagocytes :: 吞噬细胞
+- phagocytes fixed :: 固定噬细胞
+- kidney phagocytes :: 肾脏吞噬细胞

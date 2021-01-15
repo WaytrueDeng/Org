@@ -1,0 +1,16 @@
+#+title: cascade
+#+roam_tags:英语单词
+
+* 定义
+  
+cascade [kæˈskeɪd]
+
+* Basic Explains
+- n. 小瀑布，瀑布状物；串联
+- vi. 像瀑布般大量倾泻下来
+- vi. 像瀑布般悬挂着
+
+* Web References
+- cascade :: 级联; 小瀑布; 瀑布
+- cascade control :: 串级控制; 级联控制; 梯列控制
+- cascade effect :: 瀑布效应; 级联效应; 翼列效应

@@ -1,0 +1,14 @@
+#+title: acrobat
+#+roam_tags:英语单词
+
+* 定义
+  
+acrobat [ˈækrəbæt]
+
+* Basic Explains
+- n. 杂技演员，特技演员；随机应变者；翻云覆雨者，善变者
+
+* Web References
+- acrobat :: 杂技演员; 特技演员; 翻译软体
+- 奥多比Acrobat :: Adobe Acrobat 9 Professional; Adobe Acrobat 9 Pro
+- Acrobat Distiller :: 虚拟打印机; 可以把

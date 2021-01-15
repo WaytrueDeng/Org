@@ -1,0 +1,16 @@
+#+title: insul
+#+roam_tags:英语单词
+
+* 定义
+  
+insul [nil]
+
+* Basic Explains
+- 隔离
+- 绝缘
+- 隔热（insulation）
+
+* Web References
+- insul :: 绝缘; 保温材料; 绝缘材料
+- Reinforced Insul :: 增强绝缘
+- fill insul :: 填塞绝缘

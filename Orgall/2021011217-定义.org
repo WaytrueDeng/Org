@@ -1,0 +1,14 @@
+t#+title: lysed
+#+roam_tags:英语单词
+
+* 定义
+  
+lysed [nil]
+
+* Basic Explains
+- v. （使）细胞溶解（lyse 的过去式及过去分词）
+
+* Web References
+- lysed :: 细胞溶解
+- lysed gradually :: 逐渐溶解
+- completely lysed :: 全部溶解

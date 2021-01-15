@@ -1,0 +1,15 @@
+#+title: flips
+#+roam_tags:英语单词
+
+* 定义
+  
+flips [nil]
+
+* Basic Explains
+- n. 菲力普类（酒的一种）
+- vt. 掷；弹；轻击（flip的第三人称单数）
+
+* Web References
+- Flips :: 菲力普类; 变图; 点击量
+- Flips Forward :: 前滚翻
+- tire flips :: 轮胎翻转

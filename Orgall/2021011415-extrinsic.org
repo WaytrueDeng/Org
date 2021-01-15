@@ -1,0 +1,14 @@
+#+title: extrinsic
+#+roam_tags:英语单词
+
+* 定义
+  
+extrinsic [eksˈtrɪnzɪk; eksˈtrɪnsɪk]
+
+* Basic Explains
+- adj. 外在的；外来的；非固有的
+
+* Web References
+- extrinsic :: 非固有的; 非固有的
+- Extrinsic Rewards :: 外部奖励; 外部报酬; 外在的报酬
+- extrinsic semicon :: 非本征半导体; 非本征半导体应变计

@@ -1,0 +1,16 @@
+#+title: rime
+#+roam_tags:英语单词
+
+* 定义
+  
+rime [raɪm]
+
+* Basic Explains
+- n. [水文] 雾凇；白霜；结晶
+- vt. 使蒙霜
+- vi. 蒙上白霜
+
+* Web References
+- rime :: 雾凇; 华姿伊; 结晶
+- rime dictionary :: 韵书
+- rime fog :: 霜雾; 白雾; 淞雾

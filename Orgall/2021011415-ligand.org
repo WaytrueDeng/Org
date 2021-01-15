@@ -1,0 +1,14 @@
+#+title: ligand
+#+roam_tags:英语单词
+
+* 定义
+  
+ligand [ˈlɪg(ə)nd]
+
+* Basic Explains
+- n. （生化）配位体，配基
+
+* Web References
+- ligand :: 配体; 配位体; 向心配合体
+- organic ligand :: 有机配位体; 有机配体
+- monodentate ligand :: 单齿配体; 单齿配位体; 翻译

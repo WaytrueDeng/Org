@@ -1,0 +1,14 @@
+#+title: hypothesized
+#+roam_tags:英语单词
+
+* 定义
+  
+hypothesized [nil]
+
+* Basic Explains
+- v. 假定，假设，猜测（hypothesize的过去式）
+
+* Web References
+- hypothesized equation :: 假设方程式
+- Hypothesized Commodity :: 虚拟商品
+- hypothesized variable :: 虚拟变量

@@ -1,0 +1,12 @@
+#+title: Pyroptosis
+#+roam_tags:英语单词
+
+* 定义
+  
+pyroptosis [nil]
+
+* Basic Explains
+- 细胞焦亡
+
+* Web References
+- pyroptosis :: 细胞焦亡; 炎症坏死

@@ -1,0 +1,14 @@
+#+title: Clearance
+#+roam_tags:英语单词
+
+* 定义
+  
+clearance [ˈklɪərəns]
+
+* Basic Explains
+- n. 清除；（货物的）清仓甩卖；空隙；准许；（飞机起降的）许可；（支票）过户，结算；（足球比赛中）解围
+
+* Web References
+- clearance :: 间隙; 净空; 清仓
+- bottom clearance :: 顶隙; 径向间隙; 底隙
+- Limiting clearance :: 极限间隙; 加速磨损期极限间隙

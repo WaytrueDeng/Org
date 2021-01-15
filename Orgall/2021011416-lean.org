@@ -1,0 +1,17 @@
+#+title: lean
+#+roam_tags:英语单词
+
+* 定义
+  
+lean [liːn]
+
+* Basic Explains
+- v. 倾斜身体；倾斜；倚靠；（使）斜靠
+- adj. 瘦且健康的；收益少的；贫乏的；（企业或机构）精简的；（混合汽化燃料）空气占比高的
+- n. 瘦肉；倾斜；倾斜度
+- n. （Lean）（丹）利恩（人名）
+
+* Web References
+- lean :: 倾斜; 精益; 精益生产
+- lean coal :: 贫煤; 瘦煤; 低级煤
+- Lean Tools :: 精益工具; 精益工具培训; 精实工具

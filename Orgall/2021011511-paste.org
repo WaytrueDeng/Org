@@ -1,0 +1,16 @@
+#+title: paste
+#+roam_tags:英语单词
+
+* 定义
+  
+paste [peɪst]
+
+* Basic Explains
+- n. 糨糊；（制陶、瓷器用的）湿黏土；（ 制作人造宝石的 ）铅质玻璃；面团；肉（或鱼等）酱（作涂抹料或烹饪用）
+- v. （用浆糊）涂，敷；粘合；拼贴；（计算机）粘贴
+- n. (Paste) （印度）帕斯泰（人名）
+
+* Web References
+- Paste :: 粘贴; 浆糊; 糊剂
+- shrimp paste :: 虾酱; 虾膏; 塔拉煎
+- Paste Keys :: 粘贴关键帧; 粘贴关键点; 贴上关键帧

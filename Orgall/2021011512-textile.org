@@ -1,0 +1,15 @@
+#+title: textile
+#+roam_tags:英语单词
+
+* 定义
+  
+textile [ˈtekstaɪl]
+
+* Basic Explains
+- n. 纺织品，织物
+- adj. 纺织的
+
+* Web References
+- Textile :: 纺织品; 纺织; 织物
+- Textile Design :: 纺织品设计; 织物图案设计; 织物设计
+- textile printing :: 织物印花; 织物印染; 印染

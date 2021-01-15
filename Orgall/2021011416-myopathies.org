@@ -1,0 +1,14 @@
+#+title: myopathies
+#+roam_tags:英语单词
+
+* 定义
+  
+myopathies [nil]
+
+* Basic Explains
+- n. 肌肉疾病（myopathy的复数）
+
+* Web References
+- Myopathies :: 肌肉疾病; 肌肉病变
+- myotonic myopathies :: 肌强直性疾病
+- Metabolic myopathies :: 代谢性肌病; 第三节代谢性肌病

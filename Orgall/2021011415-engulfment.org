@@ -1,0 +1,15 @@
+#+title: engulfment
+#+roam_tags:英语单词
+
+* 定义
+  
+engulfment [nil]
+
+* Basic Explains
+- 吞食
+- 淹没
+
+* Web References
+- engulfment :: 坍陷作用; 吞入; 吞噬
+- engulfment model :: 卷吸模型
+- volcanic engulfment :: 火山陷没

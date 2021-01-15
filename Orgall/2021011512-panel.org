@@ -1,0 +1,16 @@
+#+title: panel
+#+roam_tags:英语单词
+
+* 定义
+  
+panel [ˈpænl]
+
+* Basic Explains
+- n. 仪表板；嵌板；座谈小组，全体陪审员
+- vt. 嵌镶板
+- n. (Panel) 帕内尔（人名）
+
+* Web References
+- panel :: 板; 平板; 专家组
+- Panel discussion :: 小组讨论; 分组讨论; 小组探讨
+- bezel panel :: 面板

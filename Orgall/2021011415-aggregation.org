@@ -1,0 +1,14 @@
+#+title: aggregation
+#+roam_tags:英语单词
+
+* 定义
+  
+aggregation [ˌæɡrɪˈɡeɪʃn]
+
+* Basic Explains
+- n. [地质][数] 聚合，聚集；聚集体，集合体
+
+* Web References
+- aggregation :: 聚合; 聚集; 聚集性
+- Aggregation Theory :: 聚合理论; 集合功能论; 合理论
+- aggregation pipeline :: 聚合管道

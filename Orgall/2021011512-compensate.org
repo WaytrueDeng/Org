@@ -1,0 +1,15 @@
+#+title: compensate
+#+roam_tags:英语单词
+
+* 定义
+  
+compensate [ˈkɒmpenseɪt]
+
+* Basic Explains
+- vt. 补偿，赔偿；付报酬
+- vi. 补偿，赔偿；抵消
+
+* Web References
+- Compensate :: 补偿; 赔偿; 偿还
+- compensate algorithm :: 补偿算法
+- compensate e :: 补偿; 赔偿; 酬报

@@ -1,0 +1,15 @@
+#+title: lambs
+#+roam_tags:英语单词
+
+* 定义
+  
+lambs [nil]
+
+* Basic Explains
+- n. 小羊（lamb的复数形式）；像羔羊般温顺的人
+- v. 生小羊（lamb的三单形式）
+
+* Web References
+- lambs :: 沉默的羔羊; 羔羊; 屠宰小羊
+- suckling lambs :: 哺乳羔羊
+- fuzz lambs :: 茸毛羔

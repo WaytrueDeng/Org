@@ -1,0 +1,16 @@
+#+title: pane
+#+roam_tags:英语单词
+
+* 定义
+  
+pane [peɪn]
+
+* Basic Explains
+- n. 窗格；边；面；窗格玻璃；嵌板
+- vt. 装窗玻璃于；镶嵌板于
+- n. (Pane)人名；(老)班；(英)潘恩；(德、西、意、塞、印尼)帕内
+
+* Web References
+- pane :: 窗格; 窗格玻璃; 窗玻璃
+- content pane :: 内容面板; 内容窗格; 内容窗口
+- diagram pane :: 关系图窗格

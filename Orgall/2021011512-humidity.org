@@ -1,0 +1,14 @@
+#+title: humidity
+#+roam_tags:英语单词
+
+* 定义
+  
+humidity [hjuːˈmɪdəti]
+
+* Basic Explains
+- n. [气象] 湿度；湿气
+
+* Web References
+- humidity :: 湿度; 潮湿; 湿度
+- Working humidity :: 工作湿度; 相对湿度; 适应湿度
+- Storage Humidity :: 存储湿度; 储存湿度; 贮藏湿度

@@ -1,0 +1,15 @@
+#+title: intersect
+#+roam_tags:英语单词
+
+* 定义
+  
+intersect [ˌɪntəˈsekt]
+
+* Basic Explains
+- vt. 横断，横切；贯穿
+- vi. 相交，交叉
+
+* Web References
+- Intersect :: 相交; 交集; 交集运算
+- intersect peneplain :: 交切准平原
+- Intersect Tool :: 交集工具

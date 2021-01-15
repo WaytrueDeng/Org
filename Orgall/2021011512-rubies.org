@@ -1,0 +1,15 @@
+#+title: rubies
+#+roam_tags:英语单词
+
+* 定义
+  
+rubies [nil]
+
+* Basic Explains
+- n. 红宝石（ruby的复数形式）
+- n. (Rubies)人名；(西)鲁维斯
+
+* Web References
+- Rubies :: 红宝石; 红宝石系列; 安若儿
+- Rubies Costume :: 红宝石服装
+- Brazilian Rubies :: 巴西红宝石

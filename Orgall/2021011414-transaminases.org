@@ -1,0 +1,13 @@
+#+title: transaminases
+#+roam_tags:英语单词
+
+* 定义
+  
+transaminase [træn'zæmɪneɪz; trɑːn-; -'sæ-]
+
+* Basic Explains
+- n. 转氨酶，氨基转移酶（等于aminotransferase）
+
+* Web References
+- Transaminases :: 转氨酶类; 转氨酶
+- serum transaminases :: 移酵素

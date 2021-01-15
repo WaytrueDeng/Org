@@ -1,0 +1,15 @@
+#+title: degrade
+#+roam_tags:英语单词
+
+* 定义
+  
+degrade [dɪˈɡreɪd]
+
+* Basic Explains
+- vt. 贬低；使……丢脸；使……降级；使……降解
+- vi. 降级，降低；退化
+
+* Web References
+- degrade :: 降级; 降低身份; 使降级
+- degrade performance :: 降低性能; 降低机能; 低落机能
+- degrade sb :: 使人丢脸
