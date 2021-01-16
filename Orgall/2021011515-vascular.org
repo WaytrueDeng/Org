@@ -1,0 +1,14 @@
+#+title: vascular
+#+roam_tags:英语单词
+
+* 定义
+  
+vascular [ˈvæskjələ(r)]
+
+* Basic Explains
+- adj. [生物] 血管的
+
+* Web References
+- vascular :: 血管的; 脉管的; 维管的
+- vascular tissue :: 维管组织; 脉管组织; 血管组织
+- vascular resistance :: 血管阻力

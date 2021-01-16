@@ -1,0 +1,14 @@
+#+title: presence
+#+roam_tags:英语单词
+
+* 定义
+  
+presence [ˈprezns]
+
+* Basic Explains
+- n. 存在；出席；参加；风度；仪态
+
+* Web References
+- Presence :: 存在; 出席; 到场
+- Internet presence :: 网上广告; 网上告白; 网路网站
+- presence bit :: 存在位; 呈现位; 存在位英语

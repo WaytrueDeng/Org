@@ -63,10 +63,14 @@
 - [[file:2021011512-stern.org][stern]] 严厉的,严峻的,苛刻的,坚决的
 - coinage
 - [[file:2021011512-cozy.org][cozy]] [[file:2021011512-den.org][den]] 贼窝
-- [[roam:brewery]] 啤酒厂 brew
-- [[roam:disillusion]] 幻灭,给....泼冷水 illusion 光明,幻觉
+- [[file:2021011512-brewery.org][brewery]] 啤酒厂 brew
+- [[file:2021011512-disillusion.org][disillusion]] 幻灭,给....泼冷水 illusion 光明,幻觉
 - [[file:2021011512-acrobat.org][acrobat]] 杂技演员
 - [[file:2021011512-chauffeur.org][chauffeur]] 司机,开车,运输
 - worship 崇拜,爱戴
 - canal 运河
 - enterprise enter 进入 ,prise 拿住,抓住 entrepreneur
+
+* [[file:Robbins Basic Pathology 10th Edition 2017.org][Robbins Basic Pathology 10th Edition 2017]]
+- [[file:2021011515-striated.org][striated]] 条纹的,联想到斑马线,条纹
+- 

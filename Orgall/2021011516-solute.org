@@ -1,0 +1,15 @@
+#+title: solute
+#+roam_tags:英语单词
+
+* 定义
+  
+solute ['sɒljuːt; sɒ'ljuːt]
+
+* Basic Explains
+- n. [化学] 溶质；[化学] 溶解物
+- adj. 溶解的
+
+* Web References
+- solute :: 溶质; 溶解物; 溶解
+- solute distribution :: 溶质分布
+- solute carrier :: 溶质转运蛋白; 等可溶性物质载体; 可溶性物质载体

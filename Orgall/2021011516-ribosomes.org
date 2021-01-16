@@ -1,0 +1,14 @@
+#+title: ribosomes
+#+roam_tags:英语单词
+
+* 定义
+  
+ribosomes [nil]
+
+* Basic Explains
+- n. [细胞][生化] 核糖体（ribosome的复数形式）
+
+* Web References
+- Ribosomes :: 核糖体; 内质网
+- ribosomes s :: 核糖体
+- maternal ribosomes :: 母体核糖体

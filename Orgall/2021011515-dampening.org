@@ -1,0 +1,15 @@
+#+title: dampening
+#+roam_tags:英语单词
+
+* 定义
+  
+dampening ['dæmpəniŋ]
+
+* Basic Explains
+- v. 弄湿；抑制（感情、反应等）；降低（声源）的音；控制（运动）（dampen 的现在分词）
+- n. 回潮，湿润
+
+* Web References
+- dampening :: 润版; 润湿; 阻尼
+- dampening effect :: 阻尼效应; 削弱性效应; 减震效应
+- dampening system :: 润湿装置; 湿润装置; 润湿装备

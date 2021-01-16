@@ -1,0 +1,14 @@
+#+title: scaffolding
+#+roam_tags:英语单词
+
+* 定义
+  
+scaffolding [ˈskæfəldɪŋ]
+
+* Basic Explains
+- n. 脚手架；搭脚手架的材料
+
+* Web References
+- scaffolding :: 脚手架; 棚架; 鹰架
+- scaffolding instruction :: 支架式教学; 支架式教学模式; 鹰架式语言教学
+- soffit scaffolding :: 砌拱支架; 拱复架; 碗扣式脚手架

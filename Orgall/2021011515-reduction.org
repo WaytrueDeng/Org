@@ -1,0 +1,14 @@
+#+title: reduction
+#+roam_tags:英语单词
+
+* 定义
+  
+reduction [rɪˈdʌkʃn]
+
+* Basic Explains
+- n. 减少；下降；缩小；还原反应
+
+* Web References
+- reduction :: 还原; 减少; 归约
+- Data reduction :: 数据缩减; 数据压缩; 数据简化
+- Clemmensen reduction :: 克莱门森还原反应; 克莱门森还原; 克莱门森还原英语

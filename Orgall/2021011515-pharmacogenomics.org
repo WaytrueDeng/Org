@@ -1,0 +1,15 @@
+#+title: pharmacogenomics
+#+roam_tags:英语单词
+
+* 定义
+  
+pharmacogenomics [nil]
+
+* Basic Explains
+- 基因测试学
+- 药物基因组学
+
+* Web References
+- Pharmacogenomics :: 药物基因组学; 药物遗传学; 药物基因学
+- Pharmacogenomics Journal :: 药理基因体学
+- Pharmacogenomics Centre :: 药物基因体学中心

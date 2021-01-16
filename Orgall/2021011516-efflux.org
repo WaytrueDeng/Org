@@ -1,0 +1,14 @@
+#+title: efflux
+#+roam_tags:英语单词
+
+* 定义
+  
+efflux ['eflʌks]
+
+* Basic Explains
+- n. 流出；消逝；流出物；结束
+
+* Web References
+- efflux :: 流出; 外向通量; 射流
+- Efflux pump :: 外排泵; 主动外排泵; 耐药性
+- efflux angle :: 流出角; 射流角; 出口角
