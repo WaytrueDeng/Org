@@ -1,0 +1,14 @@
+#+title: glucose
+#+roam_tags:英语单词
+
+* 定义
+  
+glucose [ˈɡluːkəʊs; ˈɡluːkəʊz]
+
+* Basic Explains
+- n. 葡萄糖；葡糖（等于dextrose）
+
+* Web References
+- Glucose :: 葡萄糖; 血糖; 葡糖
+- Glucose tolerance :: 糖耐量; 葡萄糖耐量; 葡萄糖耐受性
+- Fasting Glucose :: 空腹血糖; 空腹血糖值; 血糖指数

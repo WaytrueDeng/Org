@@ -1,0 +1,16 @@
+#+title: quilt
+#+roam_tags:英语单词
+
+* 定义
+  
+quilt [kwɪlt]
+
+* Basic Explains
+- n. 被子；棉被
+- vt. 东拼西凑地编；加软衬料后缝制
+- vi. 缝被子
+
+* Web References
+- Quilt :: 被子; 棉被; 间棉
+- cotton quilt :: 棉被; 棉胎; 絮棉花的被子
+- feather quilt :: 羽绒被; 鸭绒被; 羽毛被

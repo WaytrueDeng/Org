@@ -1,0 +1,14 @@
+#+title: caval
+#+roam_tags:英语单词
+
+* 定义
+  
+caval [nil]
+
+* Basic Explains
+- 腔静脉的
+
+* Web References
+- Caval :: 腔静脉的
+- caval filter :: 静脉滤器
+- vena caval :: 腔静脉的

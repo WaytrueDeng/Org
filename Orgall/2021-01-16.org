@@ -42,7 +42,7 @@
 - [[file:2021011612-gorilla.org][gorilla]] [[file:2021011612-ape.org][ape]]
 - [[file:2020112417-crab.org][crab]] 螃蟹,蟹肉
 - [[file:2021011612-antarctic.org][antarctic]] 南极的 arctic 北极
-- eminence 卓越,高处 e for 向外, min 伸出,突出, ence 名词后缀. 向外容纳一切的
+- [[file:2021011711-eminence.org][eminence]] 卓越,高处 e for 向外, min 伸出,突出, ence 名词后缀. 向外容纳一切的
 - [[file:2021011612-fragrant.org][fragrant]]
 - dyke 水堤
 - exhale hale 呼吸

@@ -1,0 +1,14 @@
+#+title: diameter
+#+roam_tags:英语单词
+
+* 定义
+  
+diameter [daɪˈæmɪtə(r)]
+
+* Basic Explains
+- n. 直径
+
+* Web References
+- Diameter :: 直径; 径; 通径
+- outside diameter :: 外径; 外直径; 大端直径
+- inside diameter :: 内径; 内部直径; 内直径
