@@ -1,0 +1,15 @@
+#+title: decompose
+#+roam_tags:英语单词
+
+* 定义
+  
+decompose [ˌdiːkəmˈpəʊz]
+
+* Basic Explains
+- vt. 分解；使腐烂
+- vi. 分解；腐烂
+
+* Web References
+- decompose :: 分解; 腐烂; 腐败
+- decompose thermally :: 以热分解
+- decompose cholesterol :: 分解胆固醇
