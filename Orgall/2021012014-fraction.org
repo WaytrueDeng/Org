@@ -1,0 +1,14 @@
+#+title: fraction
+#+roam_tags:英语单词
+
+* 定义
+  
+fraction [ˈfrækʃn]
+
+* Basic Explains
+- n. 分数；部分；小部分；稍微
+
+* Web References
+- Fraction :: 分数; 小部分; 碎片
+- Improper fraction :: 假分数; 假分式; 可约分数
+- unit fraction :: 单位分数; 单分数; 位分
