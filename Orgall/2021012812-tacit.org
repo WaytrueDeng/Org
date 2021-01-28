@@ -1,0 +1,14 @@
+#+title: tacit
+#+roam_tags:英语单词
+
+* 定义
+  
+tacit [ˈtæsɪt]
+
+* Basic Explains
+- adj. 缄默的；不言而喻的；心照不宣的；默许的
+
+* Web References
+- Tacit :: 心照不宣; 默许的; 缄默的
+- tacit approval :: 默认; 默许; 默准
+- Tacit management :: 隐性知识

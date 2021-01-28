@@ -1,0 +1,15 @@
+#+title: inventory
+#+roam_tags:英语单词
+
+* 定义
+  
+inventory [ˈɪnvəntri]
+
+* Basic Explains
+- n. 存货，存货清单；详细目录；财产清册
+- vt. 给……开列清单
+
+* Web References
+- Inventory :: 存货; 库存; 详细目录
+- Inventory Management :: 库存管理; 存货管理; 仓储管理
+- cycle inventory :: 周期存货; 循环盘存; 周期库存
