@@ -1,0 +1,16 @@
+#+title: crop
+#+roam_tags:英语单词
+
+* 定义
+  
+crop [krɒp]
+
+* Basic Explains
+- n. 产量；农作物；庄稼；平头
+- vt. 种植；收割；修剪；剪短
+- vi. 收获
+
+* Web References
+- crop :: 农作物; 裁切; 庄稼
+- crop circle :: 麦田圈; 麦田怪圈; 麦田园
+- crop rotation :: 轮作; 轮流耕作; 轮植
