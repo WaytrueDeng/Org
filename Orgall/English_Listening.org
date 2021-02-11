@@ -1,4 +1,5 @@
 #+title: English Listening Skill
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 19-8-interview(2)
 - [[file:2020111910-disciplinary.org][disciplinary]]

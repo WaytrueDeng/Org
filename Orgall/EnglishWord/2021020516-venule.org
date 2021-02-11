@@ -1,5 +1,6 @@
 #+title: venule
 #+roam_tags:英语单词
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 定义
   

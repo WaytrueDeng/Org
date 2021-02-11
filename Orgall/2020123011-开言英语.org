@@ -1,4 +1,5 @@
 #+title: 开言英语
+#+HUGO_BASE_DIR: ~/Org/www/
 
 - [[file:2020112020-intimately.org][intimately]]
 - [[file:2020123011-heckler.org][heckler]]

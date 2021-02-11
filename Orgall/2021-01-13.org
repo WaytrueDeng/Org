@@ -1,4 +1,5 @@
 #+title: 2021-01-13
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 百词斩
 - [[file:2021011316-credulous.org][credulous]] 轻信的,因轻信而产生的

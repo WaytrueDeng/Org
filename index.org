@@ -1,0 +1,4 @@
+#+title: index
+
+* Medic
+- [[file:Orgall/组织学.org][组织学]]

@@ -1,1 +1,2 @@
 #+title: 病理性杂音
+#+HUGO_BASE_DIR: ~/Org/www/

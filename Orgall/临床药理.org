@@ -1,4 +1,5 @@
 #+TITLE: 临床药理
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * [[file:org-roam/2020092410-药物的分布.org][药物的分布]]
 * [[file:org-roam/2020092411-药物的代谢.org][药物的代谢]]

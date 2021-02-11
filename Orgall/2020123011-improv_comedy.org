@@ -1,3 +1,4 @@
 #+title: improv comedy
+#+HUGO_BASE_DIR: ~/Org/www/
 * 定义 
 [[roam:improvisation]]

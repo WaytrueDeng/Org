@@ -1,4 +1,5 @@
 #+title: 试述心脏触及震颤的临床意义
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

@@ -1,4 +1,5 @@
 #+title: 均质体和无界面区
+#+HUGO_BASE_DIR: ~/Org/www/
 #+tags:名词解释
 
 * 定义

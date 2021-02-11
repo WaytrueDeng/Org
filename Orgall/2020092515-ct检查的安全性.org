@@ -1,4 +1,5 @@
 #+title: CT检查的安全性
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 过程十分迅速
 

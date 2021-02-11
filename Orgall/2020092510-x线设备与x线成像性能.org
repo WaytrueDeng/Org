@@ -1,4 +1,5 @@
 #+title: x线设备与x线成像性能
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 传统的x线设备
 ** 优点

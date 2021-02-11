@@ -1,4 +1,5 @@
 #+title: 影响心尖搏动强度的病理性因素有哪些
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

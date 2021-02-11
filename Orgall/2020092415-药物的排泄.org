@@ -1,4 +1,5 @@
 #+title: 药物的排泄
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 肾排泄
 ** 肾小球滤过

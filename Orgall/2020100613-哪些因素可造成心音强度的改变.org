@@ -1,4 +1,5 @@
 #+title: 哪些因素可造成心音强度的改变
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

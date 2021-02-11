@@ -1,4 +1,5 @@
 #+title: x线检查方法
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 普通检查
 ** X线摄影

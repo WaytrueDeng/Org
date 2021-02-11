@@ -1,4 +1,5 @@
 #+title: 英语
+#+HUGO_BASE_DIR: ~/Org/www/
 
 
 

@@ -1,4 +1,5 @@
 #+title: CT设备与CT成像性能
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 单层螺旋CT
 1. 检查床单向运动,球管焦点围绕轨迹旋转,形成螺旋形

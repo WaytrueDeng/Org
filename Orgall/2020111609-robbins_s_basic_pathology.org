@@ -1,4 +1,5 @@
 #+title: Robbins's Basic Pathology
+#+HUGO_BASE_DIR: ~/Org/www/
 * Outline
 :PROPERTIES:
 :NOTER_DOCUMENT: /home/waytrue/Org/Orgall/2020-11-16.org

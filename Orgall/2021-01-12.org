@@ -1,4 +1,5 @@
 #+title: 2021-01-12
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 百词斩 
 - mutton 羊肉,羊

@@ -1,4 +1,5 @@
 #+title: 2021-01-28
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 百词斩
 - convict 犯人

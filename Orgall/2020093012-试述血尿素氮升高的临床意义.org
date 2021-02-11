@@ -1,4 +1,5 @@
 #+title: 试述血尿素氮升高的临床意义
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

@@ -1,4 +1,5 @@
 #+title: 顺序进展性的一组疾病
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

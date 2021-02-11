@@ -1,4 +1,5 @@
 #+title: 呼吸功能衰竭
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:名词解释
 * 要点
 ** [[file:2020092315-脑脊液.org][脑脊液]]

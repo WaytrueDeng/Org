@@ -1,4 +1,5 @@
 #+title: X线成像的基本原理
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * X线的基本特性
 ** 穿透性

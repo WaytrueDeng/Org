@@ -1,4 +1,5 @@
 #+title: 政治
+#+HUGO_BASE_DIR: ~/Org/www/
 
 框架比目录多了逻辑!!!
 * 马原 (24分) 

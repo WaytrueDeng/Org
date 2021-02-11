@@ -1,4 +1,5 @@
 #+title: 急性呼衰
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

@@ -1,1 +1,2 @@
 #+title: The Public of Plato
+#+HUGO_BASE_DIR: ~/Org/www/

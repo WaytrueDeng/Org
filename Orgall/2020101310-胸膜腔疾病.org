@@ -1,4 +1,5 @@
 #+title: 胸膜腔疾病
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 分类
 - [[file:2020101310-气胸.org][气胸]]

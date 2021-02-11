@@ -1,4 +1,5 @@
 #+title: 肺血栓栓塞症
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:简答题
 * 症状
 1. 颈静脉忽然怒张(急性右心衰)

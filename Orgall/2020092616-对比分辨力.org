@@ -1,4 +1,5 @@
 #+title: 对比分辨力
+#+HUGO_BASE_DIR: ~/Org/www/
 #+tags:名词解释
 
 * 定义

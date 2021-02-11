@@ -1,3 +1,4 @@
 #+title: 2020-12-31
+#+HUGO_BASE_DIR: ~/Org/www/
 
 - [[file:Robbins Basic Pathology 10th Edition 2017.org][Robbins Basic Pathology 10th Edition 2017]]

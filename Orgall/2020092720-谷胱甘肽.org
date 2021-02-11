@@ -1,4 +1,5 @@
 #+title: 谷胱甘肽
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * (GSH)是由谷氨酸,半胱氨酸和甘氨酸组成的三肽
 

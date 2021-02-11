@@ -1,4 +1,5 @@
 #+title: 胸腔积液
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

@@ -1,4 +1,5 @@
 #+title: 三音律
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 定义
 1. 指在S1,S2之外听到的附加心音与心脏杂音不同

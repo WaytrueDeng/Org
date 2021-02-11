@@ -1,4 +1,5 @@
 #+title: 2021-01-11
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 在Macbook pro 13 arm 丐版上安装windows on arm64(x64支持版)
 ** 获取windows镜像 ✅

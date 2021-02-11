@@ -1,4 +1,5 @@
 #+title: 千位数字编码
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 00-99
 - 00 望远镜

@@ -1,4 +1,5 @@
 #+title: 机械指数
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

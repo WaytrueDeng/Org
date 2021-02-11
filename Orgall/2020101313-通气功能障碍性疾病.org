@@ -1,2 +1,3 @@
 #+title: 通气功能障碍性疾病
+#+HUGO_BASE_DIR: ~/Org/www/
 

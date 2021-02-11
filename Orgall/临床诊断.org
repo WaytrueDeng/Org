@@ -1,4 +1,5 @@
 #+title: 临床诊断
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 胸部检查
 ** 名词解释                                                       :名词解释:

@@ -1,4 +1,5 @@
 #+title: 房颤
+#+HUGO_BASE_DIR: ~/Org/www/
 
 快慢不等 强弱不定 脉搏短绌 小F波 多源
 [[file:2020101208-房扑.org][房扑]]

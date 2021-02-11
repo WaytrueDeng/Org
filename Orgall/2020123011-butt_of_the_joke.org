@@ -1,4 +1,5 @@
 #+title: butt of the joke
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * Translation
 - 这个笑话的笑柄

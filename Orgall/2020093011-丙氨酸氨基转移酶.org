@@ -1,4 +1,5 @@
 #+title: 丙氨酸氨基转移酶
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

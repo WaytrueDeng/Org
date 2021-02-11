@@ -1,4 +1,5 @@
 #+title: 2021-01-16
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 百词斩
 - [[file:2020120611-rational.org][rational]] ration 定量

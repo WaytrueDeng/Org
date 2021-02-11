@@ -1,5 +1,6 @@
 #+title: tunica
 #+roam_tags:英语单词
+#+HUGO_BASE_DIR: ../www/
 
 * 定义
   

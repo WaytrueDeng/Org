@@ -1,1 +1,2 @@
 #+title: 生理性杂音
+#+HUGO_BASE_DIR: ~/Org/www/

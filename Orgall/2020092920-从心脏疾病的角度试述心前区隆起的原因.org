@@ -1,4 +1,5 @@
 #+title: 从心脏疾病的角度试述心前区隆起的原因
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

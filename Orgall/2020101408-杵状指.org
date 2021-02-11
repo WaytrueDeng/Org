@@ -1,4 +1,5 @@
 #+title: 杵状指
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:名词解释
 
 

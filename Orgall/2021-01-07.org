@@ -1,4 +1,5 @@
 #+title: 2021-01-07
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 百词斩背单词中                                                     :百词斩:
 - profound 深刻的

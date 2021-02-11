@@ -1,2 +1,3 @@
 #+title: 脉搏短绌
+#+HUGO_BASE_DIR: ~/Org/www/
 心房颤动时发现脉律少于心律称为脉搏短绌

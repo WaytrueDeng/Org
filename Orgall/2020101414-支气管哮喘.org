@@ -1,4 +1,5 @@
 #+title: 支气管哮喘
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

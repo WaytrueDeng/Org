@@ -1,4 +1,5 @@
 #+title: 侧后折射声影
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

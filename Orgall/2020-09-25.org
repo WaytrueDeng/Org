@@ -1,4 +1,5 @@
 #+title: 2020-09-25
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * [[file:org-roam/2020092510-影像学总论.org][影像学总论]]
 ** [[file:org-roam/2020092510-x线成像的基本原理.org][X线成像的基本原理]]

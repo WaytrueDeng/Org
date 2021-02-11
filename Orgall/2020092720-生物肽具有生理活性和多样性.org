@@ -1,4 +1,5 @@
 #+title: 生物肽具有生理活性和多样性
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * [[file:2020092720-谷胱甘肽.org][谷胱甘肽]]
 

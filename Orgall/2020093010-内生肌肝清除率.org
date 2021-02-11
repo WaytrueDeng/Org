@@ -1,4 +1,5 @@
 #+title: 内生肌肝清除率
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

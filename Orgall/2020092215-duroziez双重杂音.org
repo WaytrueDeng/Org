@@ -1,4 +1,5 @@
 #+title: Duroziez双重杂音
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 定义
 - 听诊器模型体件稍加压力于股动脉,可闻及收缩期和舒张期的双期吹风样杂音

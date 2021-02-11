@@ -1,4 +1,5 @@
 #+title: 肺部感染性疾病
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:名词解释
 * 要点
 病原体类型和鉴别诊断的

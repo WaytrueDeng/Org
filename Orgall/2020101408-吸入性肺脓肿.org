@@ -1,4 +1,5 @@
 #+title: 吸入性肺脓肿
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

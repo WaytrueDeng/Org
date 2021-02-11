@@ -1,4 +1,5 @@
 #+title: 速率过程和速率常数
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 一级速率过程和现性动力学过程
 1. dC/dT=-KC,K为一级动力常数

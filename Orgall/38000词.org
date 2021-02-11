@@ -1,0 +1,936 @@
+#+title: 38000词
+
+元音字母 aeiou
+* 名词后缀
+- a
+- e
+
+* 词根
+** √vinc+vine
+
+#+DOWNLOADED: screenshot @ 2021-02-09 11:42:24
+[[file:../Attachment/词根/2021-02-09_11-42-24_screenshot.png]]
+*** province
+- pro-向前，vinc-征服，占有，统治，管理+e名词后缀
+- 典故：古罗马时期将征服后的土地划分为行政省份，除了中央意外最大的行政区
+**** province-wide
+全省的
+合成词
+**** provincial
+省的，地方性的
+province + i 连字符 + al 形容词或名词后缀
+**** provincially
+以地方，偏狭的
+provincial+ly 副词
+**** provinciality
+乡下习气，粗鄙，偏狭，地方特色
+provincial+ ity 名词后缀
+**** provincialism
+provincial + ism 名词后缀
+*** victor
+Vict+ or 名词后缀 ，or比er高级高端
+**** victory
+vict+ ory名词或形容词后缀
+**** victorious
+Victor i连字符 ous
+**** victoriously
+获胜地，凯旋归来地
+**** Victorian
+Victoria 胜利女生 + i + an
+**** Victorian-era
+维多利亚时代
+**** Victorian-style
+维多利亚晚期
+**** neo-Victorian
+新维多利亚的
+*** victim
+- 受害者
+  -vict- 征服----俘虏----罪人---受害者+im名词后缀，表人
+**** victimless 33578
+不侵害他人的，无受害人的
+**** victimize
+vict-征服---迫害---使迫害 im+ize
+使受伤害，使牺牲
+**** victimization
+牺牲欺骗, -ation 名词后缀
+**** victimizer
+施害者，受害者
+*** convince
+con-强调共同 + vinc- 征服使人信服 e 动词后缀
+**** convinced
+**** unconvinced
+**** convincing
+ing 形容词后缀
+**** unconvincing
+**** unconvincingly
+缺乏说服力的
+*** convict
+vict 征服->俘虏->囚犯
+n. 囚犯
+vt 证明...有罪
+**** convinction 定罪
+**** ex-convict
+前科犯
+**** post-conviction
+定罪后的
+**** evict
+e-向外 + vict 征服->占领->驱逐
+**** evince
+v. 表明,表示,引起
+**** vincible
+adj. 可征服的
+**** invincible
+-ible+ i + ty 把l和e交换然后变e为i 加 ity
+无敌的,不可征服的
+**** invincibility
+invincible +i +ty 
+**** vincristine 58822
+vinc-征服,抗击
+** √form
+
+#+DOWNLOADED: screenshot @ 2021-02-09 12:50:40
+[[file:../Attachment/词根/2021-02-09_12-50-40_screenshot.png]]
+*** transform
+trans 改变 form 形式
+**** transformer
+变形者,变形物,变压器
+**** transformation
+转型 ,ate + ion, -ation 名词后缀
+**** transformative
+变化的,变形的,adj
+**** transformational
+转换的,改变的,转换生成的
+**** log-transformed
+对数变换的
+**** untransformed
+*** form
+vi. 形成 n 表格.
+词根直接表单词
+**** formation
+阵型,编队,队形
+**** star-formation
+星形队列
+**** formative
+形成的,造型的
+**** formal
+形式->正式
+**** formally
+正式地,形式上的
+**** informal
+非正式的
+**** informally
+非正式地,使正式
+**** formalize
+vt 使形式化,使正式, -ize=-ise 动词后缀
+**** formality
+礼节,拘谨
+**** life-form
+生物
+**** formalism
+形式主义,-ism抽象含义
+**** formalized
+adj 形式化,正式的
+**** waveform
+波形,电子
+**** malformation
+mal-坏的  畸形,变形
+**** informality
+非正式的
+**** formless
+没有形状的,无定形的,形体不明的
+**** free-form 28600
+自由形态
+**** unformed
+未成形的,为充分发展的
+**** landform
+地形
+motherland
+fatherland
+homeland
+island is=dis
+mainland
+inland 内陆
+**** forme
+印版,印刷 ,form +e名词后缀
+**** nonformal
+非正式的
+**** formed
+成型的
+**** well-formed
+身材良好的,符合语法规则的
+**** formalization
+形式化,礼仪化
+**** formalistic
+形式主义的,呆板的
+**** forming
+形成 动名词
+**** semiformal
+半正式的
+**** habit-forming
+易上瘾的,形成习惯的
+**** formalist
+拘泥于形式的人
+**** formlessness
+无招胜有招
+**** long-form
+**** anti-reform
+反传统形式的
+**** multiform
+多样式的
+**** informal-sector
+setor= sect 切,部分,部门
+**** smog-forming
+形成烟雾的
+**** cuneiform
+楔形的
+**** crueform
+十字形的,十字架状的,
+crue 十字架,残酷的
+**** piriform
+梨形的
+*** inform
+vt 通知,告诉,报告
+in-使动 + form 形成 --收集信息-通告
+**** informed
+消息灵通的,见多识广的
+**** informant
+告密者,提供消息者 
+**** informer
+告密者,通知者
+**** information
+信息
+**** informative
+情报的
+**** informational
+情报的
+**** bioinformatician
+生物信息学研究者
+**** disinformation
+故意的假情报,虚假信息
+**** misinform
+误传,提供假信息
+**** misinformation
+误报
+**** informing
+增长见闻的,提供情报的
+**** information-based
+信息化的
+**** information-gathering
+信息收集的
+**** uninfomative
+不提供信息的,不增长见闻的
+**** informatics
+informate+ic+s=ics 学术名词
+**** information-rich
+信息丰富的
+**** information-age
+信息时代
+**** better-informed
+消息灵通的
+**** information-sharing
+信息共享的
+**** informed-consent
+知情同意
+consent: con- 共同, √sent= sens-意义
+**** best-informed
+消息灵通的
+**** informativeness
+信息量,忠实度
+**** information-processing
+信息出口处,信息加工
+**** information-technology
+信息技术,techn-艺术技术-o-logy 
+**** ill-informed
+孤陋寡闻的
+*** perform
+表现
+per-完全,贯穿, fect 做, form 形成->完全形成,展现
+**** performance
+perform+ance
+性能,绩效,表演,执行,表现
+**** performative
+表述行为的,执行成分
+perform+ate+ive 
+**** performer
+表演者
+**** preformed
+预成型的
+**** outperform
+胜过,做的比....好
+**** high-performance
+高性能的
+**** high-performing
+高性能的
+**** Perfomance-enhancing
+增强性能的
+**** performance-based
+绩效基础的
+**** best-performing
+表现最好的
+**** performance-oriented
+-ort- 升起->太阳升起的->开始的
+orient 东方的 vt 使适应
+**** performance-related
+性能相关的,绩效相关的
+relate 有惯关系的 re 反复 + lat 拿 ed形容词后缀
+**** pay-for-performance
+绩效薪酬
+**** performativity
+表演性 Perform ate + ive +i ty 
+**** underperfroming
+under 在...下->否定
+股票运作差
+**** underperformance
+新股弱势
+**** non-performing
+不履约
+**** worst-performing
+**** pre-performance
+**** nonperformance
+不履行,名词
+**** post-performance
+岗位绩效
+**** low-perfoming
+薄弱的
+**** top-performing
+表现最好的
+*** formula
+法则,原则,公式
+form-格式---公式,法则 + ul=al+a 名词后缀
+**** formulate
+规划,用公式表示
+**** formulation
+构想,规划,公式化
+**** formulated
+按配方制造的
+**** formulaic
+formula+ic 公式化的
+**** reformulate
+再用形式表示
+**** reformulated
+再阐述
+**** reformulation
+再形成
+**** formulary
+公式集
+**** formula-fed
+配置饲料
+*** format
+form规划+at=id 名词或动词后缀 
+**** reformat
+重定格式
+**** formatting
+格式化
+**** large-format
+大篇幅的
+*** platform
+平台
+**** cross-platform
+*** former
+adj 从前的,前者的,前人的
+n 模样样板,起形成作用的人
+**** formerly
+以前,原来的
+*** uniform
+unit=-un- 整体,i+t名词或动词后缀
+adj 统一的,一致的
+n 制服
+vt 使穿制服,使成一样
+**** uniformed
+穿着制服的
+**** uniformity
+均匀性,一致
+**** uniformly
+一致地
+**** uniformitarian
+均变论的,均变说的
+**** nonuniform
+不均匀的,不一致的
+*** reform
+改革,改良
+vt 改革 革新 重新组合
+**** reformer
+改个价,改革运动者
+**** reformed
+改革过的,新教的
+**** reformist
+改革者,改革主义者
+**** reforming
+重整的改进变化
+**** reformulate
+再用形式表示
+**** reformation
+革新,改善
+**** reform-minded
+决心改革的
+**** counter-reformation
+反宗教改革
+**** pro-reform
+支持改革的
+**** unreformed
+未经宗教改革的
+**** reformism
+改良主义,改革主义
+**** reformatory
+改革,感化
+**** welfare-reform
+福利改革
+**** health-reform
+卫生改革,医疗改革
+*** conform
+con -强调, form 形成 -> 形成一种格式,遵守
+**** conformity
+一致,适合,符合
+**** conformation
+构造 一直,符合
+**** conformist
+英国国教徒
+**** nonconformity
+不一致,不信国教
+**** nonconformist
+**** comformance
+一致性,顺应
+**** conformism
+因循守旧,盲目因袭的态度
+**** non-conforming
+非相容的
+**** conformal
+保角的,共形的,正形的
+*** deform
+使变形
+**** deformed
+畸形的
+**** deformity
+畸形的人或物
+**** deformation
+变形的
+**** deformable
+可变形的
+*** formidable
+强大的可怕的
+**** formidably
+强大的,难对付的
+**** formaldehyde
+甲醛,form+aldehyde 乙醛
+**** coliform
+像大肠菌的,col-圆柱+i+form
+**** total-coliform
+全部的大肠杆菌
+**** chloroform
+chlor氯+o+form
+**** formalin
+福尔马林
+**** fecal-coliform
+粪便大肠菌
+fecal 排泄物的
+**** formical-topped
+福米加塑料贴面
+**** cribriform 
+有小孔的
+**** formic
+甲醛的,蚁酸的
+**** cross-informant
+横跨,相反,十字架
+**** formant 
+共振峰
+** √prehend=prehens
+d/ t/ s/,浊辅音结尾的一般表动词词,清辅音结尾的一般表名词
+#+DOWNLOADED: screenshot @ 2021-02-09 16:27:33
+[[file:../Attachment/词根/2021-02-09_16-27-33_screenshot.png]]
+*** 前缀
+com-在一起,强调,in-=un-否定,a??强调,miss错误
+*** 后缀
+ion-名词后缀,ive 形容词或名词后缀,ible 形容词后缀 表能...的
+*** comprehend
+vt. 理解包含,由....组成
+**** comprehension
+理解
+**** incomprehension
+**** comprehensive
+综合的广泛的
+**** comrehesibility
+可了解性,能理解
+**** incomprehensible
+**** incomprehensibility
+**** comprehensively
+包括地
+**** uncomprehending
+不了解的
+**** uncomprehendingly
+**** comprehensiveness
+综合详尽
+*** apprehend
+理解,逮捕,忧虑
+**** apprehension
+理解恐惧逮捕
+**** apprehensive
+忧虑的
+**** apprehensible
+可理解的
+**** apprehensively
+担心地
+**** misapprehend
+误会,误解
+**** misapprehension
+误解
+**** misapprehensively
+*** reprehend
+申斥,指责,责备
+**** reprehension
+非难,指责
+**** reprehensive
+谴责的,费男的
+**** reprehensible
+应斥责的
+**** reprehensibly
+应受责难的
+**** reprehensibility
+应收谴责性
+** √struct
+
+#+DOWNLOADED: screenshot @ 2021-02-10 09:29:18
+[[file:../Attachment/词根/2021-02-10_09-29-18_screenshot.png]]
+*** structure
+建筑物,结构,体系,
+vt 组织,构成,建造,计划
+ure 名词或动词后缀
+**** substructure
+基础,信念,底部构造
+**** superstructure
+上层建筑,上部构造
+**** structuralism
+结构主义,构造主义
+**** poststructural
+解构
+**** microstructure
+微观结构
+**** macro-structure
+宏观结构
+**** nanostructure
+毫米,微毫
+**** social-structural
+社会结构的
+√soci-伙伴,陪伴
+
+*** instruct
+in- 加强语气, 指导,通知,命令
+**** instructor
+教员
+**** infrastructure
+infra- 下
+*** construct
+建造.构造,创立
+**** reconstruction
+再建,重建
+
+*** deconstruct
+解构,拆析
+*** restructure
+调整,重建,更改结构
+*** destruct
+自毁
+**** destructible
+**** indestructible
+
+*** obstruct
+ob- 反方向
+
+** √od
+
+#+DOWNLOADED: screenshot @ 2021-02-10 10:02:50
+[[file:../Attachment/词根/2021-02-10_10-02-50_screenshot.png]]
+
+*** method
+met- 在后, hod-路 后路,方法策略
+*** period
+per-完全,+i连字符,od路
+*** odograph
+od 路,+o连字符 ,graph 写,记录
+*** odometer
+od 路+ o 连字符 +meter里程表
+*** exodus
+大批的离去
+ex-向外,od路+us
+*** periodize
+划分时代的
+** √bar
+√bar=bal=ban
+r/=l/=n/
+#+DOWNLOADED: screenshot @ 2021-02-10 10:11:52
+[[file:../Attachment/词根/2021-02-10_10-11-52_screenshot.png]]
+*** embarrass
+em 使动 bar 长木条 ass 动词后缀
+**** embarrassment
+尴尬
+*** bar
+摒除,阻挡,条棒,酒吧,障碍,法庭
+vt 禁止,阻拦
+**** barrier
+长木条->关卡,障碍
+*** balance
+bal=bar 天平
+vt 使平衡
+**** unbalanced
+不平衡的,错乱的
+**** counterbalance 
+counter-反 自动抵消
+**** balancer
+平衡器,走钢丝者
+**** imbalance
+不平衡
+*** a-ban-don
+放弃, a 远离 ban 长木条 don 动词后缀
+*** ban
+禁止
+**** banner
+横幅图片的广告模式
+**** banquet
+宴会
+**** broadband
+款频
+*** barracks
+兵营
+*** unbar
+un+长木条 打开
+**** no-holds-barred
+无拘无束的
+**** barricade
+街垒路障 bar(r) + ic +ade
+**** barrel
+bar(r) +el=al 名词后缀东磁化,桶,枪管,炮管
+**** barreled
+桶装的
+**** embargo
+禁止出入港口的
+**** bartender
+酒吧间销售酒精的人
+**** barren
+贫瘠的
+bar(r) 长木 平板->荒芜
+**** sidebar
+侧边栏
+**** barring
+除非,不包括,除...以外
+**** sandbar
+沙堤沙坝
+**** barbell
+杠铃
+**** crowbar
+撬棍,铁锹
+**** barroom
+酒吧间
+**** barrette
+条状发夹
+**** barstool
+酒吧高脚凳
+**** crossbar
+横木
+**** barmaid
+酒吧女侍
+**** barrister
+律师
+**** minibar
+小型条信号发生器
+**** barrel
+**** barreness
+不孕不育的
+**** taskbar
+任务栏任务条
+**** barista
+咖啡师,咖啡吧员
+**** bar-code
+条形码
+**** balk
+长木条
+**** balsa
+一种轻质木材
+**** balkanization
+巴尔干化,分割成小国
+**** balknized
+使分裂成若干对立的小国,
+*** bank
+银行
+**** banker
+银行者
+**** embankment
+路堤,堤防
+**** bankroll
+提供资金,提供财务上的资助,资金,钞票
+**** banknote
+纸币
+**** databank
+数据库
+**** banked
+有坡面的堆积的
+**** bankable
+银行能接受的
+**** interbank
+国际银行
+**** mountebank
+江湖郎中,骗子
+mounte-安装
+**** bankbook
+存折
+**** banish
+ban-长木条 ish 动词后缀 拦截驱逐
+**** banal
+陈腐的平庸的
+**** banister
+栏杆的支柱
+**** contraband
+禁运的,非法买卖的
+**** banning
+禁止,禁令
+** √vi=via
+
+#+DOWNLOADED: screenshot @ 2021-02-10 12:06:06
+[[file:../Attachment/词根/2021-02-10_12-06-06_screenshot.png]]
+*** obviate
+避免,消除 ob相反 vi路
+**** obvious
+ov-反,vi路 挡路
+**** non-obvious
+不明显的
+**** obviousness
+显而易见的
+*** previous
+pre-前 vi路
+**** previously
+*** trivia
+琐事,不足道的细枝末节
+tri-三 via路 三岔路-市井
+**** trivial
+平凡的
+**** trivialize
+*** deviant
+de- 向下 离开 vi 路 离开路 不正常的
+**** devious
+偏远的,偏离的
+*** viatic
+道路的,履行的
+**** viameter
+路程表
+**** viaduct
+高架桥
+*** voyage
+航行
+voy-路-航行
+**** vorageur
+加拿大的船夫或樵夫,旅客
+**** convoy
+护送,护卫
+**** envoy
+使者,全权公使
+*** covey
+co-在一起,vey 路
+**** convey
+传达运送
+**** conveyer
+传送机
+*** way
+方法,道路
+**** away
+远离
+**** runaway
+逃亡的
+**** getaway
+逃走 get away
+** √script=scrib=scrip
+
+#+DOWNLOADED: screenshot @ 2021-02-10 12:21:41
+[[file:../Attachment/词根/2021-02-10_12-21-41_screenshot.png]]
+*** scrip
+便条.纸条
+**** scripting
+写剧本
+**** scribe
+
+抄写员,作家
+**** scriptorium
+写字间
+**** subscript
+下标的
+**** scribble
+潦草地书写
+**** scribbling
+胡乱
+**** scribbler
+潦草的意义
+**** scripture
+文章---经文
+**** scriptwriter
+编剧
+**** rescript
+法令,布告
+**** misdescribe
+错误的描述
+*** described
+被看到的被发现的
+**** description
+描述,描写的
+*** prescribe
+pre-在前, scrib-写 商定写好的规则->处方
+*** manuscript
+手稿,原稿
+*** subscription
+捐献订阅
+*** transcribe
+转录抄写
+*** transcriptase
+转录酶
+*** inscribe
+题写刻写题献
+*** conscript
+被征入伍 con强调 script-写,征兵,征兵制度
+*** ascribe
+归咎于
+*** proscribe
+pro-在前,提前 scrib-写提前约定
+*** postscript
+附言
+** √techn(o)
+
+#+DOWNLOADED: screenshot @ 2021-02-10 16:48:13
+[[file:../Attachment/词根/2021-02-10_16-48-13_screenshot.png]]
+*** technic
+技术,手法,工艺学
+**** technolatry
+**** technocrat
+-crat 统治者,管理者
+**** technologic
+** √press
+
+#+DOWNLOADED: screenshot @ 2021-02-10 16:58:52
+[[file:../Attachment/词根/2021-02-10_16-58-52_screenshot.png]]
+*** press
+压 按:逼迫
+**** pressman
+印刷工人,记者
+**** pressure
+压力
+*** impress
+盖印,强征,传送
+vi 给人印象
+**** impressed
+钦佩的
+**** impressional
+印象的,易受影响的
+**** impressionable
+敏感的
+**** unimpressive
+无印象的
+**** impressive-looking
+令人印象深刻的
+**** impressment
+强行征用
+im-使动,press压
+*** express
+快递,快车
+**** expressive
+**** expressionism
+**** expressionist
+**** expressivity
+表达性,善于表达
+**** expressway
+高速公路
+**** expressiveness
+善于表现,表情丰富
+**** inexpressibly
+**** overexpression
+*** depress
+压抑,意志低沉
+**** depressive
+**** depressing
+**** depressingly
+**** depressurize
+de-分离 pressureize
+**** depressant
+镇静剂
+**** antidepressant
+抗抑郁剂
+**** depression-era
+经济大萧条时期
+*** compress
+com-在一起,压缩
+**** decompress
+使减压,使解除压力
+*** oppress
+op-强调,反
+*** repress
+抑制,镇压
+**** repressed
+被压抑的
+*** suppress
+抑制,镇压,废止
+**** suppression
+**** supressant
+制止的
+*** espresso
+用汽加压煮出的浓咖啡
+*** vasopressin
+激素
+*** immunosuppression
+免疫抑制
+** √rect
+
+#+DOWNLOADED: screenshot @ 2021-02-10 17:33:33
+[[file:../Attachment/词根/2021-02-10_17-33-33_screenshot.png]]
+*** correct
+改正
+**** uncorrected
+未修正的
+**** incorrect
+不正确的
+*** direct
+di-分,rect-正直
+**** directness
+直接,率直
+**** directing
+指导的
+**** co-director
+主任
+*** rectify
+改正,整顿
+**** rectitude
+正直得寸
+**** rectangle
+矩形长方形
+**** rectal
+直肠的
+**** rector
+校长,院长
+**** rectory
+教区的管区
+*** erect
+直立,使树立
+**** erectile
+可竖直的
+**** erector
+*** rectum
+*** resurrect
+re-再次,sur-下,rect☞,再次直立
+使复活,复兴,挖出
+*** insurrection
+暴动,暴乱
+*** insurrectionist
+起义者,造反者,暴动者
+*** insurrectionary
+暴动者,起义者
+*** colorectal
+*** rectitude
+公正,诚实,清廉
+*** omnidirection
+√omni全
+*** endarterectomy
+en- darterec 动脉
+*** nephrectomy
+nephrec肾 tom 切
+** √flu
+
+#+DOWNLOADED: screenshot @ 2021-02-10 18:20:50
+[[file:../Attachment/词根/2021-02-10_18-20-50_screenshot.png]]
+*** interfluent
+交流的
+*** afflux
+流向
+

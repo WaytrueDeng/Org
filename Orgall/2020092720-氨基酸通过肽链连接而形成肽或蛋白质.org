@@ -1,4 +1,5 @@
 #+title: 氨基酸通过肽链连接而形成肽或蛋白质
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 连接两个氨基酸的酰胺键为肽键
 :PROPERTIES:

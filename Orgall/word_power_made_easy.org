@@ -1,4 +1,5 @@
 #+title: Word Power Made Easy
+#+HUGO_BASE_DIR: ~/Org/www/
 * How to use this book for maximum benefit
 - [[file:./EnglishWord/2020111921-syllable.org][syllable]]
 - [[file:./EnglishWord/2020111921-egomaniacal.org][egomaniacal]]

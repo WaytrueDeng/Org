@@ -1,4 +1,5 @@
 #+title: 群体药代动力学
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

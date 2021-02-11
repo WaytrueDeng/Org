@@ -1,4 +1,5 @@
 #+title: locomotive
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:名词解释
 
 * 定义

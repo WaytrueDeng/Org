@@ -1,4 +1,5 @@
 #+title: ICG滞留率
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:名词解释
 
 * 定义

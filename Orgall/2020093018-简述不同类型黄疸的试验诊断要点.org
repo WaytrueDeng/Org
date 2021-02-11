@@ -1,4 +1,5 @@
 #+title: 简述不同类型黄疸的试验诊断要点
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * 答  
 :PROPERTIES:

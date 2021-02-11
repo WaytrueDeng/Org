@@ -1,4 +1,5 @@
 #+title: 如何鉴别剑突下搏动来自右心室搏动还是腹主动脉
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

@@ -1,4 +1,5 @@
 #+title: CT图像特点
+#+HUGO_BASE_DIR: ~/Org/www/
 
 * CT图像是数字化模拟灰度图像
 1. 高密度模拟灰度成白色

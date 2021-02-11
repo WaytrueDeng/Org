@@ -1,4 +1,5 @@
 #+title: 小叶性肺炎
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:病
 
 * 要点

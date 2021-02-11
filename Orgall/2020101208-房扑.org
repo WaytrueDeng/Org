@@ -1,4 +1,5 @@
 #+title: 房扑
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags: 名词解释
 
 折返环在三尖瓣与附近,多呈逆时针(经典型)

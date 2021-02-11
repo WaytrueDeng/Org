@@ -1,4 +1,5 @@
 #+title: 心脏视诊时可发现的心前区异常搏动有哪些
+#+HUGO_BASE_DIR: ~/Org/www/
 #+TAGS:简答题
 
 * 答 

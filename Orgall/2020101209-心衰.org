@@ -1,4 +1,5 @@
 #+title: 心衰
+#+HUGO_BASE_DIR: ~/Org/www/
 #+roam_tags:名词解释
 :长期交感神经兴奋:
 * 分类
