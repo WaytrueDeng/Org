@@ -1,0 +1,1212 @@
+#+title: 生理学
+#:PROPERTIES:
+:NOTER_DOCUMENT: ../../PDFs/第九版临床医学（含其他版）「53本全套」/生理学 第9版_王庭槐主编2018年.pdf
+:END:#+title: 生理学
+
+* Skeleton
+** 第一章 绪论
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+*** 第一节 生理学的研究对象和任务
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+**** 一、生理学的研究对象
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+**** 二、生理学的研究任务
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+**** 三、生理学与医学的关系
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+**** 四、生理学的认识层次
+:PROPERTIES:
+:NOTER_PAGE: 29
+:END:
+*** 第二节 生理学的常用研究方法
+:PROPERTIES:
+:NOTER_PAGE: 31
+:END:
+**** 一、动物实验
+:PROPERTIES:
+:NOTER_PAGE: 31
+:END:
+**** 二、人体生理研究
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+**** 三、科学方法是解开生理学问题的钥匙
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+*** 第三节 生命活动的基本特征
+:PROPERTIES:
+:NOTER_PAGE: 33
+:END:
+**** 一、新陈代谢
+:PROPERTIES:
+:NOTER_PAGE: 33
+:END:
+**** 二、兴奋性
+:PROPERTIES:
+:NOTER_PAGE: 33
+:END:
+**** 三、适应性
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+**** 四、生殖
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+**** 五、衰老
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+*** 第四节 机体的内环境、稳态和生物节律
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+**** 一、机体的内环境
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+**** 二、内环境的稳态
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+**** 三、生物节律
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+*** 第五节 机体生理功能的调节
+:PROPERTIES:
+:NOTER_PAGE: 37
+:END:
+**** —、神经调节
+:PROPERTIES:
+:NOTER_PAGE: 37
+:END:
+**** 二、体液调节
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+**** 三、自身调节
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+*** 第六节 人体内自动控制系统
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+**** 一、反馈控制系统
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+**** 二、前馈控制系统
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+*** 第七节 生理学发展的回顾和展望
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+** 第二章 细胞的基本功能
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+*** 第一节 细胞膜的物质转运功能
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+**** 一、细胞膜的化学组成及其分子排列形式
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+**** 二、跨细胞膜的物质转运
+:PROPERTIES:
+:NOTER_PAGE: 44
+:END:
+*** 第二节 细胞的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 51
+:END:
+**** ―、信号转导概述
+:PROPERTIES:
+:NOTER_PAGE: 51
+:END:
+**** 二、离子通道型受体介导的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 52
+:END:
+**** 三、G蛋白耦联受体介导的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 53
+:END:
+**** 四、酶联型受体介导的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 56
+:END:
+**** 五、招募型受体介导的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+**** 六、核受体介导的信号转导
+:PROPERTIES:
+:NOTER_PAGE: 30
+:END:
+*** 第三节 细胞的电活动
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+**** 一、静息电位
+:PROPERTIES:
+:NOTER_PAGE: 59
+:END:
+**** 二、动作电位
+:PROPERTIES:
+:NOTER_PAGE: 62
+:END:
+**** 三、电紧张电位和局部电位
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+*** 第四节 肌细胞的收缩
+:PROPERTIES:
+:NOTER_PAGE: 74
+:END:
+**** —、横纹肌
+:PROPERTIES:
+:NOTER_PAGE: 74
+:END:
+**** 二、平滑肌
+:PROPERTIES:
+:NOTER_PAGE: 82
+:END:
+** 第三章 血液
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+*** 第一节 血液生理概述
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** 一、血液的组成
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** 二、血液的理化特性
+:PROPERTIES:
+:NOTER_PAGE: 86
+:END:
+*** 第二节 血细胞生理
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** 一、血细胞生成的部位和一般过程
+:PROPERTIES:
+:NOTER_PAGE: 88
+:END:
+**** 二、红细胞生理
+:PROPERTIES:
+:NOTER_PAGE: 89
+:END:
+**** 三、白细胞生理
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+**** 四、血小板生理
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+*** 第三节 生理性止血
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+**** 一、生理性止血的基本过程
+:PROPERTIES:
+:NOTER_PAGE: 99
+:END:
+**** 二、血液凝固
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+**** 三、纤维蛋白的溶解
+:PROPERTIES:
+:NOTER_PAGE: 105
+:END:
+*** 第四节 血型和输血原则
+:PROPERTIES:
+:NOTER_PAGE: 106
+:END:
+**** 一、血型与红细胞凝集
+:PROPERTIES:
+:NOTER_PAGE: 106
+:END:
+**** 二、红细胞血型
+:PROPERTIES:
+:NOTER_PAGE: 107
+:END:
+**** 三、血量和输血原则
+:PROPERTIES:
+:NOTER_PAGE: 110
+:END:
+** 第四章 血液循环
+:PROPERTIES:
+:NOTER_PAGE: 112
+:END:
+*** 第一节 心脏的泵血功能
+:PROPERTIES:
+:NOTER_PAGE: 112
+:END:
+**** 一、心脏的泵血过程和机制
+:PROPERTIES:
+:NOTER_PAGE: 112
+:END:
+**** 二、心输出量与心脏泵血功能的储备
+:PROPERTIES:
+:NOTER_PAGE: 115
+:END:
+**** 二、影响心输出量的因素
+:PROPERTIES:
+:NOTER_PAGE: 117
+:END:
+**** 四、心功能评价
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+**** 五、心音
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+*** 第二节 心脏的电生理学及生理特性
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+**** 一、心肌细胞的跨膜电位及其形成机制
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+**** 二、心肌的生理特性
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+**** 三、体表心电图
+:PROPERTIES:
+:NOTER_PAGE: 136
+:END:
+*** 第三节 血管生理
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+**** 一、各类血管的功能特点
+:PROPERTIES:
+:NOTER_PAGE: 140
+:END:
+**** 二、血流动力学
+:PROPERTIES:
+:NOTER_PAGE: 142
+:END:
+**** 三、动脉血压与动脉脉搏
+:PROPERTIES:
+:NOTER_PAGE: 145
+:END:
+**** 四、静脉血压和静脉回心血量
+:PROPERTIES:
+:NOTER_PAGE: 149
+:END:
+**** 五、微循环
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+**** 六、组织液
+:PROPERTIES:
+:NOTER_PAGE: 153
+:END:
+**** 七、淋巴液的生成和回流
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+*** 第四节 心血管活动的调节
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+**** 一、神经调节
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+**** 二、体液调节
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+**** 三、自身调节
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+**** 四、动脉血压的长期调节
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+*** 第五节 器官循环
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+**** —、冠脉循环
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+**** 二、肺循环
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+**** 三、脑循环
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+** 第五章 呼吸
+#+begin_quote
+三个环节
+- 外呼吸
+  - 肺通气
+  - 肺换气
+- 气体运输
+- 内呼吸
+#+end_quote
+
+#+DOWNLOADED: screenshot @ 2021-02-18 15:24:37
+[[file:../Attachment/Skeleton/2021-02-18_15-24-37_screenshot.png]]
+
+*** 第一节 肺通气
+#+begin_quote
+气体在外界大气和肺泡之间的交换过程
+#+end_quote
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+
+
+#+DOWNLOADED: screenshot @ 2021-02-18 15:34:48
+[[file:../Attachment/Skeleton/2021-02-18_15-34-48_screenshot.png]]
+**** 一、肺通气的原理
+:PROPERTIES:
+:NOTER_PAGE: 175
+:END:
+***** 肺通气的动力
+****** 呼吸运动
+#+begin_quote
+呼吸肌的收缩和舒张所引起的胸廓节律性扩大的缩小称为呼吸运动
+#+end_quote
+******* 呼吸运动的过程
+****** 肺内压
+****** 胸膜腔内压
+***** 肺通气的阻力
+****** 弹性阻力和顺应性
+#+begin_quote
+顺应性:弹性组织在外力作用下发生变形的难易程度
+#+end_quote
+******* 顺应性
+******* 肺的弹性阻力和肺顺应性
+******** 肺弹性阻力的来源
+肺的弹性成分和肺泡表面张力
+
+**** 二、肺通气功能的评价
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+*** 第二节 肺换气和组织换气
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+**** 一、气体交换的基本原理
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+**** 二、肺换气
+:PROPERTIES:
+:NOTER_PAGE: 187
+:END:
+**** 三、组织换气
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+*** 第三节 气体在血液中的运输
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+**** —、氧的运输
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+**** 二、二氧化碳的运输
+:PROPERTIES:
+:NOTER_PAGE: 193
+:END:
+*** 第四节 呼吸运动的调节
+:PROPERTIES:
+:NOTER_PAGE: 195
+:END:
+**** 一、呼吸中枢与呼吸节律的形成
+:PROPERTIES:
+:NOTER_PAGE: 195
+:END:
+**** 二、呼吸的反射性调节
+:PROPERTIES:
+:NOTER_PAGE: 197
+:END:
+**** 三、特殊条件下的呼吸运动及其调节
+:PROPERTIES:
+:NOTER_PAGE: 202
+:END:
+**** 四、临床监控呼吸状态的生理参数及意义
+:PROPERTIES:
+:NOTER_PAGE: 202
+:END:
+** 第六章 消化和吸收
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+*** 第一节 消化生理概述
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+**** 一、消化道平滑肌的特性
+:PROPERTIES:
+:NOTER_PAGE: 204
+:END:
+**** 二、消化腺的分泌功能
+:PROPERTIES:
+:NOTER_PAGE: 205
+:END:
+**** 三、消化道的神经支配及其作用
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+**** 四、消化系统的内分泌功能
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+*** 第二节 口腔内消化和吞咽
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** —、唾液的分泌
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** 二、咀嚼
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+**** 三、吞咽
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+*** 第三节 胃内消化
+:PROPERTIES:
+:NOTER_PAGE: 210
+:END:
+**** 一、胃液的分泌
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+**** 二、胃的运动
+:PROPERTIES:
+:NOTER_PAGE: 217
+:END:
+*** 第四节 小肠内消化
+:PROPERTIES:
+:NOTER_PAGE: 220
+:END:
+**** ―、胰液的分泌
+***** 胰液的性质,成分和作用
+1. 无色无臭的碱性液体,pH7.8~8.4,人每日分泌胰液量1-2L
+2. 人胰液中HCO3浓度随分泌速度的增加而增加
+****** 胰淀粉酶
+最适pH:6.7-7.0
+****** 胰脂肪酶
+- 分解甘油三酯为脂肪酸,一酰甘油和甘油
+- 只能在辅脂酶的作用下才能发挥作用
+  胆盐具有去垢剂特性,可将附着于胆盐微胶粒表面的蛋白质清除下去,而辅脂酶对胆盐微胶粒确有较高的亲和力,当胰酯酶,辅脂酶和胆盐形成三元络合物时,便可防止胆盐将复方没从脂滴表面清除下去
+****** 胰蛋白酶和糜蛋白酶
+- 酶原形式存在于胰液中
+- 肠激酶激活胰蛋白酶
+- 胰蛋白酶可也能激活胰蛋白酶原形成正反馈
+- 酸,组织液也能使胰蛋白酶原活化
+- 糜蛋白酶原主要在胰蛋白酶的作用下激活
+- 两者同时作用于蛋白质,则可将蛋白质消化为小分子多肽和游离氨基酸
+***** 胰液分泌的调节
+食物是刺激胰液分泌的自然因素,受神经和体液双重支配但以体液调节为主
+
+#+DOWNLOADED: screenshot @ 2021-02-20 15:46:51
+[[file:../Attachment/Skeleton/2021-02-20_15-46-51_screenshot.png]]
+
+****** 神经调节
+- 传出神经主要是迷走神经,切断迷走神经或注射阿托品阻断迷走神经的作用均可显著减少胰液分泌
+- 迷走神经的主要作用于胰腺的腺泡细胞,对小导管作用较弱,故分泌特点是水和碳酸氢盐含量很少,而酶的含量却很丰富
+****** 体液调节
+******* 促胰液素
+- 盐酸为最强的刺激因素,其次为蛋白质分解产物,糖类几乎没有刺激作用,引起其释放的pH在4.5以下.迷走神经兴奋不引起促胰液素释放
+- 主要作用于胰腺小导管上皮细胞,使其分泌大量的水和HCO3因而使胰液的分泌量大为增加,而酶的含量却很低
+******* 缩胆囊素
+- 促进胰液中各种酶的分泌,故也称,促胰酶素
+- 促进胆囊收缩,排出胆汁
+- 对胰组织有营养作用可以促进胰组织蛋白质和核糖核酸的合成
+- 促胰液素和缩胆囊素之间存在协同作用,即为一个激素加强另一个激素的作用
+
+**** 二、胆汁的分泌和排出
+:PROPERTIES:
+:NOTER_PAGE: 222
+:END:胆汁的性质,成分和作用
+
+***** 胆汁的性质和成分
+- 有色味苦,较稠.肝胆汁呈金黄色,透明清亮,呈弱碱性,胆囊胆汁因为碳酸氢根被吸收而成弱酸性
+- 除水外含有胆盐,卵磷脂,胆固醇和胆色素等有机物
+- 胆汁是唯一不含消化酶的消化液
+- 卵磷脂是胆固醇的的有效溶剂
+
+***** 胆汁的作用
+- 促进脂肪的消防:胆汁中的胆盐,卵磷脂和胆固醇等均可作为乳化剂,降低脂肪的表面张力,使之形成微滴分散在睡醒的肠液中,因而可增加胰脂肪酶的作用面积,促进脂肪的分解消化
+- 促进脂肪和脂溶性维生素的吸收
+   小肠绒毛膜表面有一层静水层,脂肪分解产物不易穿过静水层到达肠粘膜表面而被上皮细胞吸收肠腔中的脂肪分解产物
+- 中和胃酸及促进胆汁自身分泌
+  进入小肠的胆盐绝大部分由回肠黏膜吸收入血,通过门静脉回到肝脏再形成胆汁,这一过程称为胆盐的肠肝循环,返回到肝脏的胆盐有刺激肝胆汁分泌的作用,称为胆盐的利胆作用
+
+***** 胆汁的分泌调节
+
+****** 神经调节
+
+****** 体液调节
+
+******* 促胃液素
+
+******* 促胰液素
+
+******* 缩胆囊素
+
+******* 胆盐
+
+**** 三、小肠液的分泌
+:PROPERTIES:
+:NOTER_PAGE: 223
+:END:
+**** 四、小肠的运动
+:PROPERTIES:
+:NOTER_PAGE: 224
+:END:
+*** 第五节 肝脏的消化功能和其他生理作用
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+**** 一、肝脏的功能特点
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+**** 二、肝脏主要的生理功能
+
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+***** 分泌胆汁
+***** 在物质代谢中的功能
+****** 肝与糖代谢
+****** 肝与蛋白质代谢
+****** 肝与脂肪代谢
+****** 维生素代谢
+****** 激素代谢
+***** 肝脏的解毒功能
+****** 化学作用
+****** 分泌作用
+****** 蓄积作用
+****** 吞噬作用
+***** 肝脏的防御和免疫功能
+***** 肝脏的其他功能
+
+**** 三、肝脏功能的储备及肝脏的再生
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+*** 第六节 大肠的功能
+:PROPERTIES:
+:NOTER_PAGE: 227
+:END:
+**** 一、大肠液的分泌
+:PROPERTIES:
+:NOTER_PAGE: 227
+:END:
+**** 二、大肠的运动和排便
+:PROPERTIES:
+:NOTER_PAGE: 227
+:END:
+*** 第七节 吸收
+:PROPERTIES:
+:NOTER_PAGE: 228
+:END:
+**** 一、吸收的部位和途径
+:PROPERTIES:
+:NOTER_PAGE: 228
+:END:
+**** 二、小肠内主要物质的吸收
+:PROPERTIES:
+:NOTER_PAGE: 229
+:END:
+**** 三、大肠的吸收功能
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+**** 四、肠道微生态的概念及生理意义
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+** 第七章 能量代谢与体温I
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+*** 第一节 能量代谢
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+**** 一、机体能量的来源与利用
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+**** 二、能量代谢的测定
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+**** 三、影响能量代谢的因素
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+**** 四、基础代谢
+:PROPERTIES:
+:NOTER_PAGE: 242
+:END:
+*** 第二节 体温及其调节
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+**** 一、体温
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+**** 二、机体的产热反应与散热反应
+:PROPERTIES:
+:NOTER_PAGE: 246
+:END:
+**** 三、体温调节
+:PROPERTIES:
+:NOTER_PAGE: 249
+:END:
+**** 四、特殊环境温度下的体温调节
+:PROPERTIES:
+:NOTER_PAGE: 252
+:END:
+** 第八章 尿的生成和排出
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+*** 第一节 肾的功能解剖和肾血流量
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+**** 一、肾的功能解剖
+:PROPERTIES:
+:NOTER_PAGE: 253
+:END:
+**** 二、肾血流量的特点及其调节
+:PROPERTIES:
+:NOTER_PAGE: 257
+:END:
+*** 第二节 肾小球的滤过功能
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+**** 一、肾小球的滤过作用
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+**** 二、影响肾小球滤过的因素
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+*** 第三节 肾小管和集合管的物质转运功能
+:PROPERTIES:
+:NOTER_PAGE: 260
+:END:
+**** 一、肾小管和集合管中物质转运的方式
+:PROPERTIES:
+:NOTER_PAGE: 260
+:END:
+**** 二、肾小管和集合管中各种物质的重吸收与分泌
+:PROPERTIES:
+:NOTER_PAGE: 261
+:END:
+**** 三、影响肾小管和集合管重吸收与分泌的因素
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+*** 第四节 尿液的浓缩和稀释
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+**** 一、尿液的浓缩机制
+:PROPERTIES:
+:NOTER_PAGE: 268
+:END:
+**** 二、尿液的稀释机制
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+**** 三、影响尿液浓缩和稀释的因素
+:PROPERTIES:
+:NOTER_PAGE: 271
+:END:
+*** 第五节 尿生成的调节
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+**** —、神经调节
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+**** 二、体液调节
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+**** 三、尿生成调节的生理意义
+:PROPERTIES:
+:NOTER_PAGE: 275
+:END:
+*** 第六节 清除率
+:PROPERTIES:
+:NOTER_PAGE: 277
+:END:
+**** 一、清除率的概念及计算方法
+:PROPERTIES:
+:NOTER_PAGE: 277
+:END:
+**** 二、测定清除率的意义
+:PROPERTIES:
+:NOTER_PAGE: 278
+:END:
+*** 第七节 尿的排放
+:PROPERTIES:
+:NOTER_PAGE: 280
+:END:
+**** 一、输尿管的运动
+:PROPERTIES:
+:NOTER_PAGE: 280
+:END:
+**** 二、膀胱和尿道的神经支配
+:PROPERTIES:
+:NOTER_PAGE: 280
+:END:
+**** 三、排尿反射
+:PROPERTIES:
+:NOTER_PAGE: 281
+:END:
+**** 四、排尿异常
+:PROPERTIES:
+:NOTER_PAGE: 281
+:END:
+** 第九章 感觉器官的功能
+:PROPERTIES:
+:NOTER_PAGE: 283
+:END:
+*** 第一节 感觉概述
+:PROPERTIES:
+:NOTER_PAGE: 283
+:END:
+**** 一、感受器和感觉器官
+:PROPERTIES:
+:NOTER_PAGE: 283
+:END:
+**** 二、感受器的一般生理特性
+:PROPERTIES:
+:NOTER_PAGE: 283
+:END:
+**** 三、感觉通路中的信息编码和处理
+:PROPERTIES:
+:NOTER_PAGE: 286
+:END:
+**** 四、感觉系统的神经通路
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+*** 第二节 躯体和内脏感觉
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+**** 一、躯体感觉
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+**** 二、内脏感觉
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+*** 第三节 视觉
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+**** 一、眼的折光系统及其调节
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+**** 二、眼的感光换能系统
+:PROPERTIES:
+:NOTER_PAGE: 295
+:END:
+**** 三、视觉信息的处理及机制
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+**** 四、与视觉有关的几种生理现象
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+*** 第四节 听觉
+:PROPERTIES:
+:NOTER_PAGE: 306
+:END:
+**** 一、外耳和中耳的功能
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+**** 二、内耳耳蜗的功能
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+**** 三、听神经动作电位
+:PROPERTIES:
+:NOTER_PAGE: 313
+:END:
+**** 四、听觉传入通路和听皮层的听觉分析功能
+:PROPERTIES:
+:NOTER_PAGE: 313
+:END:
+*** 第五节 平衡感觉
+:PROPERTIES:
+:NOTER_PAGE: 313
+:END:
+**** 一、前庭器官的感受装置和适宜刺激
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+**** 二、前庭反应
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+**** 三、平衡感觉的中枢分析
+:PROPERTIES:
+:NOTER_PAGE: 317
+:END:
+*** 第六节 嗅觉和味觉
+:PROPERTIES:
+:NOTER_PAGE: 317
+:END:
+**** 一、嗅觉感受器和嗅觉的一般性质
+:PROPERTIES:
+:NOTER_PAGE: 317
+:END:
+**** 二、味觉感受器和味觉的一般性质
+:PROPERTIES:
+:NOTER_PAGE: 318
+:END:
+**** 三、嗅觉和味觉的中枢分析
+:PROPERTIES:
+:NOTER_PAGE: 319
+:END:
+** 第十章 神经系统的功能
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+*** 第一节 神经系统功能活动的基本原理
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+**** 一、神经元和神经胶质细胞
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+**** 二、突触传递
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+**** 三、神经递质和受体
+:PROPERTIES:
+:NOTER_PAGE: 332
+:END:
+**** 四、反射活动的基本规律
+:PROPERTIES:
+:NOTER_PAGE: 340
+:END:
+*** 第二节 神经系统的感觉分析功能
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+**** 一、中枢对躯体感觉的分析
+:PROPERTIES:
+:NOTER_PAGE: 345
+:END:
+**** 二、中枢对内脏感觉的分析
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+*** 第三节 神经系统对躯体运动的调控
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+**** 一、运动的中枢调控概述
+:PROPERTIES:
+:NOTER_PAGE: 350
+:END:
+**** 二、脊髓对躯体运动的调控作用
+:PROPERTIES:
+:NOTER_PAGE: 350
+:END:
+**** 三、脑干对肌紧张和姿势的调控
+:PROPERTIES:
+:NOTER_PAGE: 354
+:END:
+**** 四、基底神经节对躯体运动的调控
+:PROPERTIES:
+:NOTER_PAGE: 355
+:END:
+**** 五、小脑对躯体运动的调控
+:PROPERTIES:
+:NOTER_PAGE: 358
+:END:
+**** 六、大脑皮层对躯体运动的调控
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+*** 第四节 神经系统对内脏活动、本能行为和情绪的调节
+:PROPERTIES:
+:NOTER_PAGE: 362
+:END:
+**** ―、自主神经系统
+:PROPERTIES:
+:NOTER_PAGE: 362
+:END:
+**** 二、中枢对内脏活动的调节
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+**** 三、本能行为和情绪的神经调控
+:PROPERTIES:
+:NOTER_PAGE: 366
+:END:
+*** 第五节 脑电活动及睡眠与觉醒
+:PROPERTIES:
+:NOTER_PAGE: 369
+:END:
+**** —、脑电活动
+:PROPERTIES:
+:NOTER_PAGE: 369
+:END:
+**** 二、睡眠与觉醒
+:PROPERTIES:
+:NOTER_PAGE: 371
+:END:
+*** 第六节 脑的高级功能
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+**** 一、学习和记忆
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+**** 二、语言和其他认知功能
+:PROPERTIES:
+:NOTER_PAGE: 378
+:END:
+** 第十一章 内分泌
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+*** 第一节 内分泌与激素
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+**** —、内分泌与内分泌系统
+:PROPERTIES:
+:NOTER_PAGE: 381
+:END:
+**** 二、激素的化学性质
+:PROPERTIES:
+:NOTER_PAGE: 383
+:END:
+**** 三、激素的作用机制
+:PROPERTIES:
+:NOTER_PAGE: 385
+:END:
+**** 四、激素作用的一般特征
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+**** 五、激素分泌节律及其分泌的调控
+:PROPERTIES:
+:NOTER_PAGE: 389
+:END:
+*** 第二节 下丘脑-垂体及松果体内分泌
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+**** 一、下丘脑-腺垂体系统内分泌
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+**** 二、下丘脑-神经垂体内分泌
+:PROPERTIES:
+:NOTER_PAGE: 397
+:END:
+**** 三、松果体内分泌
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+*** 第三节 甲状腺内分泌
+:PROPERTIES:
+:NOTER_PAGE: 400
+:END:
+**** 一、甲状腺激素的合成与代谢
+:PROPERTIES:
+:NOTER_PAGE: 400
+:END:
+**** 二、甲状腺激素的生物作用
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+**** 三、甲状腺功能的调节
+:PROPERTIES:
+:NOTER_PAGE: 406
+:END:
+*** 第四节 甲状旁腺、维生素D与甲状腺C细胞内分泌
+:PROPERTIES:
+:NOTER_PAGE: 409
+:END:
+**** 一、甲状旁腺激素的生物作用与分泌调节
+:PROPERTIES:
+:NOTER_PAGE: 409
+:END:
+**** 二、维生素D的活化、作用与生成调节
+:PROPERTIES:
+:NOTER_PAGE: 411
+:END:
+**** 三、降钙素的生物作用与分泌调节
+:PROPERTIES:
+:NOTER_PAGE: 412
+:END:
+*** 第五节 胰岛内分泌
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+**** 一、胰岛素
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+**** 二、胰高血糖素
+:PROPERTIES:
+:NOTER_PAGE: 391
+:END:
+*** 第六节 肾上腺内分泌
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+**** 一、肾上腺皮质激素
+:PROPERTIES:
+:NOTER_PAGE: 419
+:END:
+**** 二、肾上腺髓质激素
+:PROPERTIES:
+:NOTER_PAGE: 422
+:END:
+**** 三、肾上腺髓质素
+:PROPERTIES:
+:NOTER_PAGE: 423
+:END:
+*** 第七节 组织激素及功能器官内分泌
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+**** 一、组织激素
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+**** 二、功能系统器官内分泌
+:PROPERTIES:
+:NOTER_PAGE: 427
+:END:
+** 第十二章 生殖
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+*** 第一节 男性生殖功能及其调节
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+**** 一、睾丸的功能
+:PROPERTIES:
+:NOTER_PAGE: 429
+:END:
+**** 二、睾丸功能的调节
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+*** 第二节 女性生殖功能及其调节
+:PROPERTIES:
+:NOTER_PAGE: 433
+:END:
+**** 一、卵巢的功能及其调节
+:PROPERTIES:
+:NOTER_PAGE: 433
+:END:
+**** 二、月经周期及调控
+:PROPERTIES:
+:NOTER_PAGE: 437
+:END:
+**** 二、卵巢功能的衰退
+:PROPERTIES:
+:NOTER_PAGE: 438
+:END:
+*** 第三节 妊娠
+:PROPERTIES:
+:NOTER_PAGE: 439
+:END:
+**** 一、受精和着床
+:PROPERTIES:
+:NOTER_PAGE: 440
+:END:
+**** 二、妊娠的维持
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+**** 三、分挽
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+*** 第四节 性生理与避孕
+:PROPERTIES:
+:NOTER_PAGE: 444
+:END:
+**** 一、性成熟
+:PROPERTIES:
+:NOTER_PAGE: 444
+:END:
+**** 二、性兴奋与性行为
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+**** 三、避孕
+:PROPERTIES:
+:NOTER_PAGE: 446
+:END:
+** 中英文名词对照索引
+:PROPERTIES:
+:NOTER_PAGE: 447
+:END:

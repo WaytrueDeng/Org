@@ -2,3 +2,89 @@
 
 * Medic
 - [[file:Orgall/组织学.org][组织学]]
+- [[file:Orgall/临床诊断.org][临床诊断]]
+
+* Retrospective Vision
+
+
+** 外科
+| 烧伤 | 2021-04-13 |
+|      |                     |
+
+** 影像诊断
+|循环|2021年04月14日|
+
+** 超声诊断
+| 超声浅表 | 2021-04-12 |2021-04-16|
+| 超声肝脏 | 2021-04-14 |
+** 临床诊断
+** 实验诊断
+| 概论             | 2021-04-12 |
+| 红细胞与血红蛋白 | 2021-04-12 |
+| 白细胞与白细胞分类计数      | 2021-04-15 |
+
+** 英语作文
+|2021-04-13|
+
+
+* English
+** 2021-04-12
+- nascent 新兴的
+- [[file:Orgall/EnglishWord/2020112517-veteran.org][veteran]] [[file:Orgall/EnglishWord/2020112310-versus.org][versus]] Rookie
+- scoop n. 勺子 v 用勺子挖
+- tremor 震动
+- ingrain 深陷,加深.grain
+- cable 有线电视,电缆
+- cash cow 摇钱树
+- [[file:Orgall/EnglishWord/2021041220-dwindle.org][dwindle]]
+- a [[file:Orgall/EnglishWord/2021041220-sliver.org][sliver]] of
+- pay through the nose
+- once-in-a-lifetime 一辈子一次
+*** sentence
+at a place where others balabla, B la bala
+*** 
+** 2021-04-18 Economist Bilibili
+- Mission statement 宗旨
+- stand out 杰出的,鹤立鸡群
+- dub 起外号,被称作. dubbed "China's YouTube"
+- Instead of 与其,没有. 介词短语打头,主谓宾在后面
+- aspire  aspiration 抱负
+- inspiration 灵感启发
+- figures 形象,数字
+- shoot up 上升
+- diversified 多样性的
+- Market capitalization 市值
+- Fold 折叠, -fold 倍数. ten-fold 十倍
+- clutter 杂乱的事
+- he goes that
+- put off 延期,推迟
+- the share of 份额
+- receipt 收据收条
+- has yet to = has not to
+- shortfall = loss
+- sale adj.打折,大减价
+- sales = revenue 收入
+- Revenue - Costs of goods sold = gross margin/profit
+- Net profit/loss 净利润
+- elusive 难以被查获,抓住的
+- nascent 新兴的,刚开始的
+- sanguine 乐观的
+- As 打头翻译成随着或者因为
+- substantially 实质上,大体上,充分的
+** 2021-04-19 Economist Growing briter
+- stack n.堆 摞 v 堆放
+- -clad 覆盖的 metal-clad 金属覆盖的. ironclad 无懈可击的
+- barn 谷仓
+- kaleidoscope 万花筒
+- flank 两侧的
+- aisle 走廊
+- walk down the aisle ,go down the aisle 结婚
+- in charge of 管理, in the charge of 被管理
+- whirr 嗡嗡声,whirl 旋转
+- lush 茂盛的,葱碎的
+- single-handedly 独立地
+- bonus
+- tout 标榜.兜售
+- courtesy n.好意,礼貌
+- a loaf of bread
+
