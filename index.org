@@ -8,20 +8,27 @@
 
 
 ** 外科
-| 烧伤 | 2021-04-13 |
-|      |                     |
+| 烧伤     | 2021-04-13 | 2021-04-20 |
+| 休克     | 2021-04-25 |            |
+| 微创技术 | 2021-04-27 |            |
 
 ** 影像诊断
-|循环|2021年04月14日|
+| 循环 | 2021-04-14 | 2021-04-21 |
+| 消化 | 2021-04-28 |            |
 
 ** 超声诊断
-| 超声浅表 | 2021-04-12 |2021-04-16|
-| 超声肝脏 | 2021-04-14 |
+| 超声浅表 | 2021-04-12 | 2021-04-16 |
+| 超声肝脏 | 2021-04-14 |            |
+| 超声心脏 | 2021-04-21 | 2021-04-24 |
+| 超声妇产 | 2021-04-25 |            |
 ** 临床诊断
 ** 实验诊断
-| 概论             | 2021-04-12 |
-| 红细胞与血红蛋白 | 2021-04-12 |
-| 白细胞与白细胞分类计数      | 2021-04-15 |
+| 概论                   | 2021-04-12 |
+| 红细胞与血红蛋白       | 2021-04-12 |
+| 白细胞与白细胞分类计数 | 2021-04-15 |
+| 贫血                   | 2021-04-22 |
+| 骨髓                   | 2021-04-29 |
+| 止凝血                 | 2021-05-06 |
 
 ** 英语作文
 |2021-04-13|
@@ -37,7 +44,7 @@
 - cable 有线电视,电缆
 - cash cow 摇钱树
 - [[file:Orgall/EnglishWord/2021041220-dwindle.org][dwindle]]
-- a [[file:Orgall/EnglishWord/2021041220-sliver.org][sliver]] of
+- a [[file:Orgall/EnglishWord/2021041220-sliver.org][sliver]] of 一小块
 - pay through the nose
 - once-in-a-lifetime 一辈子一次
 *** sentence
@@ -87,4 +94,47 @@ at a place where others balabla, B la bala
 - tout 标榜.兜售
 - courtesy n.好意,礼貌
 - a loaf of bread
+** 2021-04-20 Economist Time to unwire
+- fences  栅栏,围墙
+  - fend 抵抗 fend off
+  - fencing 击剑
+- feral 野生的 versus domestic 家养的
+- dingoes 澳洲野犬
+- stop from doing sth 停止做某事
+- prey 捕猎
+- pray
+- wrap 包裹打包
+  - wrap sth up
+  - wrap up 收尾
+    
+- collective 集合的
+- outstripping 超过,胜过
+  - outsmart 指在某方面超过了
+- a factor of ten 十倍
+  - factor 倍数
+
+- be intended to  倾向于
+- game 猎物
+- curb 限制
+- piecemeal
+- veterinary 兽医的
+- spare a from b 使a免受b
+- result in = lead to 导致
+- interference with 干扰
+- embrace 拥抱
+- crawl 趴下
+- perch 栖息地
+** 2021-04-21 Economist The future of getting from A to B
+- move about  移动
+- undisputed 毋庸置疑的
+- ecnomomy scale 规模经济
+- the likses of 像大众一样的公司
+- boast proudly have
+- it came to(prep), 当提到
+- nothing beat the education in our world for developing our society
+- Of the five only 2 在5个中仅两
+- Tesla is ahead of everyone by a country mile
+  - ahead of everyone by a country mile is Tesla
+- unsightly 不雅观的
+  
 
